@@ -88,6 +88,12 @@ _Illustration by Jolby from gettoworkbook_
       </td>
     </tr>
     <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Fri Apr 02</td>
+      <td style="text-align:left"><b>NYU Midterm Grades DUE</b>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left">10</td>
       <td style="text-align:left">Mon Apr 05</td>
       <td style="text-align:left">
@@ -119,8 +125,7 @@ _Illustration by Jolby from gettoworkbook_
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left">Fri Apr 17</td>
-      <td style="text-align:left"><b>NYU Midterm Grades DUE</b>
-      </td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
