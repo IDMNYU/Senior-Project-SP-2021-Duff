@@ -12,9 +12,9 @@
 
 ## Class
 
-![Announcement also pinned on slack](https://github.com/IDMNYU/Senior-Project-SP-2021-Duff/tree/f733c3a299af78aa29514d4bd2736819eb5319cd/.gitbook/assets/capstone-flyer-2020.jpg)
+![Announcement also pinned on slack](../.gitbook/assets/capstone-flyer-2020.jpg)
 
-![](https://github.com/IDMNYU/Senior-Project-SP-2021-Duff/tree/f733c3a299af78aa29514d4bd2736819eb5319cd/.gitbook/assets/office-of-global-awards-office-hour-banner_brooklyn-campus-1.jpg)
+![](../.gitbook/assets/office-of-global-awards-office-hour-banner_brooklyn-campus-1.jpg)
 
 * Guest: Kristofer G. Larsen, kristofor.larsen@nyu.edu, Assistant Director, Office of Global Awards
 * Class Discussion: [IMA/Games/IDM Career Fai**r!**](https://tisch.nyu.edu/itp/events/spring-2020/ima-games-idm-career-fair)

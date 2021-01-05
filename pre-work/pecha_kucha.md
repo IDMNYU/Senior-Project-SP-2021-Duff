@@ -1,5 +1,7 @@
 # Pecha Kucha presentation
 
+
+
 > **WHAT IS PECHA KUCHA?** \(source:[ https://www.pechakucha.com/about](https://www.pechakucha.com/about)\) PechaKucha \(Japanese for “chit chat”\) is the world’s fastest-growing storytelling platform, used by millions around the globe. 20 slides. 20 seconds of commentary per slide. That’s it. Simple. Engaging. Spurring authentic connections. Global innovators use the PechaKucha platform to create powerful, visually-compelling stories that move audiences in less than 7 minutes.
 
 On the first day of class, you will present a **pecha kucha \(20 slides x 20 seconds each, for a total of 6 minutes and 40 seconds\)**. The goal of your pecha kucha presentation is to share who you are, what inspires you, what kinds of work you have made over your course of study in IDM, inside and outside of the classroom, and what your brainstorming and ideas are for your senior project.
@@ -16,7 +18,7 @@ This is your opportunity to start the semester off with momentum and make a real
 4. **In the URL**, change the value of the delayms variable to 20000 \(i.e. delayms=**20000**\). This will make the slides advance every 20s.
 5. Add this updated URL and your name to this [google doc](https://docs.google.com/document/d/1RhjN0MG0Fkuu44ZMliKjLGWCdgJoYqq2s5ZlKdjogKQ/edit?usp=sharing) before the beginning of the first day of class.
 
-![](https://github.com/IDMNYU/Senior-Project-SP-2021-Duff/tree/f733c3a299af78aa29514d4bd2736819eb5319cd/.gitbook/assets/publish.png)
+![](../.gitbook/assets/publish.png)
 
 ## The content of your presentation should include the following:
 

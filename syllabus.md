@@ -2,8 +2,6 @@
 
 ![](https://engineering.nyu.edu/sites/default/files/2019-01/tandon_long_black.png)
 
-## THIS IS A DRAFT!!!
-
 ## DM-UY 4003-A Senior Project in Digital Media
 
 _**“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”**_  
@@ -14,16 +12,16 @@ from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p
 
 | PROFESSOR |  | COURSE INFO |  |
 | :--- | :--- | :--- | :--- |
-| **Name** | De Angela L. Duff | **Term & Year** | Spring 2020 |
+| **Name** | De Angela L. Duff | **Term & Year** | Spring 2021 |
 | **Email** | deangela.duff@nyu.edu | **Meeting Day** | Mondays |
-| **Phone** | 646 997 3758 | **Meeting Time** | 12:30-2:20pm |
-| **Office** | 370 Jay St. Rm 361 or Bobst Rm 1238 | **Location** | 370 Jay St. Rm 311 |
+| **Phone** | 646 997 3758 | **Meeting Time** | 2:00-3:50pm |
+| **Office** | Zoom | **Location** | Zoom |
 | **Office Hours** | after class or by appt. at [http://calendly.com/deangela](http://calendly.com/deangela) | **Credit Hrs** | 3 |
 
-**Course Website:** [https://deangela.gitbook.io/senior-project-sp20/](https://deangela.gitbook.io/senior-project-sp20/)  
+**Course Website:** [https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/](https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/)  
 The course website is the official source for all dates and assignments. This syllabus provides a general overview and guideline for the course. All dates and assignments may be subject to change at the discretion of the professor.
 
-**Course Communication:** [http://idmspsp20.slack.com](http://idmspsp20.slack.com)  
+**Course Communication:** [https://idmspsp2021.slack.com](https://idmspsp2021.slack.com/)  
 Slack will be our primary communication tool. Join with nyu.edu email address.
 
 This semester there are four different sections of senior project. Please be aware that you may be **switched into another section** depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. The four senior project faculty will collectively decide and inform specific students. Students should not seek to switch sections on their own. You will be notified first in person and subsequently by email for follow up instructions.

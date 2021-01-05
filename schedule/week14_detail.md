@@ -2,7 +2,7 @@
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
-### Reminders
+#### Reminders
 
 * The main slack channel is not just for me. It's for you, too. Free feel to share what has been helping you stay happy, healthy, or productive during this unprecedented time in our main slack channel. 
 
@@ -12,7 +12,7 @@
 * \(OPTIONAL\) Apply for some global awards \(Fulbright, Marshall, Rhodes, etc.\): [http://nyu.edu/scholarships](http://nyu.edu/scholarships). Remember your contact is Kristofor Larsen, kristofor.larsen@nyu.edu.
 * \(OPTIONAL\) Take advantage of [NYU Wasserman Center for Career Development](https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html?__s=pvit1odzgzycp3tif89s)'s virtual events, 30 min virtual career coaching appointments, 15min virtual drop-ins, etc.
 
-### **Deliverables**
+#### **Deliverables**
 
 * Check-in with your [accountability partner](../assignments/accountability_partner.md).
 * Read from "End" chapter of Do The Work by Steven Pressfield \(6 min\) and post your [response](../assignments/responses.md) to your the slack channel.

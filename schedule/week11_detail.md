@@ -2,13 +2,13 @@
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
-### Reminders
+#### Reminders
 
 * **IDM Showcase Submission of Your Senior Project is DUE \(Required\)**
 
   **by Fri, April 24 :** [**http://staging.morscad.com/idm/submission**](http://staging.morscad.com/idm/submission/)
 
-* You might consider signing up for this event on **\*\*Thu, April 23, 2020 1:30 PM – 2:30 PM CDT which is 2:30pm our time\[:** Careers in Design: Advice for COVID-19\*\*\]\([https://slack-redir.net/link?url=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fcareers-in-design-advice-for-covid-19-tickets-102805189088%3Fmc\_eid%3D9fb9ab79fb%26mc\_cid%3D85f55612f3](https://slack-redir.net/link?url=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fcareers-in-design-advice-for-covid-19-tickets-102805189088%3Fmc_eid%3D9fb9ab79fb%26mc_cid%3D85f55612f3)\)
+* You might consider signing up for this event on ****Thu, April 23, 2020 1:30 PM – 2:30 PM CDT which is 2:30pm our time[: **Careers in Design: Advice for COVID-19**](https://slack-redir.net/link?url=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fcareers-in-design-advice-for-covid-19-tickets-102805189088%3Fmc_eid%3D9fb9ab79fb%26mc_cid%3D85f55612f3)
 * The main slack channel is not just for me. It's for you, too. Free feel to share what has been helping you stay happy, healthy, or productive during this unprecedented time in our main slack channel. 
 
 **OPTIONAL**
@@ -17,7 +17,7 @@
 * \(OPTIONAL\) Apply for some global awards \(Fulbright, Marshall, Rhodes, etc.\): [http://nyu.edu/scholarships](http://nyu.edu/scholarships). Remember your contact is Kristofor Larsen, kristofor.larsen@nyu.edu.
 * \(OPTIONAL\) Take advantage of [NYU Wasserman Center for Career Development](https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html?__s=pvit1odzgzycp3tif89s)'s virtual events, 30 min virtual career coaching appointments, 15min virtual drop-ins, etc.
 
-### **Deliverables**
+#### **Deliverables**
 
 * Check-in with your [accountability partner](../assignments/accountability_partner.md).
 * Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../project_plan/) of your project as needed.

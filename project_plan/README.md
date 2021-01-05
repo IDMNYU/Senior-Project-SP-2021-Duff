@@ -1,6 +1,6 @@
 # Project Plan
 
-![Forget Perfect. Make Progress!](http://teaching.polishedsolid.com/images/gettoworkbook_forget_perfect.png)
+![Forget Perfect. Make Progress!](http://teaching.polishedsolid.com/images/gettoworkbook_forget_perfect.png) 
 
 _Illustration by Jolby from gettoworkbook_
 
@@ -235,4 +235,3 @@ Please remember that you and a classmate can work as a team. Only one presentati
     </tr>
   </tbody>
 </table>
-
