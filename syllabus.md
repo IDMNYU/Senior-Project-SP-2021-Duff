@@ -97,7 +97,7 @@ Students are expected to be on time for all individual meetings, critiques, proj
 
 * **Outside critic**
 
-  It is the responsibility of each senior to invite an outside critic to _at least_ one of their project critiques, demos, or presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. A one on one, documented meeting \(date, time, length, and typed notes\) with the outside critic can substitute for their presence at a project critique. Also, have the outside critic email me to confirm that they actually met with you. Document the feedback that you receive on your [process website](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/pre-work/website.md).
+  It is the responsibility of each senior to invite an outside critic to _at least_ one of their project critiques, demos, or presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. A one on one, documented meeting \(date, time, length, and typed notes\) with the outside critic can substitute for their presence at a project critique. Also, have the outside critic email me to confirm that they actually met with you. Document the feedback that you receive on your [process website](pre-work/website.md).
 
 This class will consist of
 
@@ -107,7 +107,7 @@ Individual meetings are not optional. They are important and useful. Sometimes t
 
 * **Group and class critiques**
 
-  Critiques \(AKA crits\) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the aural, visual, and conceptual impact of each existing idea. Have at least your [accountability partner](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/assignments/accountability_partner.md) or another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
+  Critiques \(AKA crits\) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the aural, visual, and conceptual impact of each existing idea. Have at least your [accountability partner](assignments/accountability_partner.md) or another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
 
 **Rules of the critique:**
 
@@ -165,7 +165,7 @@ Students will conduct **self assessments** as well as be evaluated by the profes
 
 * Per NYU policy, any excused absences need to be validated by Deanna Rayment, Coordinator of Student Advocacy and Compliance for NYU Tandon School of Engineering \(deanna.rayment@nyu.edu\), and have the professor notified
 * If an excused absence is required for a religious observance, students need to contact Student Affairs at the beginning of the semester for a request, and have the professor notified
-* Attendance is mandatory on [Midterm Demo and Critique](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/critiques-demos-presentations-and-exhibition/project_demo.md) and [IDM Student Showcase](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/critiques-demos-presentations-and-exhibition/idm_showcase.md).
+* Attendance is mandatory on [Midterm Demo and Critique](critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md) and [IDM Student Showcase](critiques-demos-presentations-and-exhibition/idm_showcase.md).
 * Missed individual meetings will not be rescheduled; Make every effort to swap your timeslot with another student. Otherwise, students will have to wait for their next assigned meeting time if you do not attend or swap your timeslot.
 * In the event a student has little or no progress to show, he/she is still required to attend class.
 * Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent \(1/2 a grade point \(e.g. A to an A-\)\) for each additional absence.
