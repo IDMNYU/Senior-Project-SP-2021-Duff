@@ -22,14 +22,14 @@ This is your opportunity to start the semester off with momentum and make a real
 
 _You can decide how to allocate your 20 slides to address the following. Please use this order and headings_:
 
-* **YOUR CREATIVE MANTRA AND/OR MANIFESTO**: Who are YOU? Show and discuss something interesting or informative about you that relates to your project ideas.
+* **YOUR CREATIVE MANTRA, MISSION, AND/OR MANIFESTO**: Write a creative mantra, a word or phrase to get you to work \(i.e. Just do it!\)
 * **INSPIRATION**: Who or what inspires you? List other artists, designers, creative technologists, and/or entrepreneur’s & their work that influences your work. Do you remember the course, ideation & prototyping? What are your **inputs**?
-* **YOUR PAST WORK THAT PROVIDES EVIDENCE THAT YOU CAN DEVELOP YOUR PROJECT**: Show examples of at least 3 to 7 examples of your past work inside and/or outside of the classroom that supports the direction of your project idea. What kinds of work you have made that provide evidence that you can develope  your project idea?
 * **MOTIVATION**: Who or what is the motivation behind your senior project focus? Why are you doing this project? What are you exploring or discovering here? What questions are you asking? Do you love your ideas? Are you willing to commit to this project? Are you willing to live, sleep, and eat with this project?
 * **THEME\(s\)/CONCEPT\(s\)**: What are your project's theme\(s\) or conceptual underpinnings? \(Think 1 to 3 hashtags.\)
 * **ELEVATOR PITCH**: What is your project's "elevator pitch"? Think phrase or 1 sentence maximum WITHOUT referring to a medium of delivery \(i.e. XR, UX, app, installation, etc\). What is your project about?
 * **THREE ACT STRUCTURE**: What is your project's 3-act structure? Reference the reading from _Do The Work_ by Steven Pressfield. If you have watched the watchmen tv series, it's 3-act structure could be: Who is hiding behind the masks and why?, understanding Angela's and her grandfather's nostalgia/trauma, and transferring Dr. Manhattan's power.
 * **TARGET AUDIENCE**: Who is this project for? Please note that everyone is not a valid answer. Target is the keyword here. Who cares? Who _will_ care? Who is your target audience? What do you want your target audience to experience when they interact with your project?
+* **YOUR PAST WORK THAT PROVIDES EVIDENCE THAT YOU CAN DEVELOP YOUR PROJECT**: Show examples of at least 3 to 7 examples of your past work inside and/or outside of the classroom that supports the direction of your project idea. What kinds of work you have made that provide evidence that you can develope  your project idea?
 * **\(OPTIONAL\) BRAINSTORMING DOCUMENTATION**: 
   * [Card Sorting](../brainstorming/card_sorting.md)
   * [Project Mind Map](http://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811) 

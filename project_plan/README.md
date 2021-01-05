@@ -1,6 +1,6 @@
 # Project Plan
 
-![Forget Perfect. Make Progress!](http://teaching.polishedsolid.com/images/gettoworkbook_forget_perfect.png) 
+![Forget Perfect. Make Progress!](http://teaching.polishedsolid.com/images/gettoworkbook_forget_perfect.png)
 
 _Illustration by Jolby from gettoworkbook_
 
@@ -10,7 +10,7 @@ This project plan will be constantly iterated over the course of the semester. I
 
 Please remember that you and a classmate can work as a team. Only one presentation and proposal is to be submitted per team.
 
-* Please name your file as lastname\_senior\_sp20\_projectplandraft\#\_date.pdf \(i.e. duff\_senior\_sp20\_projectplan1\_2016jan15.pdf\). If a team, put both of your last names \(i.e. duff\_and\_dubois\)
+* Please name your file as lastname\_senior\_sp21\_projectplandraft\#\_date.pdf \(i.e. duff\_senior\_sp21\_projectplan1\_2021jan15.pdf\). If a team, please put both of your last names \(i.e. duff\_and\_dubois\) in the filename.
 * Please note that any significant changes to your project will require the submission of a revised project plan.
 * Upload drafts to a folder labeled _project plan_ in your project documentation folder for your [end of semester deliverables](../end_of_semester_deliverables/).
 
@@ -25,7 +25,7 @@ Please remember that you and a classmate can work as a team. Only one presentati
           <li>Project Title</li>
           <li>Senior Project in Digital Media</li>
           <li>IDM / NYU</li>
-          <li>Spring 2020</li>
+          <li>Spring 2021</li>
           <li>Duff</li>
         </ul>
       </th>
@@ -93,7 +93,7 @@ Please remember that you and a classmate can work as a team. Only one presentati
       <td style="text-align:left">
         <ul>
           <li>Who is this project for? Please note that everyone is not a valid answer.
-            Target is the key word here.</li>
+            Target is the keyword here.</li>
           <li>Who cares? Who will care? Who is your target audience?</li>
           <li>What do you want your target audience to experience when they interact
             with your project?</li>
@@ -105,8 +105,8 @@ Please remember that you and a classmate can work as a team. Only one presentati
       </td>
       <td style="text-align:left">
         <ul>
-          <li>Compare and contast similar projects by other artists, designers, or creative
-            technologists to yours.</li>
+          <li>Compare and contrast similar projects by other artists, designers, or
+            creative technologists to yours.</li>
           <li>Who or what are your competitors? How will it be positioned (branding)
             and differentiated (market and competitors or like works)?</li>
         </ul>
@@ -119,14 +119,14 @@ Please remember that you and a classmate can work as a team. Only one presentati
         <p>Including, but not limited to:</p>
         <ul>
           <li>List of Collaborators, Participants, Advisors, and &quot;Outside&quot;
-            critic (People and their roles).
+            critics (People and their roles).
             <ul>
               <li>Be Specific. First &amp; Last Names and URLs if available</li>
             </ul>
           </li>
           <li>Materials &amp; Vendors List
             <ul>
-              <li>Include URLS or physical addresses if necessary</li>
+              <li>Include URLs or physical addresses if necessary</li>
             </ul>
           </li>
           <li>Technical requirements
@@ -157,7 +157,7 @@ Please remember that you and a classmate can work as a team. Only one presentati
             as a focus. If you have another system, you must share it with the instructor.</li>
           <li>All actionable tasks should start with a verb (i.e. write, call, email,
             build, code, collect, etc.), and can be completed in a day.</li>
-          <li>Also be specific with your tasks. (For example, &quot;take 20 photographs&quot;
+          <li>Also, be specific with your tasks. (For example, &quot;take 20 photographs&quot;
             is more explicit than &quot;take photographs&quot;. &quot;Take 5 photos
             of tigers, 5 photos of bears, 5 photos of lizards, and 5 photos of cats&quot;
             is more explicit than &quot;take 20 photographs&quot;.)</li>
@@ -176,8 +176,8 @@ Please remember that you and a classmate can work as a team. Only one presentati
               exhibitions, talks, tech research, material research, visual research,
               collection, interviews, observation, etc.</p>
         <ul>
-          <li>You should decide what kinds of research / reference / influences is most
-            appropriate for your project.</li>
+          <li>You should decide what kinds of research / reference / influences are
+            most appropriate for your project.</li>
         </ul>
       </td>
     </tr>
@@ -187,7 +187,7 @@ Please remember that you and a classmate can work as a team. Only one presentati
       <td style="text-align:left">
         <p>Including, but not limited to, design sketches, process maps, drawings,
           wireframes / schematics, storyboards, comps, mood boards, concept boards,
-          screen shots, videos, diagrams, images</p>
+          screenshots, videos, diagrams, images</p>
         <ul>
           <li>You should decide the most appropriate medium of delivery and which processes
             are most appropriate for your project.</li>
@@ -235,3 +235,4 @@ Please remember that you and a classmate can work as a team. Only one presentati
     </tr>
   </tbody>
 </table>
+
