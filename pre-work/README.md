@@ -1,14 +1,14 @@
-# Pre-work
+# Pre-work - THIS IS A DRAFT! NOT FINAL!
 
-![Start at the beginning](http://teaching.polishedsolid.com/images/gettoworkbook_start_at_the_beginning.png) 
+![Start at the beginning](http://teaching.polishedsolid.com/images/gettoworkbook_start_at_the_beginning.png)
 
 _Illustration by Jolby from gettoworkbook_
 
-* [Join our slack channel](https://join.slack.com/t/idmspsp20/signup) with your nyu.edu email address
+* [Join our slack channel](https://idmspsp2021.slack.com/) with your nyu.edu email address.
 * Read the [syllabus](../syllabus.md) and be prepared to discuss and ask questions on first day of class.  
 * Please direct message deangela on slack if you find any broken links or typos in the syllabus.
 * Populate a calendar \(google, iCal, or non-digital\) with due dates for this class, even though dates may change.
-* Create a google drive folder labeled "Senior Project SP20 your first and last name" and share with deangela.duff@nyu.edu \(i.e. Senior Project SP20 De Angela Duff\).
+* Create a google drive folder labeled "Senior Project SP21 your first and last name" and share with deangela.duff@nyu.edu \(i.e. Senior Project SP21 De Angela Duff\).
 * Set up [dedicated process website](website.md) for senior project.
 * Please add your name and the URL of your process website to this [shared google doc](https://docs.google.com/document/d/1tCl_rZb0OH85Z7vJsOvBm2n4mHT7xS9MQHRWxix_l6M/edit?usp=sharing).
 * Before beginning to prep for your [pecha kucha presentation](pecha_kucha.md), read the following chapters in _Do The Work_ by Steven Pressfield. \(There is a link to a pdf version in our slack channel.\) 
