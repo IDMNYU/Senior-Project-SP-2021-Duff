@@ -42,19 +42,24 @@ _Illustration by Jolby from gettoworkbook_
     <tr>
       <td style="text-align:left">3</td>
       <td style="text-align:left">Thu Feb 18</td>
-      <td style="text-align:left"><b>Legislative Day - Classes will meet according to a Monday schedule.</b>
+      <td style="text-align:left">
+        <p><b>Legislative Day - Classes will meet according to a Monday schedule.</b>
+        </p>
+        <p>Guests:</p>
+        <p>Kristofer G. Larsen, Assistant Director, Office of Global Awards / Research
+          and design / Resources and Milestones</p>
+        <p>IDM Alum?</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">4</td>
       <td style="text-align:left">Mon Feb 22</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">3 Student Prototype Presentations</td>
     </tr>
     <tr>
       <td style="text-align:left">5</td>
       <td style="text-align:left">Mon Mar 01</td>
-      <td style="text-align:left">Guest: Kristofer G. Larsen, Assistant Director, Office of Global Awards
-        / Research and design / Resources and Milestones</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">6</td>
