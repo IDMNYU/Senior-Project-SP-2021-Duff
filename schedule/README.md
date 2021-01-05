@@ -54,17 +54,17 @@ _Illustration by Jolby from gettoworkbook_
     <tr>
       <td style="text-align:left">4</td>
       <td style="text-align:left">Mon Feb 22</td>
-      <td style="text-align:left">3 Student Prototype Presentations</td>
+      <td style="text-align:left">5 Student Presentations</td>
     </tr>
     <tr>
       <td style="text-align:left">5</td>
       <td style="text-align:left">Mon Mar 01</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">5 Student Presentations</td>
     </tr>
     <tr>
       <td style="text-align:left">6</td>
       <td style="text-align:left">Mon Mar 08</td>
-      <td style="text-align:left">Project plan presentation</td>
+      <td style="text-align:left">5 Student Presentations</td>
     </tr>
     <tr>
       <td style="text-align:left">7</td>
