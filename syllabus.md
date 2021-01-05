@@ -1,6 +1,8 @@
-# Syllabus
+# Syllabus - THIS IS A DRAFT! NOT FINAL
 
 ![](https://engineering.nyu.edu/sites/default/files/2019-01/tandon_long_black.png)
+
+## THIS IS A DRAFT!!!
 
 ## DM-UY 4003-A Senior Project in Digital Media
 
@@ -264,8 +266,8 @@ Title IX makes it clear that violence and harassment based on sex and gender are
 
 ### Senior Project Funding
 
-Students can get up to $100 in materials from IDM for their senior project. However, you can NOT get reimbursed for purchases. Elton Kwok, IDM's Tech Director, will need to order the materials for you. So it will need to be something you can purchase online from Amazon, Adafruit, etc.   
-  
+Students can get up to $100 in materials from IDM for their senior project. However, you can NOT get reimbursed for purchases. Elton Kwok, IDM's Tech Director, will need to order the materials for you. So it will need to be something you can purchase online from Amazon, Adafruit, etc.
+
 All you need to do is email Elton a link with a brief explanation of what you need and why, and cc me as your senior project faculty member. Before you email Elton, I will need to approve the expenses, however. Please direct message me the links first via slack.
 
 ### [Recommended Resources](recommended_resources.md)
