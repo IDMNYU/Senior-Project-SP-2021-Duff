@@ -18,12 +18,12 @@ _Illustration by Jolby from gettoworkbook_
     <tr>
       <td style="text-align:left">1</td>
       <td style="text-align:left">Mon Feb 01</td>
-      <td style="text-align:left">Syllabus / Pecha kucha presentations</td>
+      <td style="text-align:left">Syllabus / 9 Pecha kucha presentations</td>
     </tr>
     <tr>
       <td style="text-align:left">2</td>
       <td style="text-align:left">Mon Feb 08</td>
-      <td style="text-align:left">Pecha kucha presentation revisions (if applicable)</td>
+      <td style="text-align:left">9 Pecha kucha presentations</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
