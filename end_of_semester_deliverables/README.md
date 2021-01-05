@@ -2,8 +2,8 @@
 
 At the beginning of the semester, create a google drive folder labeled "Senior Project SP20 your first and last name" \(i.e. Senior Project SP20 De Angela Duff\) and share with deangela.duff@nyu.edu.
 
-Over the course of the semester, you should upload the corresponding files and folders.  
-  
+Over the course of the semester, you should upload the corresponding files and folders.
+
 NEW:
 
 * [Process](pdf_or_book.md) pdf
@@ -17,6 +17,4 @@ OLD: You should already have the following. Just drag and drop in the folder if 
 * [Midterm Self-assessment](midterm_self_assessment.md) pdf
 * [Pecha Kucha presentation](../pre-work/pecha_kucha.md) exported as a pdf
 * [Project Plan](../project_plan/) presentation exported as a pdf
-
-
 

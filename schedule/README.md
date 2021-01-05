@@ -1,6 +1,6 @@
-# Schedule
+# Schedule - DRAFT! NOT FINAL
 
-![Big Things Happen One Day At A Time](http://teaching.polishedsolid.com/images/gettoworkbook_big_things.png) 
+![Big Things Happen One Day At A Time](http://teaching.polishedsolid.com/images/gettoworkbook_big_things.png)
 
 _Illustration by Jolby from gettoworkbook_
 
@@ -87,10 +87,10 @@ _Illustration by Jolby from gettoworkbook_
     </tr>
     <tr>
       <td style="text-align:left">8</td>
-      <td style="text-align:left"><a href="week8_detail.md">Mon </a><a href="week8_detail.md">Mar 30</a>
+      <td style="text-align:left"><a href="week8_detail.md">Mon</a>  <a href="week8_detail.md">Mar 30</a>
       </td>
       <td style="text-align:left">
-        <p>&lt;b&gt;&lt;/b&gt;<a href="../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md"><b>Midterm Demo and Critique</b></a><b> </b>
+        <p>&lt;b&gt;&lt;/b&gt;<a href="../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md"><b>Midterm Demo and Critique</b></a>
         </p>
         <p>Will be held via Zoom</p>
       </td>
@@ -100,7 +100,7 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left"><a href="week9_detail.md">Mon Apr 6</a>
       </td>
       <td style="text-align:left">
-        <p>&lt;b&gt;&lt;/b&gt;<a href="../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md"><b>Midterm Demo and Critique</b></a><b> continued </b>
+        <p>&lt;b&gt;&lt;/b&gt;<a href="../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md"><b>Midterm Demo and Critique</b></a>  <b>continued</b>
         </p>
         <p>Will be held via Zoom</p>
       </td>
@@ -212,3 +212,4 @@ _Illustration by Jolby from gettoworkbook_
     </tr>
   </tbody>
 </table>
+

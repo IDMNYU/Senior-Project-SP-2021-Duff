@@ -1,6 +1,6 @@
-# Pre-work
+# Pre-work - THIS IS A DRAFT! NOT FINAL!
 
-![Start at the beginning](http://teaching.polishedsolid.com/images/gettoworkbook_start_at_the_beginning.png) 
+![Start at the beginning](http://teaching.polishedsolid.com/images/gettoworkbook_start_at_the_beginning.png)
 
 _Illustration by Jolby from gettoworkbook_
 

@@ -1,6 +1,6 @@
 # Personal Kanban
 
-![Everyone Starts at Zero](http://teaching.polishedsolid.com/images/gettoworkbook_something.png) 
+![Everyone Starts at Zero](http://teaching.polishedsolid.com/images/gettoworkbook_something.png)
 
 _Illustration by Jolby from gettoworkbook_
 

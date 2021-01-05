@@ -12,7 +12,7 @@
 * **Please look at the project plans and prototypes of the students in your breakout group BEFORE class.** If everyone does this, you can spend less time talking and showing your project and more time getting feedback on your project.
 * Also if you have been assigned a timekeeper, chat moderator, or have been asked to screenshot the chat and you are HIGHLY uncomfortable in doing so, please let me know ASAP. However, I want all students to participate actively during our midterm project demos.
 
-**Midterm Project Demo** 
+**Midterm Project Demo**
 
 * Think of this as a show and tell.
 * Be prepared to deliver an elevator pitch of your project verbally. 
@@ -38,9 +38,9 @@
 * Every student should have 14 min total to be fair. 
 * Each student would present for up to 5 min and have the remaining time for feedback for a total of 14 min.
 
-### Document your feedback ASAP 
+## Document your feedback ASAP
 
-#### preferably by the following day at the latest if at all possible
+### preferably by the following day at the latest if at all possible
 
 * Always document any feedback you receive on your [process website](../pre-work/website.md) after any critique. The midterm project demo is no different. 
   * This critique feedback post should include images of the current status of your project \(prototype\(s\)\), a description of your project progress as it currently stands, and a discussion of the feedback you received from the critique.
@@ -63,7 +63,7 @@
 * What are ways that the project can be improved?
 * What additional references, resources, projects, and/or links would be useful for this project?
 
-### Invite guests
+## Invite guests
 
 It is the responsibility of each senior to invite an outside critic to _at least_ one of their project critiques, demos, or presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. If you are inviting an outside critic, please email me their name, title, company or org, and their email so I can send them a google calendar invite.
 

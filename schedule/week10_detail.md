@@ -2,7 +2,7 @@
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
-#### Reminders
+### Reminders
 
 * If you have not done so already, please schedule your **Midterm One On One Review by or before Thu April 15.** For those of you who already have, thank you.
   * Will be conducted via Zoom
@@ -18,7 +18,7 @@
 * \(OPTIONAL\) Apply for some global awards \(Fulbright, Marshall, Rhodes, etc.\): [http://nyu.edu/scholarships](http://nyu.edu/scholarships). Remember your contact is Kristofor Larsen, kristofor.larsen@nyu.edu.
 * \(OPTIONAL\) Take advantage of [NYU Wasserman Center for Career Development](https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html?__s=pvit1odzgzycp3tif89s)'s virtual events, 30 min virtual career coaching appointments, 15min virtual drop-ins, etc.
 
-#### **Deliverables**
+### **Deliverables**
 
 * Make sure you continue to check-in with your [accountability partner](../assignments/accountability_partner.md) and document it on the [process website](../pre-work/website.md).
 * Read from "Now We're Rolling" in the 1st "Middle" chapter up until the 2nd "Middle" chapter of Do The Work by Steven Pressfield and post your [response](../assignments/responses.md) to our main slack channel.\(6 min\)
