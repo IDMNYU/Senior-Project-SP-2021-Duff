@@ -11,6 +11,6 @@
 ## Class
 
 * Check-in
-* [Project Presentations](../critiques-demos-presentations-and-exhibition/project-presentation.md)
+* [Project Presentations](../critiques-demos-presentations-and-exhibition/project-presentation.md) continued
 * Check-out
 
