@@ -6,6 +6,14 @@ description: Systems & Tools
 
 ![Big Things Happen One Day At A Time llustration by Jolby from gettoworkbook](../.gitbook/assets/gettoworkbook_big-things-happen-one-day-at-a-time.jpg)
 
+## _Time Management_
+
+**It is imperative that you keep an analog or digital calendar. I actually keep both.**
+
+\_\_
+
+## _Project Management_
+
 ## _Recommended Planners and Journals_
 
 _The most highly recommended planner or journal by students is the_ [**Bullet Journal**](https://bulletjournal.com/)**.** It's a system. You only need to use a pen and paper or digital tablet to engage. In other words, there's no journal to buy.
