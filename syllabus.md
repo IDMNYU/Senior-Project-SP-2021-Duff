@@ -243,9 +243,9 @@ NYU offers many health and wellness services and resources. Take advantage of th
 
 If you are a student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found at [http://www.nyu.edu/csd](http://www.nyu.edu/csd). The Moses Center is located at [726 Broadway](https://www.google.com/maps?q=726+Broadway&entry=gmail&source=g) on the 2nd floor.
 
-## Diversity and Inclusion
+## NYU Tandon's Equity & Inclusion Statement
 
-The TCS Department is dedicated to the university's goals for diversity, equity, and inclusion. NYU is committed to building a culture that respects and embraces diversity, inclusion, and equity, believing that these values – in all their facets – are, as President Andrew Hamilton said, “…not only important to cherish for their own sake, but because they are also vital for advancing knowledge, sparking innovation, and creating sustainable communities. They should be indispensable elements of an NYU education on all of our campuses. A diverse population encounters and appreciates all perspectives of an issue with a wealth of different approaches to confront it. The result is a higher quality of debate, and a more excellent and advanced academic enterprise.”
+NYU Tandon values an inclusive and equitable environment for all our students. I hope to foster a sense of community in this class and consider it a place where individuals of all backgrounds, beliefs, ethnicities, national origins, gender identities, sexual orientations, religious and political affiliations, and abilities will be treated with respect. It is my intent that all students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength, and benefit. If this standard is not being upheld, please feel free to speak with me.
 
 ## Title IX
 
