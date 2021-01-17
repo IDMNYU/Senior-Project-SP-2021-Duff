@@ -4,7 +4,7 @@ description: Systems & Tools
 
 # Time & Project Management
 
-![Big Things Happen One Day At A Time llustration by Jolby from gettoworkbook](../.gitbook/assets/gettoworkbook_big-things-happen-one-day-at-a-time%20%282%29.jpg)
+![Big Things Happen One Day At A Time llustration by Jolby from gettoworkbook](../.gitbook/assets/gettoworkbook_big-things-happen-one-day-at-a-time.jpg)
 
 ## _Recommended Planners and Journals_
 

@@ -1,5 +1,7 @@
 # Project Presentation
 
+![Less Can Be More Illustration by Jolby from the gettoworkbook](../.gitbook/assets/gettoworkbook_less-can-be-more.jpg)
+
 ## Focus on Showing & Telling, as opposed to just Telling
 
 * Despite giving an accompanying presentation with or without slides, your actual project should be the primary focus of any project presentation.
