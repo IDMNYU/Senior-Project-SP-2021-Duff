@@ -35,7 +35,6 @@
 * [Critiques: Demos, Presentations & Exhibition:](critiques-demos-presentations-and-exhibition/README.md)
   * [Project Demos](critiques-demos-presentations-and-exhibition/project_demo.md)
   * [Midterm Project Demo](critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md)
-  * [Project Plan Presentation](critiques-demos-presentations-and-exhibition/project_plan_presentation.md)
   * [IDM Showcase](critiques-demos-presentations-and-exhibition/idm_showcase.md)
 * [End of Semester Deliverables](end_of_semester_deliverables/README.md)
   * [Process pdf](end_of_semester_deliverables/pdf_or_book.md)
