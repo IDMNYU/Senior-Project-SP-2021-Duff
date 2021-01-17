@@ -1,6 +1,6 @@
 # Project Demos
 
-![Keep Going!](http://teaching.polishedsolid.com/images/gettoworkbook_keep_going.png) _Illustration by Jolby from gettoworkbook_
+![Keep Going Illustration by Jolby from Gettoworkbook](../.gitbook/assets/gettoworkbook-keep-going.png)
 
 Project Demos will be held on designated Mondays, and will consist of the professor, ALL students, and outside critics, at times.
 
