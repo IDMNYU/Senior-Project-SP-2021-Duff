@@ -24,7 +24,7 @@
 * [Project Plan](project_plan/README.md)
   * [Project Versions](project_plan/project_versions.md)
 * [Assignments:](assignments/README.md)
-  * [Accountability Partner](assignments/accountability_partner.md)
+  * [Accountability Team](assignments/accountability_partner.md)
   * [Course Evaluation](assignments/course_evaluation.md)
   * [Personal Kanban](assignments/personal_kanban.md)
   * [Responses](assignments/responses.md)

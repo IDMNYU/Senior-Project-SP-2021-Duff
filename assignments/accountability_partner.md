@@ -1,4 +1,4 @@
-# Accountability Partner
+# Accountability Team
 
 **Responsibility of Accountability Partners**
 
@@ -19,8 +19,4 @@
 * Provide moral support and encouragement
 
 **Accountability Partners:**
-
-
-
-
 
