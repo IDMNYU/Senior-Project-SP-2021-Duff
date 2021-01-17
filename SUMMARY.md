@@ -26,7 +26,7 @@
 * [Assignments:](assignments/README.md)
   * [Accountability Team](assignments/accountability_partner.md)
   * [Course Evaluation](assignments/course_evaluation.md)
-  * [Planner or Journal](assignments/personal_kanban.md)
+  * [Time & Project Management](assignments/personal_kanban.md)
   * [Responses](assignments/responses.md)
 * [Brainstorming:](brainstorming/README.md)
   * [Free Writing, Word Lists & Mind Maps](brainstorming/free-writing-word-lists-and-mind-maps.md)

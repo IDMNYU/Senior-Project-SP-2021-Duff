@@ -1,4 +1,8 @@
-# Planner or Journal
+---
+description: Systems & Tools
+---
+
+# Time & Project Management
 
 ![Everyone Starts at Zero](http://teaching.polishedsolid.com/images/gettoworkbook_something.png)
 
