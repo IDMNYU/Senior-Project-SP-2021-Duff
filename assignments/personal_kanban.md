@@ -63,8 +63,6 @@ I personally use an un-dated digital version of the ink and volt planner. I've g
 * [Unbound Planner](https://unboundplanner.com/collections/frontpage) _\(physical or digital\)_
 * [The Productivity Planner](https://www.intelligentchange.com/products/the-productivity-planner)
 
-
-
 ## Other Time Management & Productivity Resources
 
 _Tools_
