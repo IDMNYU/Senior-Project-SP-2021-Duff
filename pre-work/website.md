@@ -1,12 +1,12 @@
 # Process Website
 
-Please add your name and the URL of your process website to this [shared google doc](https://docs.google.com/document/d/1Y3DCwp7kZoMx-zMVO6IMVDuD9AUpfTLV2gx7sPXTd7U/edit).
+Please add your name and the URL of your process website to this [shared google doc](https://docs.google.com/document/d/1tCl_rZb0OH85Z7vJsOvBm2n4mHT7xS9MQHRWxix_l6M/edit?usp=sharing).
 
 You should have a **dedicated**, senior project website to document your **daily** and/or **weekly** process and progress of your senior project. Students are expected to share their process and progress with others using their "process" website.
 
 * Ideally under your own domain name with a folder named after your project. See Spencer's link below under "Example Process Websites". 
   * I recommend [Dreamhost](http://dreamhost.com) or [Siteground](http://siteground.com) for purchasing a domain and web hosting.
-* Second best is hosting on [http://wp.nyu.edu](http://wp.nyu.edu).
+* Second best is hosting on [http://wp.nyu.edu](http://wp.nyu.edu)
 
 ## What your senior project process website should contain?
 
