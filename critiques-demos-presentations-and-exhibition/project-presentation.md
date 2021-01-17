@@ -2,6 +2,12 @@
 
 ![Less Can Be More Illustration by Jolby from the gettoworkbook](../.gitbook/assets/gettoworkbook_less-can-be-more.jpg)
 
+## Presentation Resources
+
+* [Speaking.io](http://speaking.io)
+* [Advice on Public Speaking from Zach Lieberman](https://medium.com/@zachlieberman/advice-on-public-talks-a984876388c2)
+* [Jer Thorp, Three things I’ve learned from 18 years of public speaking](https://medium.com/@blprnt/the-three-things-i-learned-from-eighteen-years-of-public-speaking-875f01178902) 
+
 ## Focus on Showing & Telling, as opposed to just Telling
 
 * Despite giving an accompanying presentation with or without slides, your actual project should be the primary focus of any project presentation.
