@@ -9,7 +9,7 @@
 ## Class
 
 * Class discussion of reading and [letters from a previous cohort](https://drive.google.com/open?id=1Fr1cw72xTrvwSBTM6Bh9OU2XepJ1YNOk)
-* Speed Networking and Table Discussions
-* Select [accountability partners](../assignments/accountability_partner.md)
+* Speed networking and table discussions to determine accountability teams.
+*  [Accountability team](../assignments/accountability_partner.md) assigned. Get to know your accountability team.
 * Individual Meetings
 
