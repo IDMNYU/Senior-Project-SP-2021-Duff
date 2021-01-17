@@ -1,6 +1,6 @@
 # Process Website
 
-![Progress &amp;gt; Perfection Illustration by Jolby from Gettoworkbook.](../.gitbook/assets/gettoworkbook_progress-perfection%20%281%29.jpg)
+![Progress &amp;gt; Perfection Illustration by Jolby from Get To Work Book.](../.gitbook/assets/gettoworkbook_progress-perfection%20%281%29.jpg)
 
 Please add your name and the URL of your process website to this [shared google doc](https://docs.google.com/document/d/1Y3DCwp7kZoMx-zMVO6IMVDuD9AUpfTLV2gx7sPXTd7U/edit).
 
