@@ -1,7 +1,5 @@
 # Project Plan
 
-![](../.gitbook/assets/gettoworkbook_forget-perfect-make-progress%20%281%29.jpg)
-
 ![Create More Than You Consume Illustration by Jolby from Gettoworkbook](../.gitbook/assets/gettoworkbook_create-more-than-you-consume.jpg)
 
 The project plan will consist of a presentation and a written proposal.

@@ -2,6 +2,8 @@
 
 _Co-opted from Dana Karwas' Pre-Thesis Syllabus_
 
+![There&apos;s Always Room For Good Ideas Illustration by Jolby from Gettoworkbook](../.gitbook/assets/gettoworkbook_-good-ideas.jpg)
+
 Card sorting is about creating associations between information. Please complete the following steps and take pictures of your cards at the end of each step. Post the results to your project website.
 
 **CARD SORTING:**
