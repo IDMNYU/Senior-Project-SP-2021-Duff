@@ -1,6 +1,6 @@
 # IDM Showcase
 
-![You Got This!](http://teaching.polishedsolid.com/images/gettoworkbook_got_this.png) _Illustration by Jolby from gettoworkbook_
+![You Got This! Illustration by Jolby from gettoworkbook](../.gitbook/assets/gettoworkbook_-you-got-this.jpg)
 
 **DETAILS: May 2020, Exact Date & Time TBD, 370 Jay Rm TBD** Attendance is MANDATORY for the entire duration of the showcase!!
 
