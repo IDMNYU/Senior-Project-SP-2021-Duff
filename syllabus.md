@@ -246,10 +246,11 @@ The TCS Department is dedicated to the university's goals for diversity, equity,
 
 Title IX makes it clear that violence and harassment based on sex and gender are Civil Rights offenses subject to the same kinds of accountability and the same kinds of support applied to offenses against other protected categories such as race, national origin, etc. If you or someone you know has been harassed or assaulted, you can find the appropriate resources here [https://www.nyu.edu/about/policies-guidelines-compliance/equal-opportunity/title9.html](https://www.nyu.edu/about/policies-guidelines-compliance/equal-opportunity/title9.html)
 
-## Required Readings
+## Required Media
 
-* [Do The Work!](http://www.amazon.com/Do-Work-Steven-Pressfield/dp/1936719010/ref=sr_1_2?s=books&ie=UTF8&qid=1312385234&sr=1-2) by Steven Pressfield
-* [Epicenter Design](https://basecamp.com/gettingreal/09.2-epicenter-design)
+* Book: [Do The Work!](http://www.amazon.com/Do-Work-Steven-Pressfield/dp/1936719010/ref=sr_1_2?s=books&ie=UTF8&qid=1312385234&sr=1-2) by Steven Pressfield
+* Podcast:  [Watchmen tv-series podcast](https://www.hbo.com/watchmen/watchmen-listen-to-official-podcast)
+* Article: [Epicenter Design](https://basecamp.com/gettingreal/09.2-epicenter-design)
 
 ## Required Tools
 
