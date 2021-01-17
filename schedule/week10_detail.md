@@ -10,8 +10,7 @@
   * \*\*\*\*[**Midterm Self Assessment**](../end_of_semester_deliverables/midterm_self_assessment.md) 
     * Please read all of the directions. 
     * Direct message as pdf to deangela on slack BEFORE your meeting.
-* The main slack channel is not just for me. It's for you, too. Free feel to share what has been helping you stay happy, healthy, or productive during this unprecedented time in our main slack channel. 
-
+* 
 **OPTIONAL**
 
 * **\(OPTIONAL, but HIGHLY recommended\)** Subscribe to the [**Words of Mouth Newsletter**](http://www.wordsofmouth.org/) for professional and creative development across design, the arts, tech, nonprofits, architecture, and urbanism.

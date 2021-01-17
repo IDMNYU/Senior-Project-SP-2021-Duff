@@ -5,9 +5,8 @@
 * Create and/or iterate [prototype\(s\)](../project_plan/) of your project.
 * [Document](../pre-work/website.md) your process and artifacts which includes the [prototype\(s\)](../project_plan/) of your project.
 
-## Class
+## [**Midterm Demo and Critique**](../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md)
 
-* \*\*\*\*[**Midterm Demo and Critique**](../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md) _\*\*_
 * Attendance is MANDATORY.
 
 ## Announcement **ONLY for students who presented today, March 22: Midterm One On One Review \(**Tue Mar 23-Thu Mar 25\)
