@@ -21,5 +21,5 @@
 
 ## **Announcements:**
 
-* **Students** can get free headshots from the [NYU Photo Bureau](https://www.nyu.edu/employees/resources-and-services/media-and-communications/photo-services/in-studio-headshots.html). I highly recommend that you take advantage of it for your portfolio website and LinkedIn profile. It's a very popular service. You just need to book it \(sometimes weeks\) in advance. Obviously, COVID-19 may affect their availability this semester. 
+* \*\*\*\*
 
