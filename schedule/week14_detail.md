@@ -25,7 +25,6 @@
 * Review Events on [Master Schedule](./)
 * Discussion:
   * [Course Evaluation](../assignments/course_evaluation.md) Check-in 
-  * LinkedIn Training and Catt Small Advice under Career [Resources](../recommended_resources.md)
   * "End" chapter of Do The Work by Steven Pressfield \(6 min\). 
 * 10min Break
   * Complete [Course Evaluation](../assignments/course_evaluation.md) if you haven't done so. 
