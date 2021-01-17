@@ -34,6 +34,7 @@
   * [Card Sorting](brainstorming/card_sorting.md)
   * [Storytelling Exercise](brainstorming/storytelling_exercise.md)
 * [Critiques: Demos, Presentations & Exhibition:](critiques-demos-presentations-and-exhibition/README.md)
+  * [Project Presentation](critiques-demos-presentations-and-exhibition/project-presentation.md)
   * [Project Demos](critiques-demos-presentations-and-exhibition/project_demo.md)
   * [Midterm Project Demo](critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md)
   * [IDM Showcase](critiques-demos-presentations-and-exhibition/idm_showcase.md)
