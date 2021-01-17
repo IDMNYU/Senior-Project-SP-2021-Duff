@@ -22,7 +22,6 @@
   * [Week 14 Detail May 11](schedule/week14_detail.md)
   * [Week 15 Detail May 13-19](schedule/week15_detail.md)
 * [Project Plan](project_plan/README.md)
-  * [Project Presentation](project_plan/project-presentation.md)
   * [Project Versions](project_plan/project_versions.md)
 * [Assignments:](assignments/README.md)
   * [Accountability Team](assignments/accountability_partner.md)
