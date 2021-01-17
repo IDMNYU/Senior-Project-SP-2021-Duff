@@ -2,8 +2,9 @@
 
 
 
-* Use the [project plan](../project_plan/) sections as a template for your visual presentation. The project plan is just a guideline for information for your presentation. It is up to you to decide which areas you want to focus on. In other words, how many slide\(s\) will you devote to each section. In some cases, you might omit a section if you think the class remembers key ideas from your previous presentation.
-* Use google slides and the [pecha kucha](../pre-work/pecha_kucha.md) \(20 slides x 20 sec\) format. 
+* Despite giving an accompanying presentation with or without slides, your project demo should be the primary focus of project presentation.
+* With many presentations, folks talk about their project, but spend either less time or no time showing us their project. In other words, it's better to integrate the talking with the showing of your project. 
+* Use the [project plan](../project_plan/) sections as a template for your visual presentation. The project plan is just a guideline for information for your presentation. It is up to you to decide which areas you want to focus on. In some cases, you might omit a section if you think the class remembers key ideas from your previous presentation.
 * Post the link in this [google doc](https://docs.google.com/document/d/1EfXgca1QsOS6xNGzMvSjeAmHDSRgqK2bK1CTrJRPoNU/edit) before class begins.
 
 Each presentation will consist of:
