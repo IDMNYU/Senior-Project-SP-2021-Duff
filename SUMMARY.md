@@ -44,5 +44,5 @@
   * [Midterm Self-Assessment](end_of_semester_deliverables/midterm_self_assessment.md)
   * [Final Self Assessment](end_of_semester_deliverables/final_self_assessment.md)
   * [Letter to Next Cohort](end_of_semester_deliverables/letter_to_next_cohort.md)
-* [Recommended Resources](recommended_resources.md)
+* [Career Preparation Resources](recommended_resources.md)
 

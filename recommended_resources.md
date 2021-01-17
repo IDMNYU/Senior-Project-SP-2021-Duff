@@ -1,4 +1,4 @@
-# Recommended Resources
+# Career Preparation Resources
 
 ![The Crossroads of Should and Must by Elle Luna](.gitbook/assets/the-crossroads-between-should-and-must.jpg)
 
