@@ -14,6 +14,6 @@
   * IDM Showcase 
   * [End of Semester Deliverables](../end_of_semester_deliverables/)
   * [Course Evaluation](../assignments/course_evaluation.md)
-* Class Critique: [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) of [Gold Version](../project_plan/project_versions.md) \(if applicable\)
+* Class Critique: [Project Presentation](../critiques-demos-presentations-and-exhibition/project-presentation.md) w/ [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) of [Gold Version](../project_plan/project_versions.md) \(if applicable\)
 * Check-out
 
