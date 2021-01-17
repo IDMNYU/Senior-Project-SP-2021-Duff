@@ -1,10 +1,6 @@
 # Project Plan
 
-![Forget Perfect. Make Progress!](http://teaching.polishedsolid.com/images/gettoworkbook_forget_perfect.png)
-
-\_\_
-
-![Forget Perfect Make Progress Illustration by Jolby from gettoworkbook](../.gitbook/assets/gettoworkbook_forget-perfect-make-progress.jpg)
+![Forget Perfect Make Progress Illustration by Jolby from gettoworkbook](../.gitbook/assets/gettoworkbook_forget-perfect-make-progress%20%281%29.jpg)
 
 The project plan will consist of a presentation and a written proposal.
 
@@ -15,6 +11,8 @@ Please remember that you and a classmate can work as a team. Only one presentati
 * Please name your file as lastname\_senior\_sp21\_projectplandraft\#\_date.pdf \(i.e. duff\_senior\_sp21\_projectplan1\_2021jan15.pdf\). If a team, please put both of your last names \(i.e. duff\_and\_dubois\) in the filename.
 * Please note that any significant changes to your project will require the submission of a revised project plan.
 * Upload drafts to a folder labeled _project plan_ in your project documentation folder for your [end of semester deliverables](../end_of_semester_deliverables/).
+
+## Project Plan Outline
 
 <table>
   <thead>
