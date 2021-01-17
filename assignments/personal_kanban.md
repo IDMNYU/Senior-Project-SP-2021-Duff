@@ -8,7 +8,7 @@ description: Systems & Tools
 
 ## If you don't already have them, you should create systems to manage your energy, time, and projects.
 
-## Energy Management
+## Energy Management \(AKA Sleep, Eat, Move, Play\)
 
 Energy Management is easy in theory. Difficult in practice.
 
