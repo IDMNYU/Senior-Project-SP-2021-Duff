@@ -5,7 +5,7 @@
 
 ## Reflection
 
-Any action without reflection is meaningless; real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything; it involves thinking about why, what, and how you create something. In any learning situation you should study beforehand, make/do, debug, reflect, adjust, and do it all over again. Learning happens in a cycle, illustrated in the diagrams below.
+Any action without reflection is meaningless; real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything; it involves thinking about why, what, and how you create something. In any learning situation, you should study beforehand, make/do, debug, reflect, adjust, and do it all over again. Learning happens in a cycle, illustrated in the diagrams below.
 
 As a student, you should also develop your critical thinking skills. This will initially involve critiquing other people’s work but ultimately you also want to be able to critique your own work. This will allow you to develop as a creator.
 
@@ -35,7 +35,7 @@ As a student, you should also develop your critical thinking skills. This will i
 * Feedback on senior project communication \(gitbook and slack\)
 * Feedback on the senior project course content \(project, assignments, readings, etc.\)
 * Feedback on the senior project course structure \(presentations, group critiques, demos, one on one meetings, accountability partners, etc\)
-* Feedback on **senior project** remote instruction \(including  feedback videos and check-in/check-out exercise\).
+* Feedback on **senior project** remote instruction \(including feedback videos and check-in/check-out exercise\).
 * What change\(s\) would you make to senior project and why?
 * What change\(s\) would you make to remote instruction for senior project and why?
 * What resources have you found to be specifically helpful to you for this course? And why?
@@ -44,13 +44,8 @@ As a student, you should also develop your critical thinking skills. This will i
 
 **Please note I will copy and paste all of your responses in one document, while keeping your anonymity in tact, and forward to the IDM Showcase organizers.**
 
-* There were some obvious communication issues regarding the submission dates and the 1-min video submission with the final submission form. Removing those two specific issues: 
 * What worked? What didn't work? Ideas? Suggestions for Improvement? for the:
   * IDM showcase submission process
   * IDM showcase virtual event
   * IDM showcase website
-
-![](https://github.com/IDMNYU/Senior-Project-SP-2021-Duff/tree/f733c3a299af78aa29514d4bd2736819eb5319cd/.gitbook/assets/experiential_learning_cycles_475.jpg)
-
-![](https://github.com/IDMNYU/Senior-Project-SP-2021-Duff/tree/f733c3a299af78aa29514d4bd2736819eb5319cd/.gitbook/assets/experiential_learning_cycle_simple_476.jpg)
 
