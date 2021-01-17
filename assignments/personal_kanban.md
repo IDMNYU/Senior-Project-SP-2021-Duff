@@ -4,6 +4,29 @@
 
 _Illustration by Jolby from gettoworkbook_
 
+## _Recommended Planners and Journals_
+
+_The most highly recommended planner or journal by students is the_ [**Bullet Journal**](https://bulletjournal.com/)**.** It's a system. You only need to use a pen and paper or digital tablet to engage. In other words, there's no journal to buy.
+
+I personally use an undated digital version of the ink and volt planner. I've gone back and forth between several of these. Planners and journals are personal. You have to figure out what works for you, and as you grow your planner and journal needs may change. 
+
+Regardless of what you choose, you need to create a system to track your actions and progress \(aka making sure you are getting your project tasks done\).
+
+**Planners**
+
+* [Ink and Volt Planner](https://inkandvolt.com/product/volt-planner/) _\(physical or digital; I use the digital version of this one on a digital tablet.\)_
+* [Gettoworkbook.com](https://www.gettoworkbook.com/photos) 
+* [Unbound Planner](https://unboundplanner.com/collections/frontpage) _\(physical and digital\)_
+* [The Productivity Planner](https://www.intelligentchange.com/products/the-productivity-planner)
+
+**Journals**
+
+* **\***[**Bullet Journal**](https://bulletjournal.com/) **\(HIGHLY recommended by students; you only need to use a pen and paper or digital tablet.\)**
+* [Best Self Journal](https://bestself.co/products/self-journal) \([Download PDF Sample](http://teaching.polishedsolid.com/time-warrior/selfjournal.pdf)\)
+* [Five Minute Journ](https://www.intelligentchange.com/products/the-five-minute-journal)
+
+\*\*\*\*
+
 **Break down** EVERYTHING you need to do for **your project into actionable tasks.** One method is [Personal Kanban](http://personalkanban.com/pk/personal-kanban-101/), but you may have your own.  
   
 All actionable tasks should start with a verb \(i.e. write, call, email, build, collect, etc.\) and be visible in some way \(not in your head\).
@@ -13,6 +36,8 @@ I recommend using an analog, digital, or analog/digital combination.
 * post-it notes on a wall or mini ones in a notebook \(so you can move them around\),
 * [bullet journal](https://bulletjournal.com/) \(many students use this method\) or
 * a digital representation of your milestones using [kanbanery.com](http://kanbanery.com) or another digital platform of your choice.
+
+
 
 The columns I recommend for Personal Kanban \(but you are not limited to\) are:
 

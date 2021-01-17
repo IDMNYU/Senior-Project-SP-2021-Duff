@@ -4,7 +4,7 @@ Alpha, Beta, and Gold refer to a project’s life cycle. The specific parameters
 
 * **Alpha** is the testing phase of form and functionality for your project.
 * **Beta** is when the functionality, form, and implementation of your project is complete as possible. It is ready for user testing.
-* **Gold** is when all the bugs in your project have been fixed and quality is assured. It is ready to go public. It is ready to "ship."
+* **Gold** is when all the bugs in your project have been fixed and quality is assured. It is ready to go public.
 
 ## FEEDBACK THROUGH USER TESTING
 

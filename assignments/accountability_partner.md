@@ -1,10 +1,9 @@
-# Accountability Team
+# Accountability Partner
 
-**Responsibility of Accountability Team**
+**Responsibility of Accountability Partners**
 
-* You will either volunteer for or get assigned to a team of 3 people. 
 * Get each other's contact info \(email and cell phone\).
-* Check-in with each other 
+* Check in with each other 
   * via Zoom 
   * on a weekly basis 
   * OUTSIDE of class
@@ -14,10 +13,14 @@
     * Are they actionable?
     * Are they complete?
   * In your weekly status post on your [process website](../pre-work/website.md):
-    * Document anything that you discussed with your accountability team.
-    * Add your partners' feedback about your process and/or project.
-* Take notes for each other's presentations.
-* Provide moral support and encouragement.
+    * Document anything that you discussed with your accountability partner.
+    * Add your partners feedback about your process and/or project.
+* Take notes for each other's presentations
+* Provide moral support and encouragement
 
-**Accountability Teams:**
+**Accountability Partners:**
+
+
+
+
 
