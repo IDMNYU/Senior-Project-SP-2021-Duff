@@ -253,8 +253,8 @@ Title IX makes it clear that violence and harassment based on sex and gender are
 
 ### Required Tools
 
-* Analog or Digital Calendar
-* Analog or Digital Planner \([Personal Kanban](http://personalkanban.com/pk/personal-kanban-101/)\)
+* Analog or Digital [Calendar](assignments/personal_kanban.md)
+* Analog or Digital [Planner or Journal](assignments/personal_kanban.md)
 
 ### Software Requirements
 
