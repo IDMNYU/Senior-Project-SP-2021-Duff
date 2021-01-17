@@ -45,6 +45,7 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left">
         <p><b>Legislative Day - Classes will meet according to a Monday schedule.</b>
         </p>
+        <p>Individual One on Ones / Accountability Teams in Airmeet</p>
         <p>Guests:</p>
         <p>Kristofer G. Larsen, Assistant Director, Office of Global Awards / Research
           and design / Resources and Milestones</p>
@@ -54,32 +55,28 @@ _Illustration by Jolby from gettoworkbook_
     <tr>
       <td style="text-align:left">4</td>
       <td style="text-align:left">Mon Feb 22</td>
-      <td style="text-align:left">5 Student Presentations</td>
+      <td style="text-align:left">Individual One on Ones / Accountability Teams in Airmeet</td>
     </tr>
     <tr>
       <td style="text-align:left">5</td>
       <td style="text-align:left">Mon Mar 01</td>
-      <td style="text-align:left">5 Student Presentations</td>
+      <td style="text-align:left">Pro Practices Material Review (Cover Letter, Resume, and Portfolio, Career
+        Research)</td>
     </tr>
     <tr>
       <td style="text-align:left">6</td>
       <td style="text-align:left">Mon Mar 08</td>
-      <td style="text-align:left">5 Student Presentations</td>
+      <td style="text-align:left">Project Demos</td>
     </tr>
     <tr>
       <td style="text-align:left">7</td>
       <td style="text-align:left">Mon Mar 15</td>
-      <td style="text-align:left">Will be held via Zoom:
-        <br />Midterm Demo and Critique process discussion / Midterm One On One Review
-        process discussion</td>
+      <td style="text-align:left">Project Demos</td>
     </tr>
     <tr>
       <td style="text-align:left">8</td>
       <td style="text-align:left">Mon Mar 22</td>
-      <td style="text-align:left">
-        <p><a href="../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md"><b>Midterm Demo and Critique</b></a>
-        </p>
-        <p>Will be held via Zoom</p>
+      <td style="text-align:left"><a href="../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md"><b>Midterm Demo and Critique</b></a>
       </td>
     </tr>
     <tr>
@@ -99,10 +96,7 @@ _Illustration by Jolby from gettoworkbook_
     <tr>
       <td style="text-align:left">9</td>
       <td style="text-align:left">Mon Mar 29</td>
-      <td style="text-align:left">
-        <p><a href="../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md"><b>Midterm Demo and Critique</b></a>  <b>continued</b>
-        </p>
-        <p>Will be held via Zoom</p>
+      <td style="text-align:left"><a href="../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md"><b>Midterm Demo and Critique</b></a>  <b>continued</b>
       </td>
     </tr>
     <tr>
