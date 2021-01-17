@@ -40,24 +40,14 @@ The analog method:
 
 post-it notes on a wall or mini ones in a notebook \(so you can move them around\),
 
-## Recommended Planners and Journals
+## Recommended Planners
 
-I personally use an un-dated digital version of the ink and volt planner. I've gone back and forth between several of these. Planners and journals are personal. You have to figure out what works for you, and as you grow your planner and journal needs may change. 
+I personally use an un-dated digital version of the ink and volt planner. I've gone back and forth between the first three. Planners are personal. You have to figure out what works for you, and as you grow as a professional, your planner needs may change. 
 
 **Planners**
 
 * [Ink and Volt Planner](https://inkandvolt.com/product/volt-planner/) _\(physical or digital; I use the digital version of this one on a digital tablet.\)_
-* [Gettoworkbook.com](https://www.gettoworkbook.com/photos) 
-* [Unbound Planner](https://unboundplanner.com/collections/frontpage) _\(physical and digital\)_
+* [Gettoworkbook.com](https://www.gettoworkbook.com/photos) \(sold out for this year.\)
+* [Unbound Planner](https://unboundplanner.com/collections/frontpage) _\(physical or digital\)_
 * [The Productivity Planner](https://www.intelligentchange.com/products/the-productivity-planner)
 
-**Journals**
-
-* **\***[**Bullet Journal**](https://bulletjournal.com/) ****
-* [Best Self Journal](https://bestself.co/products/self-journal) \([Download PDF Sample](http://teaching.polishedsolid.com/time-warrior/selfjournal.pdf)\)
-* [Five Minute Journ](https://www.intelligentchange.com/products/the-five-minute-journal)
-
-## Recommended Digital Tool\(s\)
-
-* * [Notion](https://www.notion.so/)
-* 
