@@ -26,14 +26,14 @@
 * Set up [dedicated process website](website.md) for senior project.
 * Please add your name and the URL of your process website to this [shared google doc](https://docs.google.com/document/d/1Y3DCwp7kZoMx-zMVO6IMVDuD9AUpfTLV2gx7sPXTd7U/edit).
 
-## Read Do The Work 
+## Read _Do The Work_ 
 
 * Before beginning to prep for your [pecha kucha presentation](pecha_kucha.md), read the following chapters in _Do The Work_ by Steven Pressfield. \(There is a link to a pdf version in our slack channel.\) 
   * About this Book preface
   * Orientation: Enemies & Allies
   * Beginning
 
-## Write A Response To Do The Work
+## Write A Response To _Do The Work_
 
 * AFTER reading the preface and the first two chapters in _Do The Work_:
   * Write a [response](../assignments/responses.md) that also contains a list of your enemies and allies and upload to a folder labeled "Pre-work" in your project documentation folder for your [end of semester deliverables](../end_of_semester_deliverables/). You do not have to post this to the process website so that only you and I can read your response.
