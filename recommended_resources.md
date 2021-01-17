@@ -46,14 +46,14 @@
 * [Coroflot](http://www.coroflot.com/public/jobs_browse.asp)
 * [Creative Hotlist](http://www.creativehotlist.com)\_\_
 
-## _Miscellaneous_
+## **Miscellaneous**
 
 * [AIGA Professional Resources](http://www.aiga.org/professional-resources)
 * [Pew Research](http://www.pewresearch.org/)
 * [Get A Design Job!](http://www.aiga.org/get-a-design-job) by RitaSue Siegel
 * [How to Be a Graphic Designer without Losing Your Soul](https://www.amazon.com/Graphic-Designer-without-Losing-Expanded/dp/1568989830/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1516586778&sr=1-1-spell) by Adrian Shaughnessy
 
-## _Salary Negotiation_
+## Salary Negotiation
 
 * [Fearless Negotiating](https://www.amazon.com/Fearless-Negotiating-Michael-C-Donaldson/dp/1259584801/ref=sr_1_1_twi_pap_2?ie=UTF8&qid=1516674344&sr=8-1&keywords=fearless+negotiating) by Michael C. Donaldson
 * [Lean In for Graduates](http://www.amazon.com/Lean-Graduates-Sheryl-Sandberg/dp/0385353677/ref=sr_1_1?ie=UTF8&qid=1442940600&sr=8-1&keywords=lean+in+for+graduates) by Sheryl Sanders
@@ -62,7 +62,7 @@
 
   \_\_
 
-## _Freelance_
+## Freelance
 
 * [The Business Side of Creativity: The Complete Guide to Running a Small Graphics Design or Communications Business](https://www.amazon.com/Business-Side-Creativity-Comprehensive-Communications/dp/0393734005/ref=la_B00IMVP96O_1_1?s=books&ie=UTF8&qid=1516586595&sr=1-1) by Cameron Foote
 * [Docracy](http://www.docracy.com/doc/showalluserdocs?sortBy=4&page=1&userId=7435)
@@ -73,7 +73,7 @@
 * [Dealing with Clients who refuse to pay](http://www.smashingmagazine.com/2010/04/09/dealing-with-clients-who-refuse-to-pay)
 * [Free Agent Nation: The Future of Working for Yourself](https://www.amazon.com/Free-Agent-Nation-Working-Yourself/dp/0446678791/ref=asap_bc?ie=UTF8) by Daniel Pink.
 
-## _Entrepreneurship_
+## Entrepreneurship
 
 * [The E-Myth Revisited](https://www.amazon.com/E-Myth-Revisited-Small-Businesses-About/dp/0887307280/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1516833277&sr=8-1) by Michael Gerber
 * [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=sr_1_1_twi_har_2?s=books&ie=UTF8&qid=1516586631&sr=1-1&keywords=rework) by Jason Fried and David Heinemeier Hansson.
@@ -85,6 +85,13 @@
   _Branding_
 
 * [Zag: The Number One Strategy of High-Performance Brands](https://www.amazon.com/Zag-Number-Strategy-High-Performance-Brands/dp/0321426770/ref=sr_1_3?ie=UTF8&qid=1516833998&sr=8-3&keywords=marty+neumeier) by Marty Neumeier
+
+## Lifestyle Design
+
+* [The 4-Hour Workweek, Expanded and Updated](http://www.amazon.com/4-Hour-Workweek-Expanded-Updated-Cutting-Edge/dp/0307465357/ref=sr_1_2?s=books&ie=UTF8&qid=1312561321&sr=1-2) by Timothy Ferriss
+* [Anything You Want](http://www.amazon.com/Anything-You-Want-Derek-Sivers/dp/1936719118/ref=sr_1_1?s=books&ie=UTF8&qid=1312561032&sr=1-1) by Derek Sivers
+* [How To Stop Worrying & Start Living](https://www.amazon.com/How-stop-worrying-start-living-ebook/dp/B01NCV2RIR/) by Dale Carnegie
+* [The Art of Non-Conformity: Set Your Own Rules, Live the Life You Want, and Change the World](http://www.amazon.com/Art-Non-Conformity-Rules-Change-World/dp/0399536108/ref=sr_1_1?s=books&ie=UTF8&qid=1312561247&sr=1-1) by Chris Guillebeau
 
 ## _Crowdsource Funding_
 
@@ -291,10 +298,5 @@ _Crowdsource Funding_
 * [PledgeMusic](http://pledgemusic.com)
 * [GoFundMe](http://gofundme.com)
 
-### Lifestyle Design
-
-* [The 4-Hour Workweek, Expanded and Updated](http://www.amazon.com/4-Hour-Workweek-Expanded-Updated-Cutting-Edge/dp/0307465357/ref=sr_1_2?s=books&ie=UTF8&qid=1312561321&sr=1-2) by Timothy Ferriss
-* [Anything You Want](http://www.amazon.com/Anything-You-Want-Derek-Sivers/dp/1936719118/ref=sr_1_1?s=books&ie=UTF8&qid=1312561032&sr=1-1) by Derek Sivers
-* [How To Stop Worrying & Start Living](https://www.amazon.com/How-stop-worrying-start-living-ebook/dp/B01NCV2RIR/) by Dale Carnegie
-* [The Art of Non-Conformity: Set Your Own Rules, Live the Life You Want, and Change the World](http://www.amazon.com/Art-Non-Conformity-Rules-Change-World/dp/0399536108/ref=sr_1_1?s=books&ie=UTF8&qid=1312561247&sr=1-1) by Chris Guillebeau
+### 
 
