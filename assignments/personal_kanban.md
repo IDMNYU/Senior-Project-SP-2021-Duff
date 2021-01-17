@@ -8,9 +8,7 @@ _Illustration by Jolby from gettoworkbook_
 
 _The most highly recommended planner or journal by students is the_ [**Bullet Journal**](https://bulletjournal.com/)**.** It's a system. You only need to use a pen and paper or digital tablet to engage. In other words, there's no journal to buy.
 
-I personally use an undated digital version of the ink and volt planner. I've gone back and forth between several of these. Planners and journals are personal. You have to figure out what works for you, and as you grow your planner and journal needs may change. 
-
-Regardless of what you choose, you need to create a system to track your actions and progress \(aka making sure you are getting your project tasks done\).
+I personally use an un-dated digital version of the ink and volt planner. I've gone back and forth between several of these. Planners and journals are personal. You have to figure out what works for you, and as you grow your planner and journal needs may change. 
 
 **Planners**
 
@@ -21,11 +19,13 @@ Regardless of what you choose, you need to create a system to track your actions
 
 **Journals**
 
-* **\***[**Bullet Journal**](https://bulletjournal.com/) **\(HIGHLY recommended by students; you only need to use a pen and paper or digital tablet.\)**
+* **\***[**Bullet Journal**](https://bulletjournal.com/) ****
 * [Best Self Journal](https://bestself.co/products/self-journal) \([Download PDF Sample](http://teaching.polishedsolid.com/time-warrior/selfjournal.pdf)\)
 * [Five Minute Journ](https://www.intelligentchange.com/products/the-five-minute-journal)
 
-\*\*\*\*
+## Track Your Actionable Tasks and Progress
+
+Regardless of what you choose, you need to create a system to track your actionable tasks and progress \(aka making sure you are getting your project tasks done\).
 
 **Break down** EVERYTHING you need to do for **your project into actionable tasks.** One method is [Personal Kanban](http://personalkanban.com/pk/personal-kanban-101/), but you may have your own.  
   
