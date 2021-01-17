@@ -42,7 +42,7 @@ Another popular method is [Getting Things Done](https://gettingthingsdone.com/wh
 
 _I personally use a combination of both._
 
-## Recommended Visible Systems
+## Recommended Visible Project Mgt. Systems
 
 The most highly recommended planner or journal by students is the __[**Bullet Journal**](https://bulletjournal.com/)**.** It's a system. You only need to use a pen and paper or a digital tablet to engage. In other words, there's no journal to buy.
 
