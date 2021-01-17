@@ -3,7 +3,7 @@
 
 
 * Use the [project plan](../project_plan/) sections as a template for your visual presentation. The project plan is just a guideline for information for your presentation. It is up to you to decide which areas you want to focus on. In other words, how many slide\(s\) will you devote to each section. In some cases, you might omit a section if you think the class remembers key ideas from your previous presentation.
-* Use google slides and the [pecha kucha]() \(20 slides x 20 sec\) format. 
+* Use google slides and the [pecha kucha](../pre-work/pecha_kucha.md) \(20 slides x 20 sec\) format. 
 * Post the link in this [google doc](https://docs.google.com/document/d/1HIK7FH1dlj3eSGb1pb5QdAZjeK8YTf6KamwFcNbAomk/edit?usp=sharing) before class begins.
 
 Each presentation will consist of:
@@ -17,7 +17,7 @@ Each presentation will consist of:
 
 ## Invite guests
 
-It is the responsibility of each senior to invite an outside critic to _at least_ one of their project critiques, demos, or presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. A one on one, documented meeting \(date, time, length, and typed notes\) with the outside critic can substitute for their presence at a project critique. Also, have the outside critic email me to confirm that they actually met with you. Document the feedback that you receive on your [process website]().
+It is the responsibility of each senior to invite an outside critic to _at least_ one of their project critiques, demos, or presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. A one on one, documented meeting \(date, time, length, and typed notes\) with the outside critic can substitute for their presence at a project critique. Also, have the outside critic email me to confirm that they actually met with you. Document the feedback that you receive on your [process website](../pre-work/website.md).
 
 ## Document your feedback
 
