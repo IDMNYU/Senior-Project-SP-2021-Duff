@@ -1,4 +1,4 @@
-# Week 14 Detail May 11
+# Week 14 Detail May 10
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
@@ -14,8 +14,8 @@
 
 ### **Deliverables**
 
-* Check-in with your [accountability partner](../assignments/accountability_partner.md).
-* Read from "End" chapter of Do The Work by Steven Pressfield \(6 min\) and post your [response](../assignments/responses.md) to your the slack channel.
+* Check-in with your [accountability team](../assignments/accountability_partner.md).
+* Read from "End" chapter of Do The Work by Steven Pressfield \(6 min\) and post your [response](../assignments/responses.md) to our slack channel.
 * Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../project_plan/) of your project as needed.
 * Continue to document your process and artifacts \(the thing\(s\) itself\) on your [process website](../pre-work/website.md).
 
@@ -23,12 +23,8 @@
 
 * Check-in
 * Review Events on [Master Schedule](./)
-  * Invite people to the IDM showcase here: [https://www.eventbrite.com/e/idm-spring-showcase-idmshow-tickets-104801335616 ](https://www.eventbrite.com/e/idm-spring-showcase-idmshow-tickets-104801335616%20)
-  * IDM students and faculty should be receiving a link to vimeo. Have you received it yet?
 * Discussion:
   * [Course Evaluation](../assignments/course_evaluation.md) Check-in 
-    * 11 out of 16 completed. 
-    * 5 students need to complete.
   * LinkedIn Training and Catt Small Advice under Career [Resources](../recommended_resources.md)
   * "End" chapter of Do The Work by Steven Pressfield \(6 min\). 
 * 10min Break

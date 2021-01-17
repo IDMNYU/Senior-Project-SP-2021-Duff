@@ -1,4 +1,4 @@
-# Week 3 Detail Feb 10
+# Week 3 Detail Feb 18
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
@@ -12,4 +12,12 @@
 * Speed networking and table discussions to determine accountability teams.
 * [Accountability team](../assignments/accountability_partner.md) assigned. Get to know your accountability team.
 * Individual Meetings
+
+## Announcements
+
+
+
+* **\(OPTIONAL, but HIGHLY recommended\)** Subscribe to the [**Words of Mouth Newsletter**](http://www.wordsofmouth.org/) for professional and creative development across design, the arts, tech, nonprofits, architecture, and urbanism.
+* \(OPTIONAL\) Apply for some global awards \(Fulbright, Marshall, Rhodes, etc.\): [http://nyu.edu/scholarships](http://nyu.edu/scholarships). Remember your contact is Kristofor Larsen, kristofor.larsen@nyu.edu.
+* \(OPTIONAL\) Take advantage of [NYU Wasserman Center for Career Development](https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html?__s=pvit1odzgzycp3tif89s)'s virtual events, 30 min virtual career coaching appointments, 15min virtual drop-ins, etc.
 

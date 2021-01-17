@@ -1,4 +1,4 @@
-# Week 15 Detail May 13-19
+# Week 15 Detail May 12-18
 
 ## Final One on One Review
 
@@ -8,5 +8,5 @@
   * Please read all of the directions. 
   * Direct message as pdf to deangela on slack BEFORE your meeting.
 * [End of Semester Deliverables](../end_of_semester_deliverables/) DUE 
-  * This must be complete BEFORE your meeting.
+  * Your deliverables must be completed and uploaded to your google drive folder BEFORE our meeting.
 

@@ -1,4 +1,4 @@
-# Week 2 Detail Feb 3
+# Week 2 Detail Feb 8
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
