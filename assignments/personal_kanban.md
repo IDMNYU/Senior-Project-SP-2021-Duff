@@ -8,6 +8,8 @@ description: Systems & Tools
 
 ## If you don't already have them, you should create systems to manage your energy, time, and projects.
 
+The secret is discipline, focus, and prioritizing \(which requires not doing something else\). No system is a magic cure. A system only works if you use it daily.
+
 ## Energy Management \(AKA Sleep, Eat, Move, Play\)
 
 Energy Management is easy in theory. Difficult in practice.
@@ -60,4 +62,56 @@ I personally use an un-dated digital version of the ink and volt planner. I've g
 * [Gettoworkbook.com](https://www.gettoworkbook.com/photos) \(sold out for this year.\)
 * [Unbound Planner](https://unboundplanner.com/collections/frontpage) _\(physical or digital\)_
 * [The Productivity Planner](https://www.intelligentchange.com/products/the-productivity-planner)
+
+
+
+## Other Time Management & Productivity Resources
+
+_Tools_
+
+* [RescueTime](http://rescuetime.com) 
+* [Zapier](http://zapier.com)
+
+_The 12 Week Year_
+
+* [The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months](https://www.amazon.com/12-Week-Year-Others-Months/dp/1118509234/ref=sr_1_1?crid=2XGNL8WLOA3UK&keywords=12+week+year&qid=1578346745&s=books&sprefix=12+week+%2Cstripbooks%2C128&sr=1-1) by Brian P. Moran & Michael Lennington
+
+_Eat That Frog!_
+
+* [Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time by Brian Tracy](http://www.amazon.com/Eat-That-Frog-Great-Procrastinating/dp/1576754227/ref=sr_1_1?s=books&ie=UTF8&qid=1358357240&sr=1-1)
+
+_Getting Things Done_ \(GTD\) is more complicated but I use a lot of the techniques in conjunction with Personal Kanban.
+
+* [Getting Things Done: The Art of Stress-Free Productivity](http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280/ref=sr_1_1?ie=UTF8&qid=1420844841&sr=8-1&keywords=getting+things+done) by David Allen
+* [43 Folders \(All things GTD by Merlin Mann\)](http://www.43folders.com)
+* [Productive Talk Compilation: 8-episode audio podcast with GTD’s David Allen](http://www.43folders.com/2006/11/28/productive-talk-comp)
+
+_Personal Kanban_
+
+* [Personal Kanban: Mapping Work \| Navigating Life](http://www.amazon.com/Personal-Kanban-Mapping-Work-Navigating/dp/1453802266/ref=sr_1_1?s=books&ie=UTF8&qid=1358043876&sr=1-1&keywords=personal+kanban) by Jim Benson and Tonianne DeMaria Barry 
+
+_Pomodoro Technique_
+
+* [Pomodoro Technique Illustrated: Can You Focus - Really Focus - for 25 Minutes?](http://www.amazon.com/Pomodoro-Technique-Illustrated-Minutes-Pragmatic/dp/1934356506/ref=sr_1_1?s=books&ie=UTF8&qid=1358372303&sr=1-1) by Staffan Noteberg
+* [pomodorotechnique.com](http://pomodorotechnique.com/)
+* [5 Pomodoro Timer Extensions For Google Chrome](http://www.ilovefreesoftware.com/05/featured/pomodoro-timer-extensions-google-chrome.html)
+* [PomodoroFox](https://addons.mozilla.org/en-US/firefox/addon/pomodorofox)
+
+_The 7 Habits of Highly Effective People_
+
+* [The 7 Habits of Highly Effective People](http://www.amazon.com/7-Habits-Highly-Effective-People/dp/0935721800/ref=sr_1_2?ie=UTF8&qid=1420844862&sr=8-2&keywords=7+habits+of+highly+effective+people) by Stephen Covey
+
+_The Now Habit_
+
+* [The Now Habit](http://www.amazon.com/Now-Habit-Overcoming-Procrastination-Guilt-Free/dp/1585425524/ref=sr_1_1?ie=UTF8&qid=1420844824&sr=8-1&keywords=neil+fiore) by Neil Fiore
+* [Neil Fiore’s Unschedule on lifeclever.com](http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play)
+* [Neil Fiore’s Sample Unschedule \(I suggest a modified version of this as we will discuss](http://www.neilfiore.com/nowhabit-schedule.shtml)
+
+_The Power of Full Engagement_
+
+* [The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal by Jim Loehr & Tony Schwartz](http://www.amazon.com/The-Power-Full-Engagement-Performance/dp/0743226755/ref=sr_1_5?ie=UTF8&qid=1358355636&sr=8-5&keywords=tony+schwartz)
+
+_Time Warrior_
+
+* [Time Warrior: How to defeat procrastination, people-pleasing, self-doubt, over-commitment, broken promises and chaos](http://www.amazon.com/Time-Warrior-procrastination-people-pleasing-over-commitment/dp/1600250378/ref=sr_1_1?s=books&ie=UTF8&qid=1312385159&sr=1-1) by Steven Chandler
 
