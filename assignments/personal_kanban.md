@@ -4,7 +4,7 @@ description: Systems & Tools
 
 # Time & Project Management
 
-![Big Things Happen One Day At A Time llustration by Jolby from gettoworkbook](../.gitbook/assets/gettoworkbook_big-things-happen-one-day-at-a-time.jpg)
+![Big Things Happen 1 Day @ A Time llustration by Jolby from Get To Work Book](../.gitbook/assets/gettoworkbook_big-things-happen-one-day-at-a-time.jpg)
 
 ## If you don't already have them, you should create systems to manage your energy, time, and projects.
 
