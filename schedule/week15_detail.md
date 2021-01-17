@@ -3,8 +3,8 @@
 ## Final One on One Review
 
 * Will be conducted via Zoom
-* Schedule 20 minutes ONLY at [https://calendly.com/deangela](https://calendly.com/deangela) anytime from May 13-19.
-* \*\*\*\*[**Final Self Assessment** ](../end_of_semester_deliverables/final_self_assessment.md)
+* Schedule 20 minutes ONLY at [https://calendly.com/deangela/20min](https://calendly.com/deangela/20min) anytime from May 12-18. 
+* [Final Self Assessment ](../end_of_semester_deliverables/final_self_assessment.md)
   * Please read all of the directions. 
   * Direct message as pdf to deangela on slack BEFORE your meeting.
 * [End of Semester Deliverables](../end_of_semester_deliverables/) DUE 
