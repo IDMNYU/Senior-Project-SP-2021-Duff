@@ -6,7 +6,7 @@
   * [Process Website](pre-work/website.md)
 * [Syllabus](syllabus.md)
 * [Schedule - DRAFT! NOT FINAL](schedule/README.md)
-  * [Week 1 Detail Feb 01](schedule/week1_detail.md)
+  * [Week 1 Detail Feb 1](schedule/week1_detail.md)
   * [Week 2 Detail Feb 3](schedule/week2_detail.md)
   * [Week 3 Detail Feb 10](schedule/week3_detail.md)
   * [Week 4 Detail Feb 24](schedule/week4_detail.md)

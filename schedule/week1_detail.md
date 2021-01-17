@@ -1,4 +1,4 @@
-# Week 1 Detail Feb 01
+# Week 1 Detail Feb 1
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
