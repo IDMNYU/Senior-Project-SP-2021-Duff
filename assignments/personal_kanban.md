@@ -16,20 +16,19 @@ You need to create a system to track your actionable tasks and progress \(aka ma
 
 **Break down** EVERYTHING you need to do for **your project into actionable tasks.**   
   
-One method is [Personal Kanban](http://personalkanban.com/pk/personal-kanban-101/), but you may have your own. 
-
-The columns I recommend for Personal Kanban \(but you are not limited to\) are:
-
-* To-Do \(I recommend keeping a monthly and weekly one.\)
-* Today \(Work-In-Progress \(WIP\) limit of 3 to 5 maximum\)
-* Waiting For \(OPTIONAL\)
-* Done
-
 All actionable tasks should start with a verb \(i.e. write, call, email, build, collect, etc.\) and be visible in some way \(not in your head\).
 
 You should make your actionable tasks VISIBLE in a calendar and/or planner or journal. \(See suggestions below\).
 
-* * 
+One method is [Personal Kanban](http://personalkanban.com/pk/personal-kanban-101/), but you may have your own. The columns I recommend for Personal Kanban \(but you are not limited to\) are:
+
+* To-Do \(I recommend keeping two: monthly and weekly.\)
+* Today \(Work-In-Progress \(WIP\) limit of 3 to 5 maximum\)
+* Waiting For \(OPTIONAL\)
+* Done
+
+Another popular method is [Getting Things Done](https://gettingthingsdone.com/what-is-gtd/). I personally use a combination of both.
+
 ## Recommended Visible Systems
 
 The most highly recommended planner or journal by students is the __[**Bullet Journal**](https://bulletjournal.com/)**.** It's a system. You only need to use a pen and paper or digital tablet to engage. In other words, there's no journal to buy.
