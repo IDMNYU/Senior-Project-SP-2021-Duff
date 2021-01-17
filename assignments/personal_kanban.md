@@ -12,16 +12,16 @@ description: Systems & Tools
 
 Energy Management is easy in theory. Difficult in practice.
 
-Sleep Well.  
-Eat Well.  
-Move \(Exercise\).  
-Play or Relax.
+* Sleep Well.
+* Eat Well.
+* Move \(Exercise\).
+* Play or Relax.
 
-## Time Management
+## Time Management \(AKA Keep A Calendar\(s\)\)
 
 It is imperative that you keep an analog or digital calendar. I actually keep both.
 
-## Track Your Actionable Tasks and Progress
+## Track Your Actionable Tasks and Progress \(AKA Project Management\)
 
 You need to create a system to track your actionable tasks and progress \(aka making sure you are getting your project tasks done\).
 
