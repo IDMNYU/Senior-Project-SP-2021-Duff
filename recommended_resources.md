@@ -2,8 +2,6 @@
 
 ![The Crossroads of Should and Must by Elle Luna](.gitbook/assets/the-crossroads-between-should-and-must.jpg)
 
-## CAREER PREPARATION
-
 ## NYU Resources
 
 * [NYU IDM Job Postings on LinkedIn](https://www.linkedin.com/groups/8684560/)
