@@ -220,7 +220,7 @@ Each student will be judged on the iteration & improvement \(process\), craft & 
 
 ### Technology Use In The Classroom
 
-Laptop computers and other mobile devices are invaluable tools for students when used responsibly. However, this technology can also be incredibly distracting in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, instagram, twitter, etc. **When your classmates are presenting, please close your laptops and turn off your cell phones.**
+Laptop computers and other mobile devices are invaluable tools for students when used responsibly. However, this technology can also be incredibly distracting in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, instagram, twitter, etc. **When your classmates are presenting, please be present and engaged.**
 
 ### Academic Honesty
 
@@ -228,7 +228,7 @@ Please review [NYU Tandon's academic dishonesty policy](https://engineering.nyu.
 
 All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA or Chicago Manual style for citing and documenting source material.
 
-You MUST have complete rights of use to any and all materials which appear in your senior project. This includes images, illustrations, audio etc. The source of any materials NOT created by you MUST be documented. Please remember that you can collaborate with other students to create your own media or contact the authors of your media selections for rights. I strongly encourage you to use original media for your senior project, however should you absolutely require to use stock images, video, etc., you will need to provide a PDF of all source files and the usage rights you have purchased/negotiated or whether it is creative commons or copyright free.
+You MUST have complete rights of use to any and all materials which appear in your senior project. This includes images, illustrations, audio, etc. The source of any materials NOT created by you MUST be documented. Please remember that you can collaborate with other students to create your own media or contact the authors of your media selections for rights. I strongly encourage you to use original media for your senior project, however, should you absolutely require to use stock images, video, etc., you will need to provide a PDF of all source files and the usage rights you have purchased/negotiated or whether it is creative commons or copyright free.
 
 ### NYU Health and Wellness
 
@@ -236,11 +236,11 @@ NYU offers many health and wellness services and resources. Take advantage of th
 
 ### Academic Accommodations
 
-If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found at [http://www.nyu.edu/csd](http://www.nyu.edu/csd). The Moses Center is located at [726 Broadway](https://www.google.com/maps?q=726+Broadway&entry=gmail&source=g) on the 2nd floor.
+If you are a student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found at [http://www.nyu.edu/csd](http://www.nyu.edu/csd). The Moses Center is located at [726 Broadway](https://www.google.com/maps?q=726+Broadway&entry=gmail&source=g) on the 2nd floor.
 
 ### Diversity and Inclusion
 
-The TCS Department is dedicated to the university's goals for diversity, equity and inclusion. NYU is committed to building a culture that respects and embraces diversity, inclusion, and equity, believing that these values – in all their facets – are, as President Andrew Hamilton said, “…not only important to cherish for their own sake, but because they are also vital for advancing knowledge, sparking innovation, and creating sustainable communities. They should be indispensable elements of an NYU education on all of our campuses. A diverse population encounters and appreciates all perspectives of an issue with a wealth of different approaches to confront it. The result is a higher quality of debate, and a more excellent and advanced academic enterprise.”
+The TCS Department is dedicated to the university's goals for diversity, equity, and inclusion. NYU is committed to building a culture that respects and embraces diversity, inclusion, and equity, believing that these values – in all their facets – are, as President Andrew Hamilton said, “…not only important to cherish for their own sake, but because they are also vital for advancing knowledge, sparking innovation, and creating sustainable communities. They should be indispensable elements of an NYU education on all of our campuses. A diverse population encounters and appreciates all perspectives of an issue with a wealth of different approaches to confront it. The result is a higher quality of debate, and a more excellent and advanced academic enterprise.”
 
 ### Title IX
 
@@ -260,12 +260,6 @@ Title IX makes it clear that violence and harassment based on sex and gender are
 
 * Web Browser
 * Website via your own ISP or [http://wp.nyu.edu](http://wp.nyu.edu)
-
-### Senior Project Funding
-
-Students can get up to $100 in materials from IDM for their senior project. However, you can NOT get reimbursed for purchases. Elton Kwok, IDM's Tech Director, will need to order the materials for you. So it will need to be something you can purchase online from Amazon, Adafruit, etc.
-
-All you need to do is email Elton a link with a brief explanation of what you need and why, and cc me as your senior project faculty member. Before you email Elton, I will need to approve the expenses, however. Please direct message me the links first via slack.
 
 ### [Recommended Resources](recommended_resources.md)
 
