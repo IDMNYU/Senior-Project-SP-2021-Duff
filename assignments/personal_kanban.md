@@ -6,6 +6,8 @@ description: Systems & Tools
 
 ![Big Things Happen One Day At A Time llustration by Jolby from gettoworkbook](../.gitbook/assets/gettoworkbook_big-things-happen-one-day-at-a-time.jpg)
 
+I expect you to have a system of some sort to manage your time and/or your projects.
+
 ## _Time Management_
 
 It is imperative that you keep an analog or digital calendar. I actually keep both.
