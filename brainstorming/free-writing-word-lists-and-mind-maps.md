@@ -1,5 +1,7 @@
 # Free Writing, Word Lists & Mind Maps
 
+![Every One Starts At Zero Illustration by Jolby from Gettoworkbook](../.gitbook/assets/gettoworkbook_everyone_starts_at-zero.jpg)
+
 **Freewriting** is similar to journal writing but it focuses on a specific idea or question instead of writing about general thoughts and feelings.
 
 For more info, read: [https://writingprocess.mit.edu/process/step-1-generate-ideas/instructions/freewriting](https://writingprocess.mit.edu/process/step-1-generate-ideas/instructions/freewriting)
