@@ -2,12 +2,9 @@
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
-### Reminders
-
-* 
 ### **Deliverables**
 
-* Make sure you continue to check-in with your [accountability partner](../assignments/accountability_partner.md) and document it on the [process website](../pre-work/website.md).
+* Make sure you continue to check-in with your [accountability team](../assignments/accountability_partner.md) and document it on the [process website](../pre-work/website.md).
 * Read from "Now We're Rolling" in the 1st "Middle" chapter up until the 2nd "Middle" chapter of Do The Work by Steven Pressfield and post your [response](../assignments/responses.md) to our main slack channel.\(6 min\)
 * Read the 2nd "Middle" chapter of Do The Work by Steven Pressfield and post your [response](../assignments/responses.md) to our main slack channel, instead of your process website, in the spirit of making our main slack channel more active. \(6 min\)
 * REVISE your [Pro practices materials](../end_of_semester_deliverables/pro_practices_revisions.md).
