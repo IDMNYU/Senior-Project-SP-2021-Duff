@@ -1,20 +1,20 @@
 # Recommended Resources
 
-![Every One Starts At Zero Illustration by Jolby from gettoworkbook](http://teaching.polishedsolid.com/images/gettoworkbook_at_zero.png)
+![The Crossroads of Should and Must by Elle Luna](.gitbook/assets/the-crossroads-between-should-and-must.jpg)
 
-## Career Preparation
+## CAREER PREPARATION
 
-## _NYU Resources_
+## NYU Resources
 
 * [Wasserman Center](https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html)
 * [Leslie Elab](http://entrepreneur.nyu.edu/)\_\_
 
-## _Catt Small \(IDM Alumna\)_
+## Catt Small \(IDM Alumna\)
 
 * \*\*\*\*[**Impress for success: Strategic ways to seem more hireable**](https://cattsmall.com/advice/2018/09/24/be-hireable-get-hired.html)\*\*\*\*
 * \*\*\*\*[**12 tips for getting into a new career**](https://cattsmall.com/advice/2019/11/02/get-entry-level-job-new-career.html)\*\*\*\*
 
-## _LinkedIn_
+## LinkedIn
 
 * LinkedIn Learning:
   * [Designing a Resumé for Creatives](https://www.linkedin.com/learning/designing-a-resume-for-creatives/welcome?u=2131553)
@@ -22,13 +22,13 @@
   * [Let Recruiters Know You’re Open to Job Opportunities \| LinkedIn Help](https://www.linkedin.com/help/linkedin/answer/67405?lang=en&src=aff-lilpar&veh=aff_src.aff-lilpar_c.partners_pkw.123201_plc.adgoal%20GmbH_pcrid.449670_learning&trk=aff_src.aff-lilpar_c.partners_pkw.123201_plc.adgoal%20GmbH_pcrid.449670_learning&clickid=XVGx8mzlPxyOUGjwUx0Mo38SUki2%3A00lwW9ZVM0&irgwc=1)
   * [Find Jobs on LinkedIn – Best Practices \| LinkedIn Help](https://www.linkedin.com/help/linkedin/answer/110912)
 
-## _AIGA \(Professional Org for Creatives\)_
+## AIGA \(Professional Org for Creatives\)
 
 * [AIGA's Career Advice during COVID-19](https://www.aiga.org/aiga/content/tools-and-resources/commitment-to-community/career-advice-for-covid-19/).
 * [AIGA's Internships in Design: Advice for COVID-19](https://www.aiga.org/aiga/content/tools-and-resources/commitment-to-community/internships-in-design-advice-for-covid-19/).
 * [AIGA's How To Ace the Virtual Interview](https://www.aiga.org/aiga/content/tools-and-resources/commitment-to-community/how-to-ace-the-virtual-interview/).
 
-## _Job Boards_
+## Job Boards
 
 * [Glass Door](http://glassdoor.com)
 * [Words of Mouth](http://www.wordsofmouth.org/)
@@ -218,4 +218,6 @@ _Time Warrior_
 * [Copywriting: Successful Writing for Design, Advertising and Marketing](https://www.amazon.com/Copywriting-Successful-Writing-Advertising-Marketing/dp/1780670001/ref=sr_1_5?s=books&ie=UTF8&qid=1516899375&sr=1-5&keywords=copywriting) by Mark Shaw
 * [The Elements of Style, Fourth Edition](http://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/ref=sr_1_1?ie=UTF8&qid=1422276317&sr=8-1&keywords=stunk+and+whites+elements+of+style) by Strunk and White
 * [The Mac is Not a Typewriter](http://www.amazon.com/Mac-Not-Typewriter-2nd/dp/0201782634/ref=sr_1_1?ie=UTF8&qid=1422276493&sr=8-1&keywords=the+mac+is+not+a+typewriter) by Robin Williams
+
+![Define Your Own Success Illustration by Jolby for Get To Work Book](.gitbook/assets/gettoworkbook_-define-your-own-success.jpg)
 
