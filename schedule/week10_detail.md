@@ -13,6 +13,6 @@
 ## Class
 
 * Check-in
-* Make sure you continue to check-in with your [accountability team](../assignments/accountability_partner.md) and document it on the [process website](../pre-work/website.md).
+* Meet with your [accountability team](../assignments/accountability_partner.md) and document it on the [process website](../pre-work/website.md).
 * Check-out
 
