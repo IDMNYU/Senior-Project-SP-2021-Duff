@@ -15,7 +15,7 @@
 
 ## Populate A Calendar With Due Dates
 
-* Populate a calendar \(google, iCal, or non-digital\) with due dates for this class, even though dates may change.
+* Populate a calendar \(google, iCal, or analog\) with due dates for this class, even though dates may change.
 
 ## Create a Senior Project Google Drive Folder
 
