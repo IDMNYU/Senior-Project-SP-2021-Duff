@@ -41,3 +41,9 @@ _You can decide how to allocate your 20 slides to address the following. Please 
 * **PROJECT IDEAS**: 3 different slides should illustrate 3 different possible ideas for your senior project, based on your focus topic, theme, or issue. Also, address What form \(medium\) it _might_ take, how this form might specifically address your topic, theme, or issue, and what the form might communicate. Your idea must be related to your theme focus and your previous work. Remember, you only have 20 seconds to talk about each idea so your slide will need to be concise for each idea.
 * **RELATED PROJECTS**: Compare and contrast similar projects in topic, theme, or issue \(not limited by medium\) by other artists, designers, creative technologists, or entrepreneurs to yours. Keep in mind the [SCAMPER Technique](http://www.mindtools.com/pages/article/newCT_02.htm).
 
+## **Presentation Resources**
+
+* ​[Speaking.io](http://speaking.io/)​
+* ​[Advice on Public Speaking from Zach Lieberman](https://medium.com/@zachlieberman/advice-on-public-talks-a984876388c2)​
+* ​[Jer Thorp, Three things I’ve learned from 18 years of public speaking](https://medium.com/@blprnt/the-three-things-i-learned-from-eighteen-years-of-public-speaking-875f01178902)
+
