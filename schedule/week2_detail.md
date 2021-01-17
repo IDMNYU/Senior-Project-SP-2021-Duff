@@ -11,15 +11,15 @@
 
 ## Class
 
-### **Announcements:**
-
-**Students** can get free headshots from the [NYU Photo Bureau](https://www.nyu.edu/employees/resources-and-services/media-and-communications/photo-services/in-studio-headshots.html). I highly recommend that you take advantage of it for your portfolio website and LinkedIn profile. It's a very popular service. You just need to book it \(sometimes weeks\) in advance. The NYU photo bureau is currently moving locations. So they're not taking any appointments until February.
-
-* [**Syllabus**](../syllabus.md) **Review Q&A**
+* [**Pecha kucha**](../pre-work/pecha_kucha.md) **presentations continued and/or revisions \(if applicable\)**
+* **IF TIME:**
+* \*\*\*\*[**Syllabus**](../syllabus.md) **Review Q&A**
   * Discuss course & learning objectives.
   * Discuss calendar and specifically: All dates and assignments are subject to change at the discretion of the professor.
-  * Reading the weekly schedule.
-  * NOTE: Due on date listed.
+  * Reading the weekly schedule. NOTE: Due on date listed.
 * **Class discussion of reading**
-* \*\*\*\*[**Pecha kucha**](../pre-work/pecha_kucha.md) **presentation and/or revisions \(if applicable\)**
+
+## **Announcements:**
+
+* **Students** can get free headshots from the [NYU Photo Bureau](https://www.nyu.edu/employees/resources-and-services/media-and-communications/photo-services/in-studio-headshots.html). I highly recommend that you take advantage of it for your portfolio website and LinkedIn profile. It's a very popular service. You just need to book it \(sometimes weeks\) in advance. Obviously, COVID-19 may affect their availability this semester. 
 
