@@ -20,5 +20,5 @@
 
 ## **Accountability Teams:**
 
-**Once**
+Once the accountability teams have been formed, the teams will be listed here by first name.
 
