@@ -7,7 +7,7 @@
 * If you have not done so already, please schedule your **Midterm One On One Review anytime on or between Tue Mar 30-Fri Apr 1.** For those of you who already have, thank you.
   * Will be conducted via Zoom
   * Schedule 20 minutes ONLY at [https://calendly.com/deangela/20min](https://calendly.com/deangela/20min) 
-  * [**Midterm Self Assessment**](../end_of_semester_deliverables/midterm_self_assessment.md) 
+  * [Midterm Self Assessment](../end_of_semester_deliverables/midterm_self_assessment.md) 
     * Please read all of the directions. 
     * Direct message as pdf to De Angela on slack BEFORE your meeting.
 

@@ -5,7 +5,7 @@
 * Check-in with your [accountability team](../assignments/accountability_partner.md).
 * Prepare or revise your [project presentation](../critiques-demos-presentations-and-exhibition/project-presentation.md).
 * Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../project_plan/) of your project as needed.
-* Continue to document your process and artifacts \(the thing\(s\) itself\) on your [process websit](../pre-work/website.md)
+* Continue to document your process and artifacts \(the thing\(s\) itself\) on your [process website](../pre-work/website.md).
 
 ## Class
 
