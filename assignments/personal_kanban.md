@@ -14,17 +14,9 @@ It is imperative that you keep an analog or digital calendar. I actually keep bo
 
 You need to create a system to track your actionable tasks and progress \(aka making sure you are getting your project tasks done\).
 
-**Break down** EVERYTHING you need to do for **your project into actionable tasks.** One method is [Personal Kanban](http://personalkanban.com/pk/personal-kanban-101/), but you may have your own.  
+**Break down** EVERYTHING you need to do for **your project into actionable tasks.**   
   
-All actionable tasks should start with a verb \(i.e. write, call, email, build, collect, etc.\) and be visible in some way \(not in your head\).
-
-I recommend using an analog, digital, or analog/digital tool combination \(See suggestions below\).
-
-* post-it notes on a wall or mini ones in a notebook \(so you can move them around\),
-* [bullet journal](https://bulletjournal.com/) \(many students use this method\) or
-* a digital representation of your milestones using [kanbanery.com](http://kanbanery.com) or another digital platform of your choice.
-
-
+One method is [Personal Kanban](http://personalkanban.com/pk/personal-kanban-101/), but you may have your own. 
 
 The columns I recommend for Personal Kanban \(but you are not limited to\) are:
 
@@ -33,13 +25,22 @@ The columns I recommend for Personal Kanban \(but you are not limited to\) are:
 * Waiting For \(OPTIONAL\)
 * Done
 
+All actionable tasks should start with a verb \(i.e. write, call, email, build, collect, etc.\) and be visible in some way \(not in your head\).
 
+You should make your actionable tasks VISIBLE in a calendar and/or planner or journal. \(See suggestions below\).
 
-
-
-## _Recommended Planners and Journals_
+* * 
+## Recommended Visible Systems
 
 The most highly recommended planner or journal by students is the __[**Bullet Journal**](https://bulletjournal.com/)**.** It's a system. You only need to use a pen and paper or digital tablet to engage. In other words, there's no journal to buy.
+
+I recommend having a analog or digital personal kanban using \*[Asana](https://asana.com/), [Trello](https://trello.com/) \(or [Kanbanery](https://kanbanery.com/)\).
+
+The analog method: 
+
+post-it notes on a wall or mini ones in a notebook \(so you can move them around\),
+
+## Recommended Planners and Journals
 
 I personally use an un-dated digital version of the ink and volt planner. I've gone back and forth between several of these. Planners and journals are personal. You have to figure out what works for you, and as you grow your planner and journal needs may change. 
 
@@ -58,9 +59,5 @@ I personally use an un-dated digital version of the ink and volt planner. I've g
 
 ## Recommended Digital Tool\(s\)
 
-
-
-* \*[Asana](https://asana.com/)
-* [Notion](https://www.notion.so/)
-* [Trello](https://trello.com/) \(or [Kanbanery](https://kanbanery.com/)\)
-
+* * [Notion](https://www.notion.so/)
+* 
