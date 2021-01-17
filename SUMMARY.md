@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Pre-work - THIS IS A DRAFT! NOT FINAL!](pre-work/README.md)
+* [Pre-work](pre-work/README.md)
   * [Pecha Kucha presentation](pre-work/pecha_kucha.md)
   * [Process Website](pre-work/website.md)
 * [Syllabus - THIS IS A DRAFT! NOT FINAL](syllabus.md)

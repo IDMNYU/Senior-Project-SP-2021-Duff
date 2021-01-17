@@ -1,8 +1,8 @@
-# Pre-work - THIS IS A DRAFT! NOT FINAL!
+# Pre-work
 
 > John Cage tells us that not knowing where to begin is a common form of paralysis. His advice: begin anywhere. ~[Bruce Mau's Manifesto](https://www.massivechangenetwork.com/bruce-mau-manifesto).
 
-![Just Start Illustration by Jolby from Gettoworkbook](../.gitbook/assets/gettoworkbook_just-start%20%281%29.jpg)
+![Just Start Illustration by Jolby from Get To Work Book](../.gitbook/assets/gettoworkbook_just-start%20%281%29.jpg)
 
 ## Join Our Slack Channel
 
