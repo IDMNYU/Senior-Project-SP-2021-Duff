@@ -1,6 +1,6 @@
-# Syllabus - THIS IS A DRAFT! NOT FINAL
+# Syllabus
 
-![](https://engineering.nyu.edu/sites/default/files/2019-01/tandon_long_black.png)
+![Integrated Digital Media at NYU Tandon](https://engineering.nyu.edu/sites/default/files/2019-01/tandon_long_black.png)
 
 ## DM-UY 4003-A Senior Project in Digital Media
 
