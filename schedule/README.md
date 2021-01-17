@@ -123,23 +123,12 @@ _Illustration by Jolby from gettoworkbook_
     <tr>
       <td style="text-align:left">10</td>
       <td style="text-align:left">Mon Apr 05</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Tue Apr 7 - Thu Apr 15</td>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+      <td style="text-align:left">Project Demos</td>
     </tr>
     <tr>
       <td style="text-align:left">11</td>
       <td style="text-align:left">Mon Apr 12</td>
-      <td style="text-align:left">Will be held via Zoom:
-        <br />Pro practices materials</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Fri Apr 17</td>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+      <td style="text-align:left">Project Presentations Round 1</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -150,22 +139,18 @@ _Illustration by Jolby from gettoworkbook_
     <tr>
       <td style="text-align:left">12</td>
       <td style="text-align:left">Mon Apr 26</td>
-      <td style="text-align:left">Will be held via Zoom:
-        <br />Project Demo</td>
+      <td style="text-align:left">Project Presentations Round 1 continued</td>
     </tr>
     <tr>
       <td style="text-align:left">13</td>
       <td style="text-align:left">Mon May 03</td>
-      <td style="text-align:left">Will be held via Zoom:
-        <br />Project Demo of Gold Version or Revision (if applicable)</td>
+      <td style="text-align:left">Project Presentation Revisions</td>
     </tr>
     <tr>
       <td style="text-align:left">14</td>
       <td style="text-align:left">Mon May 10</td>
-      <td style="text-align:left"><b>LAST DAY OF SPRING 2021 CLASSES<br /></b>Will be held via Zoom:
-        <br
-        />Project Demo of Gold Version or Revision (if applicable) / (OPTIONAL)
-        Process pdf DRAFTS</td>
+      <td style="text-align:left"><b>LAST DAY OF SPRING 2021 CLASSES<br /></b>Project Presentation Revisions
+        continued</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
