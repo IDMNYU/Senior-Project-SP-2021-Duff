@@ -1,11 +1,13 @@
 # Project Presentation
 
+## Focus on Showing & Telling, as opposed to just Telling
 
-
-* Despite giving an accompanying presentation with or without slides, your project demo should be the primary focus of project presentation.
-* With many presentations, folks talk about their project, but spend either less time or no time showing us their project. In other words, it's better to integrate the talking with the showing of your project. 
-* Use the [project plan](../project_plan/) sections as a template for your visual presentation. The project plan is just a guideline for information for your presentation. It is up to you to decide which areas you want to focus on. In some cases, you might omit a section if you think the class remembers key ideas from your previous presentation.
-* Post the link in this [google doc](https://docs.google.com/document/d/1EfXgca1QsOS6xNGzMvSjeAmHDSRgqK2bK1CTrJRPoNU/edit) before class begins.
+* Despite giving an accompanying presentation with or without slides, your actual project should be the primary focus of any project presentation.
+* With many presentations, people talk about their project, but spend either less time or no time showing us their actual project. 
+* In other words, it's better to integrate the talking with the showing of your project instead of having a separate slideshow. 
+* If you choose to create a separate slideshow make sure it's image-heavy as opposed to visually heavy. Highly recommend that you review.
+* Use the [project plan](../project_plan/) sections as a template for your oral or visual presentation. The project plan is just a guideline for information for your presentation. It is up to you to decide which areas you want to focus on. In some cases, you might omit a section if you think the class remembers key ideas from your previous presentation.
+* Post the link in this [google doc](https://docs.google.com/document/d/1EfXgca1QsOS6xNGzMvSjeAmHDSRgqK2bK1CTrJRPoNU/edit) before class begins to your presentation or your project if you will be speaking primarily through showing your project.
 
 Each presentation will consist of:
 
