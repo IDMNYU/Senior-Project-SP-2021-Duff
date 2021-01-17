@@ -67,7 +67,7 @@ Senior Project is about the work YOU are and will continue to do, when you are n
 
 Senior Project in Digital Media is about demonstrating the maturity, responsibility, and integrity to manage your practice/research/investigation, while having the luxury of constructive critique and feedback from your fellow classmates, faculty, and outside critics. **Ultimately, your goal is to COMPLETE a project that has a life beyond school, beyond graduation.**
 
-### Program Goals
+## Program Goals
 
 The following IDM program goals are reinforced within this course. Students will:
 
@@ -79,7 +79,7 @@ The following IDM program goals are reinforced within this course. Students will
 * develop **critical thinking skills** that will allow them to analyze and position their work within cultural, historic, aesthetic, economic, and technological contexts.
 * gain knowledge of **professional practices and organizations** by developing their verbal, visual, and written communication for documentation and presentation, exhibition and promotion, networking, and career preparation.
 
-### Course Goals
+## Course Goals
 
 This course will help students to:
 
@@ -87,11 +87,11 @@ This course will help students to:
 * practice an iterative design process in conjunction with effective project & time management skills.
 * continue to hone all aspects of professional communication about your creative process and work through discourse, presentations, and writing.
 
-### Learning Outcomes
+## Learning Outcomes
 
 By the end of the course, students will be able to develop, complete, and document a body of work that is meaningful and carefully crafted to be used for professional purposes \(employment, gallery shows, starting a business, etc.\).
 
-### Course Structure
+## Course Structure
 
 Students are expected to be on time for all individual meetings, critiques, project demos, and presentations.
 
@@ -125,12 +125,12 @@ Individual meetings are not optional. They are important and useful. Sometimes t
 * What are ways that the project can be improved?
 * What additional references, resources, projects, and/or links would be useful for the project?
 
-### Communicating With The Professor Outside Of Class
+## Communicating With The Professor Outside Of Class
 
 * Direct message the professor on Slack about logistics \(when, where, how many?\) ONLY.
 * Talk to the professor directly after class, during one of your one-on-one meetings, or set up an appointment at [http://calendly.com/deangela](http://calendly.com/deangela) about issues and problems. DO NOT email long conversations. \(If your email turns into paragraphs that means you should be talking to me in person not emailing me.\)
 
-### Student Responsibilities
+## Student Responsibilities
 
 * Schedule your time \(keep a calendar of some sort\). 
 * Come to class, individual meetings, and special events on time. 
@@ -146,7 +146,7 @@ Individual meetings are not optional. They are important and useful. Sometimes t
 * Take risks & be fearless in your projects.
 * Have fun!
 
-### Student Values
+## Student Values
 
 * Have desire amounting to enthusiasm \(to learn, to explore\).
 * Have self-motivation, proactiveness, and focus.
@@ -154,11 +154,11 @@ Individual meetings are not optional. They are important and useful. Sometimes t
 * Be creative.
 * Have self-confidence and pride in your work!
 
-### Self Assessments
+## Self Assessments
 
 Students will conduct **self-assessments** as well as be evaluated by the professor at midterm and at the end of the semester. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something.
 
-### Evaluation & Grading
+## Evaluation & Grading
 
 **Attendance**
 
@@ -218,11 +218,11 @@ Each student will be judged on the iteration & improvement \(process\), craft & 
 
   Process, execution, documentation & presentation, and attendance of the student has been such that the student has failed course requirements. Work shows no overall understanding of senior project on many levels, and/or a severe lack of interest.
 
-### Technology Use In The Classroom
+## Technology Use In The Classroom
 
 Laptop computers and other mobile devices are invaluable tools for students when used responsibly. However, this technology can also be incredibly distracting in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, instagram, twitter, etc. **When your classmates are presenting, please be present and engaged.**
 
-### Academic Honesty
+## Academic Honesty
 
 Please review [NYU Tandon's academic dishonesty policy](https://engineering.nyu.edu/campus-and-community/student-life/office-student-affairs/policies/student-code-conduct) in its entirety.
 
@@ -230,38 +230,38 @@ All work for this class must be your own and specific to this semester. Any work
 
 You MUST have complete rights of use to any and all materials which appear in your senior project. This includes images, illustrations, audio, etc. The source of any materials NOT created by you MUST be documented. Please remember that you can collaborate with other students to create your own media or contact the authors of your media selections for rights. I strongly encourage you to use original media for your senior project, however, should you absolutely require to use stock images, video, etc., you will need to provide a PDF of all source files and the usage rights you have purchased/negotiated or whether it is creative commons or copyright free.
 
-### NYU Health and Wellness
+## NYU Health and Wellness
 
 NYU offers many health and wellness services and resources. Take advantage of them. [https://www.nyu.edu/students/health-and-wellness.html](https://www.nyu.edu/students/health-and-wellness.html)
 
-### Academic Accommodations
+## Academic Accommodations
 
 If you are a student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found at [http://www.nyu.edu/csd](http://www.nyu.edu/csd). The Moses Center is located at [726 Broadway](https://www.google.com/maps?q=726+Broadway&entry=gmail&source=g) on the 2nd floor.
 
-### Diversity and Inclusion
+## Diversity and Inclusion
 
 The TCS Department is dedicated to the university's goals for diversity, equity, and inclusion. NYU is committed to building a culture that respects and embraces diversity, inclusion, and equity, believing that these values – in all their facets – are, as President Andrew Hamilton said, “…not only important to cherish for their own sake, but because they are also vital for advancing knowledge, sparking innovation, and creating sustainable communities. They should be indispensable elements of an NYU education on all of our campuses. A diverse population encounters and appreciates all perspectives of an issue with a wealth of different approaches to confront it. The result is a higher quality of debate, and a more excellent and advanced academic enterprise.”
 
-### Title IX
+## Title IX
 
 Title IX makes it clear that violence and harassment based on sex and gender are Civil Rights offenses subject to the same kinds of accountability and the same kinds of support applied to offenses against other protected categories such as race, national origin, etc. If you or someone you know has been harassed or assaulted, you can find the appropriate resources here [https://www.nyu.edu/about/policies-guidelines-compliance/equal-opportunity/title9.html](https://www.nyu.edu/about/policies-guidelines-compliance/equal-opportunity/title9.html)
 
-### Required Readings
+## Required Readings
 
 * [Do The Work!](http://www.amazon.com/Do-Work-Steven-Pressfield/dp/1936719010/ref=sr_1_2?s=books&ie=UTF8&qid=1312385234&sr=1-2) by Steven Pressfield
 * [Epicenter Design](https://basecamp.com/gettingreal/09.2-epicenter-design)
 
-### Required Tools
+## Required Tools
 
 * Analog or Digital [Calendar](assignments/personal_kanban.md)
 * Analog or Digital [Planner or Journal](assignments/personal_kanban.md)
 
-### Software Requirements
+## Software Requirements
 
 * Web Browser
 * Website via your own ISP or [http://wp.nyu.edu](http://wp.nyu.edu)
 
-### [Recommended Resources](recommended_resources.md)
+## [Recommended Resources](recommended_resources.md)
 
-### [Schedule](schedule/)
+## [Schedule](schedule/)
 
