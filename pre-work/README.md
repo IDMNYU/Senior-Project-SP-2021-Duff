@@ -13,15 +13,15 @@ Our slack workspace is not just for me. It's for you, too. Let's make it our wor
 ## Read The Syllabus Thoroughly
 
 * Read the [syllabus](../syllabus.md) and be prepared to discuss and ask questions on first day of class.  
-* Please direct message deangela on slack if you find any broken links or typos in the syllabus.
+* Please direct message De Angela on slack if you find any broken links or typos in the syllabus.
 
 ## Populate A Calendar With Due Dates
 
-* Populate a calendar \(google, iCal, or analog\) with due dates for this class, even though dates may change.
+Populate a calendar \(google, iCal, or analog\) with due dates for this class, even though dates may change.
 
 ## Create a Senior Project Google Drive Folder
 
-* Create a google drive folder labeled "Senior Project SP21 your first and last name" and share with deangela.duff@nyu.edu \(i.e. Senior Project SP21 De Angela Duff\).
+Create a google drive folder labeled "Senior Project SP21 your first and last name" and share with deangela.duff@nyu.edu \(i.e. Senior Project SP21 De Angela Duff\).
 
 ## Set Up A Dedicated Senior Project Process Website
 
@@ -61,5 +61,5 @@ AFTER listening to the podcast, write a [response](../assignments/responses.md) 
 
 ## Pecha Kucha Presentation 
 
-* Be prepared to present your [pecha kucha presentation](pecha_kucha.md) to your classmates on the 1st day of class.
+Prepare your [pecha kucha](pecha_kucha.md) to present to your classmates on the 1st day of class.
 
