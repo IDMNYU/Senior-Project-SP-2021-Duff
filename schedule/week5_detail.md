@@ -10,5 +10,7 @@
 
 ## Class
 
+* Check In.
 * Class Critique: [Pro Practices Material Revisions](../end_of_semester_deliverables/pro_practices_revisions.md)
+* Check Out.
 

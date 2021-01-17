@@ -9,5 +9,7 @@
 
 ## **Class**
 
+* Check In.
 * Class critique: [Project Demos](../critiques-demos-presentations-and-exhibition/project_demo.md) continued.
+* Check out.
 
