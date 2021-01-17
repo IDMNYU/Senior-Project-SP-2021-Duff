@@ -2,6 +2,12 @@
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
+* BEFORE you revise your pro practices materials, watch the following videos I created last Spring to anticipate feedback I might give to you this semester. My feedback may vary from your pro practices instructor. Identify these variances and reflect on why the feedback is different. Be prepared to discuss these differences during class. I will make new ones for this class after you submit your Pro Practices Material Revisions.
+* [Career Resources](https://stream.nyu.edu/media/Senior+Project+Career+Resources/1_9kyp6fsm) \(&lt; 4 min\)
+* [Portfolio Websites](https://stream.nyu.edu/media/Senior+Project+Portfolio/1_3ssg7ckj) \(&lt; 7 min\)
+* [LinkedIn](https://stream.nyu.edu/media/Senior+Project+LinkedIn/1_678bu9ia) \(&lt; 4 min\)
+* [Resumes](https://stream.nyu.edu/media/Senior+Project+Resume/1_0b28s5fz) \(&lt; 7 min\)
+* [Cover Letters](https://stream.nyu.edu/media/Senior+Project+Cover+Letters/1_36vlce7a) \(&lt; 7 min\)
 * Revise [Pro Practices Material Revisions](../end_of_semester_deliverables/pro_practices_revisions.md).
 * Iterate: 
   * [research and design](../project_plan/) of your project.
