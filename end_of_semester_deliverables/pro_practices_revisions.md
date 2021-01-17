@@ -7,7 +7,7 @@ Iterate the following from professional practices:
 * Resumé
 * Cover Letter
 
-Post the following to this [google doc](https://docs.google.com/document/d/18CQB1dACgRe8G3vZQplNiLf6qknTm_w3Fo1cuLvbhq4/edit?usp=sharing):
+Post the following to this [google doc](https://docs.google.com/document/d/18CQB1dACgRe8G3vZQplNiLf6qknTm_w3Fo1cuLvbhq4/edit?usp=sharing): 
 
 Notes:
 
@@ -15,7 +15,7 @@ Notes:
   * An example: [https://www.glorialo.design](https://www.glorialo.design/)
 * Your **LinkedIn profile**. Make sure you connect with me, your peers in this section of senior project, the other senior project sections, and with as many people as possible in the IDM community. Continue to build your network.
 
-Export the following as pdfs and upload to your project documentation folder for your [end of semester deliverables](./) in a folder named "Pro Practices Revisions." Please name your files as lastname\_senior\_sp20\_resume.pdf and lastname\_senior\_sp20\_cover.pdf
+Export the following as pdfs and upload to your project documentation folder for your [end of semester deliverables](./) in a folder named "Pro Practices Revisions." Please name your files as lastname\_senior\_sp20\_resume.pdf and lastname\_senior\_sp20\_cover.pdf 
 
 * **Resumé** \(which should contain the URL to your portfolio website\)
   * LinkedIn Learning: [Designing a Resumé for Creatives](https://www.linkedin.com/learning/designing-a-resume-for-creatives/welcome?u=2131553)
@@ -55,7 +55,7 @@ _LinkedIn_
 
   * [Designing a Resumé for Creatives](https://www.linkedin.com/learning/designing-a-resume-for-creatives/welcome?u=2131553)
 
-* LinkedIn Help:
+* LinkedIn Help: 
   * [Let Recruiters Know You’re Open to Job Opportunities \| LinkedIn Help](https://www.linkedin.com/help/linkedin/answer/67405?lang=en&src=aff-lilpar&veh=aff_src.aff-lilpar_c.partners_pkw.123201_plc.adgoal%20GmbH_pcrid.449670_learning&trk=aff_src.aff-lilpar_c.partners_pkw.123201_plc.adgoal%20GmbH_pcrid.449670_learning&clickid=XVGx8mzlPxyOUGjwUx0Mo38SUki2%3A00lwW9ZVM0&irgwc=1)
   * [Find Jobs on LinkedIn – Best Practices \| LinkedIn Help](https://www.linkedin.com/help/linkedin/answer/110912)
 

@@ -11,7 +11,7 @@
 * _We will be meeting via Zoom for the rest of the semester. Check slack for the link._
 * _I will be recording this class session._
 * _Slack and gitbook are still the main sources of communication and information about our class._
-  * \_\_[_Manage your Slack email notifications._](https://slack.com/help/articles/360003868571-Manage-your-Slack-email-subscriptions) \_\_
+  * \_\_[_Manage your Slack email notifications._](https://slack.com/help/articles/360003868571-Manage-your-Slack-email-subscriptions) __
   * _Your email notifications should go to your nyu email._ 
   * _You should check your nyu email daily._
 * _Gitbook has been updated to reflect the changes in the schedule._

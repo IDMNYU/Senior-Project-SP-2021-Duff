@@ -2,7 +2,7 @@
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
-* Create [project plan presentation]() minus the development section unless you're there already.
+* Create [project plan presentation](../critiques-demos-presentations-and-exhibition/project_plan_presentation.md) minus the development section unless you're there already.
 * Iterate: 
   * [research and design](../project_plan/) of your project.
   * [resources and milestones](../project_plan/) for your project. \(if applicable\)
@@ -10,5 +10,7 @@
 
 ## Class
 
-* Class Critique: [Project plan presentation]()
+* Class Critique: [Project plan presentation](../critiques-demos-presentations-and-exhibition/project_plan_presentation.md)
+
+
 

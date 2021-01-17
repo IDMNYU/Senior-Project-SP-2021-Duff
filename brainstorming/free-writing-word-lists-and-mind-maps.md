@@ -16,5 +16,5 @@ For more info, read:
 * [https://writingprocess.mit.edu/process/step-1-generate-ideas/instructions/idea-mapweb](https://writingprocess.mit.edu/process/step-1-generate-ideas/instructions/idea-mapweb) 
 * [https://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811](https://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811)
 
-![Andy Hunt mind map from the book Pragmatic Thinking and Learning](https://github.com/IDMNYU/Senior-Project-SP-2021-Duff/tree/f733c3a299af78aa29514d4bd2736819eb5319cd/.gitbook/assets/andy-hunt-mindmap.png)
+![Andy Hunt mind map from the book Pragmatic Thinking and Learning](../.gitbook/assets/andy-hunt-mindmap.png)
 
