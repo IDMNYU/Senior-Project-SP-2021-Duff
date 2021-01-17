@@ -190,7 +190,6 @@ Real learning only occurs as part of a reflective process. Reflection is studyin
   * 15% [Project Development](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/project_plan/README.md)
 * 40% [End of Semester Documentation and Deliverables](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/README.md)   
   * 05% [End of Semester Process PDF](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/pdf_or_book.md)
-  * \(OPTIONAL\) [End of Semester Process Book for EXTRA CREDIT \(raise final grade by half a letter grade\)](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/pdf_or_book.md)
   * 05% [Project Documentation For IDM Archives and Promotion](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/project_documentation.md)
   * 7.5% [Pro Practices Revisions](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/pro_practices_revisions.md)   
   * 2.5% [Final Self-assessment](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/final_self_assessment.md)
