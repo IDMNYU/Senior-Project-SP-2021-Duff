@@ -30,7 +30,7 @@ The course website is the official source for all dates and assignments. This sy
 [https://idmspsp2021.slack.com](https://idmspsp2021.slack.com/)  
 Slack will be our primary communication tool. Join with nyu.edu email address.
 
-The main slack channel is not just for me. It's for you, too. Free feel to share what has been helping you stay happy, healthy, or productive during this unprecedented time in our main slack channel. Also share resources and references with each other. Also, interact with the students in the other sections in the student lounge channel.
+Our slack workspace is not just for me. It's for you, too. Let's make it our workspace. Free feel to share what has been helping you stay happy, healthy, or productive during this unprecedented time in our main slack channel. Also share resources and references with each other. Also, interact with the students in the other sections in the student lounge channel. You can also direct message any student or faculty member from the four sections on slack. All classes are using the same slack workspace.
 
 ## **Welcome to Senior Project In Digital Media!**
 
