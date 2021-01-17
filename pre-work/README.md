@@ -8,6 +8,8 @@
 
 [Join our slack channel](https://idmspsp2021.slack.com/) with your nyu.edu email address.
 
+Our slack workspace is not just for me. It's for you, too. Let's make it our workspace. Free feel to share what has been helping you stay happy, healthy, or productive during this unprecedented time in our main slack channel. Also share resources and references with each other. Also, interact with the students in the other sections in the student lounge channel. You can also direct message any student or faculty member from the four sections on slack. All classes are using the same slack workspace.
+
 ## Read The Syllabus Thoroughly
 
 * Read the [syllabus](../syllabus.md) and be prepared to discuss and ask questions on first day of class.  
