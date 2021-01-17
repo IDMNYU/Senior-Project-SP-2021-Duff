@@ -2,8 +2,6 @@
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
-## **Deliverables**
-
 * Check-in with your [accountability team](../assignments/accountability_partner.md).
 * Prepare for your [project presentation](../critiques-demos-presentations-and-exhibition/project-presentation.md).
 * Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../project_plan/) of your project as needed.
