@@ -8,15 +8,11 @@ description: Systems & Tools
 
 ## _Time Management_
 
-**It is imperative that you keep an analog or digital calendar. I actually keep both.**
-
-\_\_
-
-## _Project Management_
+It is imperative that you keep an analog or digital calendar. I actually keep both.
 
 ## _Recommended Planners and Journals_
 
-_The most highly recommended planner or journal by students is the_ [**Bullet Journal**](https://bulletjournal.com/)**.** It's a system. You only need to use a pen and paper or digital tablet to engage. In other words, there's no journal to buy.
+The most highly recommended planner or journal by students is the __[**Bullet Journal**](https://bulletjournal.com/)**.** It's a system. You only need to use a pen and paper or digital tablet to engage. In other words, there's no journal to buy.
 
 I personally use an un-dated digital version of the ink and volt planner. I've gone back and forth between several of these. Planners and journals are personal. You have to figure out what works for you, and as you grow your planner and journal needs may change. 
 
@@ -35,13 +31,13 @@ I personally use an un-dated digital version of the ink and volt planner. I've g
 
 ## Track Your Actionable Tasks and Progress
 
-Regardless of what you choose, you need to create a system to track your actionable tasks and progress \(aka making sure you are getting your project tasks done\).
+You need to create a system to track your actionable tasks and progress \(aka making sure you are getting your project tasks done\).
 
 **Break down** EVERYTHING you need to do for **your project into actionable tasks.** One method is [Personal Kanban](http://personalkanban.com/pk/personal-kanban-101/), but you may have your own.  
   
 All actionable tasks should start with a verb \(i.e. write, call, email, build, collect, etc.\) and be visible in some way \(not in your head\).
 
-I recommend using an analog, digital, or analog/digital combination.
+I recommend using an analog, digital, or analog/digital tool combination \(See suggestions below\).
 
 * post-it notes on a wall or mini ones in a notebook \(so you can move them around\),
 * [bullet journal](https://bulletjournal.com/) \(many students use this method\) or
