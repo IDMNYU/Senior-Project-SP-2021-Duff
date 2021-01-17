@@ -20,7 +20,7 @@ As a student, you should also develop your critical thinking skills. This will i
 * What are your risks of failure \(lack of tech, time, knowledge, money, etc.\)?
 * Create a contingency plan for major risks.
 
-![](../.gitbook/assets/experiential_learning_cycles_475.jpg)
+![](https://github.com/IDMNYU/Senior-Project-SP-2021-Duff/tree/f733c3a299af78aa29514d4bd2736819eb5319cd/.gitbook/assets/experiential_learning_cycles_475.jpg)
 
-![](../.gitbook/assets/experiential_learning_cycle_simple_476.jpg)
+![](https://github.com/IDMNYU/Senior-Project-SP-2021-Duff/tree/f733c3a299af78aa29514d4bd2736819eb5319cd/.gitbook/assets/experiential_learning_cycle_simple_476.jpg)
 

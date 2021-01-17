@@ -15,7 +15,7 @@ from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p
 | **Name** | De Angela L. Duff | **Term & Year** | Spring 2021 |
 | **Email** | deangela.duff@nyu.edu | **Meeting Day** | Mondays |
 | **Phone** | 646 997 3758 | **Meeting Time** | 2:00-3:50pm |
-| **Office** | Zoom | **Location** | Zoom |
+| **Office** | Zoom | **Location** | Zoom & \(at times\) Airmeet |
 | **Office Hours** | after class or by appt. at [http://calendly.com/deangela](http://calendly.com/deangela) | **Credit Hrs** | 3 |
 
 **Course Website:** [https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/](https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/)  

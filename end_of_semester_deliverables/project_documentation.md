@@ -15,5 +15,3 @@ Video and/or audio documentation \(varies by student\)
 * If creating an audio podcast, provide mp3s of all podcasts.
 * If creating any print medium, provide an original copy of it or provide a digital copy of it.
 
-
-
