@@ -4,12 +4,17 @@
 
 ## Career Preparation
 
-_NYU Resources_
+## _NYU Resources_
 
 * [Wasserman Center](https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html)
-* [Leslie Elab](http://entrepreneur.nyu.edu/)
+* [Leslie Elab](http://entrepreneur.nyu.edu/)\_\_
 
-  _LinkedIn_
+## _Catt Small \(IDM Alumna\)_
+
+* \*\*\*\*[**Impress for success: Strategic ways to seem more hireable**](https://cattsmall.com/advice/2018/09/24/be-hireable-get-hired.html)\*\*\*\*
+* \*\*\*\*[**12 tips for getting into a new career**](https://cattsmall.com/advice/2019/11/02/get-entry-level-job-new-career.html)\*\*\*\*
+
+## _LinkedIn_
 
 * LinkedIn Learning:
   * [Designing a Resumé for Creatives](https://www.linkedin.com/learning/designing-a-resume-for-creatives/welcome?u=2131553)
@@ -17,12 +22,13 @@ _NYU Resources_
   * [Let Recruiters Know You’re Open to Job Opportunities \| LinkedIn Help](https://www.linkedin.com/help/linkedin/answer/67405?lang=en&src=aff-lilpar&veh=aff_src.aff-lilpar_c.partners_pkw.123201_plc.adgoal%20GmbH_pcrid.449670_learning&trk=aff_src.aff-lilpar_c.partners_pkw.123201_plc.adgoal%20GmbH_pcrid.449670_learning&clickid=XVGx8mzlPxyOUGjwUx0Mo38SUki2%3A00lwW9ZVM0&irgwc=1)
   * [Find Jobs on LinkedIn – Best Practices \| LinkedIn Help](https://www.linkedin.com/help/linkedin/answer/110912)
 
-_Catt Small_
+## _AIGA \(Professional Org for Creatives\)_
 
-* \*\*\*\*[**Impress for success: Strategic ways to seem more hireable**](https://cattsmall.com/advice/2018/09/24/be-hireable-get-hired.html)\*\*\*\*
-* \*\*\*\*[**12 tips for getting into a new career**](https://cattsmall.com/advice/2019/11/02/get-entry-level-job-new-career.html)\*\*\*\*
+* [AIGA's Career Advice during COVID-19](https://www.aiga.org/aiga/content/tools-and-resources/commitment-to-community/career-advice-for-covid-19/).
+* [AIGA's Internships in Design: Advice for COVID-19](https://www.aiga.org/aiga/content/tools-and-resources/commitment-to-community/internships-in-design-advice-for-covid-19/).
+* [AIGA's How To Ace the Virtual Interview](https://www.aiga.org/aiga/content/tools-and-resources/commitment-to-community/how-to-ace-the-virtual-interview/).
 
-_Job Boards_
+## _Job Boards_
 
 * [Glass Door](http://glassdoor.com)
 * [Words of Mouth](http://www.wordsofmouth.org/)
