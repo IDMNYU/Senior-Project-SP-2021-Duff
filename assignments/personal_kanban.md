@@ -27,17 +27,17 @@ One method is [Personal Kanban](http://personalkanban.com/pk/personal-kanban-101
 * Waiting For \(OPTIONAL\)
 * Done
 
-Another popular method is [Getting Things Done](https://gettingthingsdone.com/what-is-gtd/). I personally use a combination of both.
+Another popular method is [Getting Things Done](https://gettingthingsdone.com/what-is-gtd/). 
+
+_I personally use a combination of both._
 
 ## Recommended Visible Systems
 
-The most highly recommended planner or journal by students is the __[**Bullet Journal**](https://bulletjournal.com/)**.** It's a system. You only need to use a pen and paper or digital tablet to engage. In other words, there's no journal to buy.
+The most highly recommended planner or journal by students is the __[**Bullet Journal**](https://bulletjournal.com/)**.** It's a system. You only need to use a pen and paper or a digital tablet to engage. In other words, there's no journal to buy.
 
-I recommend having a analog or digital personal kanban using \*[Asana](https://asana.com/), [Trello](https://trello.com/) \(or [Kanbanery](https://kanbanery.com/)\).
+I recommend having an analog or digital personal kanban using \*[Asana](https://asana.com/), [Trello](https://trello.com/) \(or [Kanbanery](https://kanbanery.com/)\).
 
-The analog method: 
-
-post-it notes on a wall or mini ones in a notebook \(so you can move them around\),
+The analog method is having post-it notes on a wall or mini ones in a notebook \(so you can move them around\),
 
 ## Recommended Planners
 
