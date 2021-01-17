@@ -30,6 +30,8 @@ The course website is the official source for all dates and assignments. This sy
 [https://idmspsp2021.slack.com](https://idmspsp2021.slack.com/)  
 Slack will be our primary communication tool. Join with nyu.edu email address.
 
+The main slack channel is not just for me. It's for you, too. Free feel to share what has been helping you stay happy, healthy, or productive during this unprecedented time in our main slack channel. Also share resources and references with each other. Also, interact with the students in the other sections in the student lounge channel.
+
 ## **Welcome to Senior Project In Digital Media!**
 
 **What is Senior Project in Digital Media?** Senior Project in Digital Media is the capstone course for the Integrated Digital Media \(IDM\) program. This course mirrors the creative process that professional artists, designers, creative technologists, and entrepreneurs must practice throughout their entire careers. In order to succeed, this course requires you to devote a lot of time and effort outside of class, throughout the entire semester.
