@@ -154,7 +154,9 @@ It is the responsibility of each senior to invite an outside critic to _at least
 
 ## Self Assessments
 
-Students will conduct **self-assessments** as well as be evaluated by the professor at midterm and at the end of the semester. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something.
+Students will conduct **self-assessments** as well as be evaluated by the professor at [midterm](end_of_semester_deliverables/midterm_self_assessment.md) and at the [end of the semester](end_of_semester_deliverables/final_self_assessment.md). 
+
+Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something.
 
 ## Evaluation & Grading
 
