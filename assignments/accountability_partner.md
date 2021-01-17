@@ -1,11 +1,10 @@
 # Accountability Team
 
-**Responsibility of Accountability Team**
+## **Responsibility of Accountability Team**
 
-* You will either volunteer for or get assigned to a team of 3 people. 
+* You will either volunteer for or get assigned to a team of 3 people by or during the third class after drop/add. 
 * Get each other's contact info \(email and cell phone\).
 * Check-in with each other 
-  * via Zoom 
   * on a weekly basis 
   * OUTSIDE of class
 * Conduct a weekly review
@@ -19,5 +18,7 @@
 * Take notes for each other's presentations.
 * Provide moral support and encouragement.
 
-**Accountability Teams:**
+## **Accountability Teams:**
+
+**Once**
 
