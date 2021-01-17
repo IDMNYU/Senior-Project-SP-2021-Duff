@@ -1,5 +1,7 @@
 # Process Website
 
+![Progress &amp;gt; Perfection Illustration by Jolby from Gettoworkbook.](../.gitbook/assets/gettoworkbook_progress-perfection%20%281%29.jpg)
+
 Please add your name and the URL of your process website to this [shared google doc](https://docs.google.com/document/d/1Y3DCwp7kZoMx-zMVO6IMVDuD9AUpfTLV2gx7sPXTd7U/edit).
 
 You should have a **dedicated**, senior project website to document your **daily** and/or **weekly** process and progress of your senior project. Students are expected to share their process and progress with others using their "process" website.
