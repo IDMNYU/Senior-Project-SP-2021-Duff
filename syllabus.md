@@ -18,13 +18,17 @@ from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p
 | **Office** | Zoom | **Location** | Zoom & \(at times\) Airmeet |
 | **Office Hours** | after class or by appt. at [http://calendly.com/deangela](http://calendly.com/deangela) | **Credit Hrs** | 3 |
 
-**Course Website:** [https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/](https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/)  
+This semester there are four different sections of senior project. Please be aware that you may be **switched into another section** **BEFORE drop/add**, depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. The four senior project faculty will collectively decide and inform specific students. Students should not seek to switch sections on their own. You will be notified first in person and subsequently by email for follow up instructions.
+
+## **Course Website**
+
+ [https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/](https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/)  
 The course website is the official source for all dates and assignments. This syllabus provides a general overview and guideline for the course. All dates and assignments may be subject to change at the discretion of the professor.
 
-**Course Communication:** [https://idmspsp2021.slack.com](https://idmspsp2021.slack.com/)  
-Slack will be our primary communication tool. Join with nyu.edu email address.
+## **Course Communication** 
 
-This semester there are four different sections of senior project. Please be aware that you may be **switched into another section** **BEFORE drop/add**, depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. The four senior project faculty will collectively decide and inform specific students. Students should not seek to switch sections on their own. You will be notified first in person and subsequently by email for follow up instructions.
+[https://idmspsp2021.slack.com](https://idmspsp2021.slack.com/)  
+Slack will be our primary communication tool. Join with nyu.edu email address.
 
 ## **Welcome to Senior Project In Digital Media!**
 
