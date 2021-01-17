@@ -7,9 +7,7 @@
 * [Document](../pre-work/website.md) your process and artifacts which includes the [prototype\(s\)](../project_plan/) of your project.
 * Prepare for [project demos](../critiques-demos-presentations-and-exhibition/project_demo.md).
 
-  \*\*\*\*
-
 ## **Class**
 
-* Class critique: [Project Demos](../critiques-demos-presentations-and-exhibition/project_demo.md)
+* Class critique: [Project Demos](../critiques-demos-presentations-and-exhibition/project_demo.md) continued.
 

@@ -7,6 +7,12 @@
 
 ## Class
 
-* \*\*\*\*[**Midterm Demo and Critique**](../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md) _\*\*_on Zoom.
+* \*\*\*\*[**Midterm Demo and Critique**](../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md) _\*\*_
 * Attendance is MANDATORY.
+
+## Announcement **ONLY for students who presented today, March 22: Midterm One On One Review \(**Tue Mar 23-Thu Mar 25\)
+
+* Will be conducted via Zoom
+* Schedule 20 minutes ONLY at [https://calendly.com/deangela](https://calendly.com/deangela).
+* [**Midterm Self Assessment**](../end_of_semester_deliverables/midterm_self_assessment.md) \(Direct message as pdf to deangela on slack BEFORE your meeting\).
 
