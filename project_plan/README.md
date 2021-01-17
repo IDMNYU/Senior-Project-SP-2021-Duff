@@ -2,7 +2,9 @@
 
 ![Forget Perfect. Make Progress!](http://teaching.polishedsolid.com/images/gettoworkbook_forget_perfect.png)
 
-_Illustration by Jolby from gettoworkbook_
+\_\_
+
+![Forget Perfect Make Progress Illustration by Jolby from gettoworkbook](../.gitbook/assets/gettoworkbook_forget-perfect-make-progress.jpg)
 
 The project plan will consist of a presentation and a written proposal.
 
