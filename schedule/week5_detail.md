@@ -2,7 +2,7 @@
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
-* Create [project plan presentation]() minus the development section unless you're there already.
+* Revise [Pro Practices Material Revisions](../end_of_semester_deliverables/pro_practices_revisions.md)
 * Iterate: 
   * [research and design](../project_plan/) of your project.
   * [resources and milestones](../project_plan/) for your project. \(if applicable\)
@@ -10,5 +10,5 @@
 
 ## Class
 
-* Class Critique: [Project plan presentation]()
+* Class Critique: [Pro Practices Material Revisions](../end_of_semester_deliverables/pro_practices_revisions.md)
 
