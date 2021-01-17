@@ -267,7 +267,7 @@ Title IX makes it clear that violence and harassment based on sex and gender are
 * Web Browser
 * Website via your own ISP or [http://wp.nyu.edu](http://wp.nyu.edu)
 
-## [Recommended Resources](recommended_resources.md)
+## [Career Preparation Resources](recommended_resources.md)
 
 ## [Schedule](schedule/)
 
