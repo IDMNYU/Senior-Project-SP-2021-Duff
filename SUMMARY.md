@@ -5,7 +5,7 @@
   * [Pecha Kucha presentation](pre-work/pecha_kucha.md)
   * [Process Website](pre-work/website.md)
 * [Syllabus](syllabus.md)
-* [Schedule - DRAFT! NOT FINAL](schedule/README.md)
+* [Schedule](schedule/README.md)
   * [Week 1 Detail Feb 1](schedule/week1_detail.md)
   * [Week 2 Detail Feb 8](schedule/week2_detail.md)
   * [Week 3 Detail Feb 18](schedule/week3_detail.md)

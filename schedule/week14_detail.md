@@ -2,10 +2,11 @@
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
+* Read from "End" chapter of _Do The Work_ by Steven Pressfield \(6 min\) and post your [response](../assignments/responses.md) to our slack channel.
 * Check-in with your [accountability team](../assignments/accountability_partner.md).
-* Read from "End" chapter of Do The Work by Steven Pressfield \(6 min\) and post your [response](../assignments/responses.md) to our slack channel.
 * Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../project_plan/) of your project as needed.
 * Continue to document your process and artifacts \(the thing\(s\) itself\) on your [process website](../pre-work/website.md).
+* Continue to work on your [process pdf](../end_of_semester_deliverables/pdf_or_book.md).
 
 ## Class
 
@@ -13,11 +14,11 @@
 * Review Events on [Master Schedule](./)
 * Discussion:
   * [Course Evaluation](../assignments/course_evaluation.md) Check-in 
-  * "End" chapter of Do The Work by Steven Pressfield \(6 min\). 
+  * "End" chapter of _Do The Work_ by Steven Pressfield \(6 min\). 
 * 10min Break
   * Complete [Course Evaluation](../assignments/course_evaluation.md) if you haven't done so. 
 * Class Critique:
-  * \(OPTIONAL\) [Process pdf](../end_of_semester_deliverables/pdf_or_book.md) DRAFT
+  * [Process pdf](../end_of_semester_deliverables/pdf_or_book.md) DUE
   * [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) of [Gold Version](../project_plan/project_versions.md) or Revision \(if applicable\)
 * Check-out
 

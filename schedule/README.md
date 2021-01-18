@@ -1,6 +1,6 @@
-# Schedule - DRAFT! NOT FINAL
+# Schedule
 
-![Big Things Happen 1 Day At A tTime Illustration by Jolby from gettoworkbook](../.gitbook/assets/gettoworkbook_big-things-happen-one-day-at-a-time%20%281%29.jpg)
+![Big Things Happen 1 Day At A tTime Illustration by Jolby from gettoworkbook](../.gitbook/assets/gettoworkbook_big_things.png)
 
 **ALL dates and assignments are subject to change at the discretion of the professor!** If applicable, means it depends on where you are in your process. Every project is different. Certain aspects of your project may take more or less time than others.
 
