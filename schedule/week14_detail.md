@@ -6,6 +6,7 @@
 * Read from "End" chapter of Do The Work by Steven Pressfield \(6 min\) and post your [response](../assignments/responses.md) to our slack channel.
 * Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../project_plan/) of your project as needed.
 * Continue to document your process and artifacts \(the thing\(s\) itself\) on your [process website](../pre-work/website.md).
+* Continue to work on your [process pdf](../end_of_semester_deliverables/pdf_or_book.md).
 
 ## Class
 
