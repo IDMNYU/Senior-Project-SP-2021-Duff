@@ -6,7 +6,6 @@
 * Read from "End" chapter of Do The Work by Steven Pressfield \(6 min\) and post your [response](../assignments/responses.md) to our slack channel.
 * Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../project_plan/) of your project as needed.
 * Continue to document your process and artifacts \(the thing\(s\) itself\) on your [process website](../pre-work/website.md).
-* Continue to work on your [process pdf](../end_of_semester_deliverables/pdf_or_book.md).
 
 ## Class
 
@@ -18,7 +17,7 @@
 * 10min Break
   * Complete [Course Evaluation](../assignments/course_evaluation.md) if you haven't done so. 
 * Class Critique:
-  * [Process pdf](../end_of_semester_deliverables/pdf_or_book.md) DRAFT
+  * \(OPTIONAL\) [Process pdf](../end_of_semester_deliverables/pdf_or_book.md) DRAFT
   * [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) of [Gold Version](../project_plan/project_versions.md) or Revision \(if applicable\)
 * Check-out
 
