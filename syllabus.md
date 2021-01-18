@@ -190,7 +190,7 @@ Real learning only occurs as part of a reflective process. Reflection is studyin
 * 25% Final Project 
   * 05% [Project Plan and its revisions](project_plan/)
   * 20% [Project Demos ](critiques-demos-presentations-and-exhibition/project_demo.md)/ [Project Development](project_plan/project_versions.md)
-* 40% End of Semester Documentation and Deliverables   
+* 37.5% End of Semester Documentation and Deliverables   
   * 05%[ End of Semester Process PDF](end_of_semester_deliverables/)
   * 05% [Project Documentation](end_of_semester_deliverables/project_documentation.md) For IDM Archives and Promotion
   * 7.5% [Pro Practices Revisions ](end_of_semester_deliverables/pro_practices_revisions.md)  
