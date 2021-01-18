@@ -180,6 +180,7 @@ Real learning only occurs as part of a reflective process. Reflection is studyin
 
 **Quantitative Grading Overview**
 
+* 2.5% [Responses](assignments/responses.md)
 * 15% Weekly submissions to [process website](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/pre-work/website.md)
 * 20% Critiques, Demos, Presentations & Exhibition
   * 05% [Pecha Kucha](pre-work/pecha_kucha.md)
@@ -196,7 +197,6 @@ Real learning only occurs as part of a reflective process. Reflection is studyin
   * 2.5% [Final Self-assessment](end_of_semester_deliverables/final_self_assessment.md)
   * 2.5% [Letter To Next Cohort](end_of_semester_deliverables/letter_to_next_cohort.md)
   * 2.5% [Midterm Self Assessment](end_of_semester_deliverables/midterm_self_assessment.md)
-  * 2.5% [Pre-work](pre-work/)
   * 2.5% [Course Evaluation](assignments/course_evaluation.md)  
 
 **Qualitative Grading Overview**
