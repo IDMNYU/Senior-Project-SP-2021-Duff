@@ -27,10 +27,8 @@
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left">Wed Feb 10</td>
-      <td style="text-align:left">
-        <p><b>LAST DAY OF DROP/ADD</b> (to receive 100% of tuition &amp; fees</p>
-        <p>and not receive a grade of &apos;W&apos;)</p>
-      </td>
+      <td style="text-align:left"><b>LAST DAY OF DROP/ADD</b> (to receive 100% of tuition &amp; fees and
+        not receive a grade of &apos;W&apos;)</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -118,7 +116,8 @@
     <tr>
       <td style="text-align:left">10</td>
       <td style="text-align:left">Mon Apr 05</td>
-      <td style="text-align:left">Begin Drafting Process PDF</td>
+      <td style="text-align:left">Individual One on Ones / Accountability Teams in Airmeet / Work on process
+        pdfs in class</td>
     </tr>
     <tr>
       <td style="text-align:left">11</td>
