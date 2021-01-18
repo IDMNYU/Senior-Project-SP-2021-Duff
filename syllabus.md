@@ -182,21 +182,22 @@ Real learning only occurs as part of a reflective process. Reflection is studyin
 
 * 15% Weekly submissions to [process website](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/pre-work/website.md)
 * 15% Critiques, Demos, Presentations & Exhibition
-  * 05% [Project Demos and Critiques](critiques-demos-presentations-and-exhibition/project_demo.md)
-  * 05% [Midterm Demo and Critique](critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md)
-  * 05% [IDM Student Showcase](critiques-demos-presentations-and-exhibition/idm_showcase.md)
+  * 05% [Project Demos and Critiques](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/critiques-demos-presentations-and-exhibition/project_demo.md)
+  * 05% [Midterm Demo and Critique](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/critiques-demos-presentations-and-exhibition/project_demo.md)
+  * 05% [IDM Student Showcase](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/critiques-demos-presentations-and-exhibition/idm_showcase.md)
 * 30% Final Project 
-  * 15% [Project Plan and its revisions](project_plan/)
-  * 15% [Project Development](project_plan/project_versions.md)
-* 40% End of Semester Documentation and Deliverables   
-  * 05%[ End of Semester Process PDF](end_of_semester_deliverables/)
-  * 05% [Project Documentation](end_of_semester_deliverables/project_documentation.md) For IDM Archives and Promotion
-  * 7.5% [Pro Practices Revisions ](end_of_semester_deliverables/pro_practices_revisions.md)  
-  * 2.5% [Final Self-assessment](end_of_semester_deliverables/final_self_assessment.md)
-  * 2.5% [Letter To Next Cohort](end_of_semester_deliverables/letter_to_next_cohort.md)
-  * 2.5% [Midterm Self Assessment](end_of_semester_deliverables/midterm_self_assessment.md)
-  * 2.5% [Pre-work](pre-work/)
-  * 2.5% [Course Evaluation](assignments/course_evaluation.md)  
+  * 15% [Project Plan and its revisions](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/project_plan/README.md)
+  * 15% [Project Development](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/project_plan/README.md)
+* 40% [End of Semester Documentation and Deliverables](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/README.md)   
+  * 05% [End of Semester Process PDF](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/pdf_or_book.md)
+  * \(OPTIONAL\) [End of Semester Process Book for EXTRA CREDIT \(raise final grade by half a letter grade\)](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/pdf_or_book.md)
+  * 05% [Project Documentation For IDM Archives and Promotion](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/project_documentation.md)
+  * 7.5% [Pro Practices Revisions](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/pro_practices_revisions.md)   
+  * 2.5% [Final Self-assessment](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/final_self_assessment.md)
+  * 2.5% [Letter To Next Cohort](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/letter_to_next_cohort.md)
+  * 2.5% [Midterm Self Assessment](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/midterm_self_assessment.md)
+  * 2.5% [Pre-work](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/pre-work/README.md)
+  * 2.5% [Course Evaluation](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/course_evaluation.md)  
 
 **Qualitative Grading Overview**
 
@@ -266,7 +267,7 @@ Title IX makes it clear that violence and harassment based on sex and gender are
 * Web Browser
 * Website via your own ISP or [http://wp.nyu.edu](http://wp.nyu.edu)
 
-## [Career Preparation Resources](recommended_resources.md)
+## [Recommended Resources](recommended_resources.md)
 
 ## [Schedule](schedule/)
 
