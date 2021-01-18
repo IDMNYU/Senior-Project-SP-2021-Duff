@@ -37,6 +37,19 @@
 * Every student should have 14 min total to be fair. 
 * Each student should present for up to 5 min and have the remaining time for feedback for a total of 14 min.
 
+## Reminders
+
+* I HIGHLY recommend that you **look at the project plans and links to the prototype\(s\) BEFORE Monday of everyone in your breakout group**. They can be found in the master google doc after the breakout rooms.
+* Make sure you do not use a presentation to describe your project.
+* Make sure you present the prototype\(s\) itself.
+* Make sure your elevator pitch is just that. Short. 1 to 2 sentences maximum.
+* Make sure you spend the bulk of your 5 min presenting your prototype\(s\).
+* Make sure you share your screen when you are presenting your prototype\(s\).
+* Use your entire 14 min. If students are not giving you feedback, ask them questions you are currently grappling with.
+* Give feedback to everybody in your breakout room if at all possible.
+* Do not just let the IDM grad student\(s\) or faculty talk.
+* There should be peer to peer feedback.
+
 ## **Rules of the critique:**
 
 * Do your best.
