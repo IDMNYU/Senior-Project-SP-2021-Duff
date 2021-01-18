@@ -38,6 +38,8 @@ Before beginning to prep for your [pecha kucha presentation](pecha_kucha.md), re
 
 ## Write A Response To _Do The Work_
 
+_Note: There are_ [_response guidelines outlined here_](../assignments/responses.md)_._
+
 AFTER reading the preface and the first two chapters in _Do The Work, w_rite a [response](../assignments/responses.md) that also contains a list of your enemies and allies and upload to a folder labeled "Pre-work" in your project documentation folder for your [end of semester deliverables](../end_of_semester_deliverables/). You do not have to post this to the process website so that only you and I can read your response.
 
 ## Listen To The Watchmen TV Series Podcast
@@ -47,6 +49,8 @@ Listen to the first [watchmen tv-series podcast](https://www.hbo.com/watchmen/wa
 The point of listening is NOT to learn about the watchmen but to understand his creative process in developing the tv series and how his team went about researching and making creative decisions. You don't need to watch the series because again you're not listening to this to learn about watchmen. I want you to hear how Lindelof's "inputs" \(remember ideation & prototyping\) help him create.
 
 ## Write A Response to the Watchmen TV Series Podcast
+
+_Note: There are_ [_response guidelines outlined here_](../assignments/responses.md)_._
 
 AFTER listening to the podcast, write a [response](../assignments/responses.md) in the \#duff slack channel that includes _at least_ 3 "inputs" \(aka research diet\) for your senior project. 
 
