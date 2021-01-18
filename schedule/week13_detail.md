@@ -15,7 +15,7 @@
   * [End of Semester Deliverables](../end_of_semester_deliverables/)
   * [Course Evaluation](../assignments/course_evaluation.md)
 * Class Critique:
-  * \(OPTIONAL\) [Process pdf](../end_of_semester_deliverables/pdf_or_book.md) DRAFT
+  * [Process pdf](../end_of_semester_deliverables/pdf_or_book.md) DRAFT
   * [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) of [Gold Version](../project_plan/project_versions.md) or Revision \(if applicable\)
 * Check-out
 

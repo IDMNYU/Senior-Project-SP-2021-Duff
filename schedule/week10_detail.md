@@ -13,8 +13,6 @@
 ## Class
 
 * Check-in
-* One on one meetings with students who would like additional feedback.
 * Meet with your [accountability team](../assignments/accountability_partner.md) and document it on the [process website](../pre-work/website.md).
-* Work on your [process pdf](../end_of_semester_deliverables/pdf_or_book.md) during class
 * Check-out
 
