@@ -122,7 +122,7 @@
     <tr>
       <td style="text-align:left">10</td>
       <td style="text-align:left">Mon Apr 05</td>
-      <td style="text-align:left">Project Demos</td>
+      <td style="text-align:left">Begin Drafting Process PDF</td>
     </tr>
     <tr>
       <td style="text-align:left">11</td>
