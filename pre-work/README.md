@@ -42,11 +42,13 @@ AFTER reading the preface and the first two chapters in _Do The Work, w_rite a [
 
 ## Listen To The Watchmen TV Series Podcast
 
-Listen to the first [watchmen tv-series podcast](https://www.hbo.com/watchmen/watchmen-listen-to-official-podcast), [Masks, for episodes 1-3](https://www.hbo.com/video/watchmen/seasons/season-1/episodes/03/videos/podcast-ep-1) \(57 min\) to hear about writer Damon Lindelof's process. The point of listening is NOT to learn about the watchmen but to understand his creative process in developing the tv series and how his team went about researching and making creative decisions. You don't need to watch the series because again you're not listening to this to learn about watchmen. I want you to hear how Lindelof's "inputs" \(remember ideation & prototyping\) help him create.
+Listen to the first [watchmen tv-series podcast](https://www.hbo.com/watchmen/watchmen-listen-to-official-podcast), [Masks, for episodes 1-3](https://www.hbo.com/video/watchmen/seasons/season-1/episodes/03/videos/podcast-ep-1) \(57 min\) to hear about writer Damon Lindelof's process.   
+  
+The point of listening is NOT to learn about the watchmen but to understand his creative process in developing the tv series and how his team went about researching and making creative decisions. You don't need to watch the series because again you're not listening to this to learn about watchmen. I want you to hear how Lindelof's "inputs" \(remember ideation & prototyping\) help him create.
 
 ## Write A Response to the Watchmen TV Series Podcast
 
-AFTER listening to the podcast, write a [response](../assignments/responses.md) that includes the identification of _at least_ 3 "inputs" for Lindelof in creating watchmen, NOT including the original graphic novel, as well as the identification of _at least_ 3 "inputs" \(aka research diet\) for your senior project. Post your response to your [process website](website.md) and post a link to your response on this [google doc](https://docs.google.com/document/d/1wHaH_ytbwvz8WO1-h-0mByGPXTLDCKLRHbA8N-UfVBc/edit?usp=sharing). 
+AFTER listening to the podcast, write a [response](../assignments/responses.md) in the \#duff slack channel that includes _at least_ 3 "inputs" \(aka research diet\) for your senior project. 
 
 ## \(OPTIONAL\) Brainstorm Project Ideas
 
