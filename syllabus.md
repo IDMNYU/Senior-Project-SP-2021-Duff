@@ -182,12 +182,13 @@ Real learning only occurs as part of a reflective process. Reflection is studyin
 
 * 15% Weekly submissions to [process website](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/pre-work/website.md)
 * 15% Critiques, Demos, Presentations & Exhibition
-  * 05% [Project Demos and Critiques](critiques-demos-presentations-and-exhibition/project_demo.md)
-  * 05% [Midterm Demo and Critique](critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md)
+  * 05% [Project Presentation](critiques-demos-presentations-and-exhibition/project-presentation.md)
+  * 05% [Midterm Demo](critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md)
   * 05% [IDM Student Showcase](critiques-demos-presentations-and-exhibition/idm_showcase.md)
 * 30% Final Project 
-  * 15% [Project Plan and its revisions](project_plan/)
-  * 15% [Project Development](project_plan/project_versions.md)
+  * 10% [Project Plan and its revisions](project_plan/)
+  * 10% [Project Demos ](critiques-demos-presentations-and-exhibition/project_demo.md)
+  * 10% [Project Development](project_plan/project_versions.md)
 * 40% End of Semester Documentation and Deliverables   
   * 05%[ End of Semester Process PDF](end_of_semester_deliverables/)
   * 05% [Project Documentation](end_of_semester_deliverables/project_documentation.md) For IDM Archives and Promotion
