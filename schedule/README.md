@@ -45,10 +45,6 @@
         <p><b>Legislative Day - Classes will meet according to a Monday schedule.</b>
         </p>
         <p>Individual One on Ones / Accountability Teams in Airmeet</p>
-        <p>Guests:</p>
-        <p>Kristofer G. Larsen, Assistant Director, Office of Global Awards / Research
-          and design / Resources and Milestones</p>
-        <p>IDM Alum?</p>
       </td>
     </tr>
     <tr>
@@ -122,7 +118,7 @@
     <tr>
       <td style="text-align:left">10</td>
       <td style="text-align:left">Mon Apr 05</td>
-      <td style="text-align:left">Project Demos</td>
+      <td style="text-align:left">Begin Drafting Process PDF</td>
     </tr>
     <tr>
       <td style="text-align:left">11</td>

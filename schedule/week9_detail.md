@@ -14,7 +14,6 @@
 ## [**Midterm Demo and Critique**](../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md) 
 
 * Attendance is MANDATORY.
-* [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) of [Alpha or Beta Version](../project_plan/project_versions.md) \(depending on where you are in your process.\)
 
 ## Announcement **ONLY for students who presented today, March 29**: **Midterm One On One Review \(**Tue Mar 30-Fri Apr 1\)
 
