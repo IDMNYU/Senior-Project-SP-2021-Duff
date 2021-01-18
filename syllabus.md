@@ -180,16 +180,16 @@ Real learning only occurs as part of a reflective process. Reflection is studyin
 
 **Quantitative Grading Overview**
 
-* 2.5% [Responses](assignments/responses.md)
-* 15% Weekly submissions to [process website](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/pre-work/website.md)
+* 7.5% [Responses](assignments/responses.md)
+* 15% [Process website](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/pre-work/website.md)
 * 20% Critiques, Demos, Presentations & Exhibition
   * 05% [Pecha Kucha](pre-work/pecha_kucha.md)
   * 05% [Project Presentation](critiques-demos-presentations-and-exhibition/project-presentation.md)
   * 05% [Midterm Demo](critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md)
   * 05% [IDM Student Showcase](critiques-demos-presentations-and-exhibition/idm_showcase.md)
-* 25% Final Project 
+* 20% Final Project 
   * 05% [Project Plan and its revisions](project_plan/)
-  * 20% [Project Demos ](critiques-demos-presentations-and-exhibition/project_demo.md)/ [Project Development](project_plan/project_versions.md)
+  * 15% [Project Demos ](critiques-demos-presentations-and-exhibition/project_demo.md)/ [Project Development](project_plan/project_versions.md)
 * 37.5% End of Semester Documentation and Deliverables   
   * 05%[ End of Semester Process PDF](end_of_semester_deliverables/)
   * 05% [Project Documentation](end_of_semester_deliverables/project_documentation.md) For IDM Archives and Promotion
