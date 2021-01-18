@@ -14,7 +14,7 @@
 * Review Events on [Master Schedule](./)
 * Discussion:
   * [Course Evaluation](../assignments/course_evaluation.md) Check-in 
-  * "End" chapter of Do The Work by Steven Pressfield \(6 min\). 
+  * "End" chapter of _Do The Work_ by Steven Pressfield \(6 min\). 
 * 10min Break
   * Complete [Course Evaluation](../assignments/course_evaluation.md) if you haven't done so. 
 * Class Critique:
