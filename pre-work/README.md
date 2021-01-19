@@ -4,7 +4,7 @@
 
 ![Just Start Illustration by Jolby from Get To Work Book](../.gitbook/assets/gettoworkbook_just-start%20%281%29.jpg)
 
-## Join Our Slack Channel
+## Join Our Slack Workspace and Channel
 
 [Join our shared slack workspace with the other 3 sections of IDM Senior Project ](https://idmspsp2021.slack.com/)with your nyu.edu email address. I also sent you an email invite. 
 
