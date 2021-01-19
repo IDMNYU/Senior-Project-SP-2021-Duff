@@ -42,11 +42,11 @@ The point of listening is NOT to learn about the watchmen but to understand his 
 
 _Note: There are_ [_response guidelines outlined here_](../assignments/responses.md)_._
 
-AFTER listening to the podcast, write a [response](../assignments/responses.md) in the \#duff slack channel that includes _at least_ 3 "inputs" \(aka research diet\) for your senior project. 
+AFTER listening to the podcast, write a [response](../assignments/responses.md) in the \#duff slack channel. In addition to using the response guidelines, also, include _at least_ 3 "inputs" \(reference and /or inspiration\) for your senior project. 
 
 ## \(OPTIONAL\) Brainstorm Project Ideas
 
-* A few of you may already know what you want to do for your senior project. IF you are committed to your project, move on to the [pecha kucha presentation](pecha_kucha.md).
+* A few of you may already know what you want to do for your senior project. IF you are committed to your project, move on to the [pecha kucha presentation](pecha_kucha.md). However, before you commit, make sure you read [**Welcome to Senior Project In Digital Media!**](https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/syllabus#welcome-to-senior-project-in-digital-media) **AND** [**Your Commitment To Senior Project**](https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/syllabus#your-commitment-to-senior-project) in the [syllabus](../syllabus.md).
 * IF you need help coming up with ideas for your senior project, do one or more of the following brainstorming exercises and document \(i.e. Take photos and/or screenshots OR write a [response](../assignments/responses.md) depending on which is applicable\), post to your [process website](website.md), and upload to a folder labeled "Pre-work" in your project documentation folder for your [end of semester deliverables](../end_of_semester_deliverables/).
   * [Free Writing, Word Lists & Mind Maps](../brainstorming/free-writing-word-lists-and-mind-maps.md)
   * [SCAMPER Technique](http://www.mindtools.com/pages/article/newCT_02.htm)
