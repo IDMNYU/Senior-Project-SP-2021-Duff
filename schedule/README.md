@@ -23,8 +23,7 @@
       <td style="text-align:left">2</td>
       <td style="text-align:left"><a href="week2_detail.md">Mon Feb 08</a>
       </td>
-      <td style="text-align:left">Pecha kucha presentations <b>continued</b>
-      </td>
+      <td style="text-align:left">Pecha kucha presentations continued</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
