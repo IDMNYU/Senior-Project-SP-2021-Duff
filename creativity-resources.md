@@ -1,7 +1,5 @@
 # Creativity Resources
 
-
-
 ## Recommended Audio Podcasts
 
 * [Revision Path](https://itunes.apple.com/us/podcast/revision-path/id834173190?mt=2) 
@@ -23,12 +21,14 @@
 
 ## Creativity
 
+* [Do The Work](https://www.amazon.com/Do-Work-Steven-Pressfield-ebook/dp/B00NK0MJBK/ref=sr_1_1?dchild=1&keywords=do+the+work&qid=1611015005&sr=8-1) by Steven Pressfield
+  * _Do The Work_ is pretty much a distillation of the principles in _The War of Art_. 
 * [Everything is a remix](https://www.everythingisaremix.info/watch-the-series) by Kirby Ferguson
 * [Keep Going: 10 Ways to Stay Creative in Good Times and Bad](https://www.amazon.com/Keep-Going-Ways-Creative-Times/dp/1523506644/ref=sr_1_1?keywords=austin+kleon&qid=1578346637&sr=8-1) by Austin Kleon \([Cheat Sheet](https://miro.medium.com/max/2048/1*Sz1lQkqKnhcWjcmy4xaxNA.jpeg)\)
 * [Steal Like An Artist: 10 Things Nobody Told You About Being Creative](http://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253/ref=sr_1_1?ie=UTF8&qid=1422468736&sr=8-1&keywords=steal+like+an+artist) by Austin Kleon \([Cheat Sheet](https://bbinno.files.wordpress.com/2016/04/steal2.png?w=736)\)
+* [The Practice: Shipping Creative Work](https://www.amazon.com/Practice-Shipping-Creative-Work-ebook/dp/B088QLT891/ref=sr_1_1?dchild=1&keywords=the+practice&qid=1611014987&sr=8-1) by Seth Godin
 * [The Rise: Creativity, the Gift of Failure, and the Search for Mastery](https://www.amazon.com/Rise-Creativity-Failure-Search-Mastery/dp/1451629249/ref=sr_1_1?keywords=sarah+lewis&qid=1578348223&sr=8-1) by Sarah Lewis
-* [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles](http://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/) by Steven Pressfield Read the required book _Do The Work_ also by Steven Pressfield first \(see the syllabus\).
-  * If you like _Do The Work_ and want to read more about what he talks about, I highly suggest that you acquire this one as well. _Do The Work_ is pretty much a distillation of the principles in _The War of Art_. 
+* [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles](http://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/) by Steven Pressfield 
 
 ## Design
 
