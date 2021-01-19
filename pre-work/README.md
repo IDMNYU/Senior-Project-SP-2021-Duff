@@ -6,6 +6,8 @@
 
 ## Fill out this [quick, 3-question survey](https://forms.gle/946nqoBcMrMdR6Dc6) 
 
+You must use your NYU email to see the survey.
+
 ## Join Our Slack Workspace and Channel
 
 [Join our shared slack workspace with the other 3 sections of IDM Senior Project ](https://idmspsp2021.slack.com/)with your nyu.edu email address. I also sent you an email invite. 
