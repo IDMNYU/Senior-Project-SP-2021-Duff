@@ -6,9 +6,13 @@
 
 ## Join Our Slack Channel
 
-[Join our shared slack workspace with the other 3 sections of senior studio ](https://idmspsp2021.slack.com/) with your nyu.edu email address. I also sent you an email invite. **Join our class section channel \(\#duff\)**. The student lounge is where you can interact with students from all four sections. The announcements channel is also for all four sections.
+[Join our shared slack workspace with the other 3 sections of IDM Senior Project ](https://idmspsp2021.slack.com/)with your nyu.edu email address. I also sent you an email invite. 
 
-Our slack workspace is not just for me. It's for you, too. Let's make it our workspace. Free feel to share what has been helping you stay happy, healthy, or productive during this unprecedented time in our main slack channel. Also share resources and references with each other. Also, interact with the students in the other sections in the student lounge channel. You can also direct message any student or faculty member from the four sections on slack. All classes are using the same slack workspace.
+* **Join our class section channel \(\#duff\)**. 
+* The **\#studentlounge** is where you can interact with students from all four sections.
+* The **\#announcements** channel is where you will find announcements that apply to all four sections.
+
+Our slack workspace is not just for me. It's for you, too. Let's make it our workspace. Free feel to share what has been helping you stay happy, healthy, or productive during this unprecedented time in our class slack channel \(\#duff\). Also share resources and references with each other. Also, interact with the students in the other sections in the \#studentlounge channel. You can also direct message any student or faculty member from the four sections on slack. All classes are using the same slack workspace.
 
 ## Read The Syllabus Thoroughly
 
@@ -27,20 +31,6 @@ Create a google drive folder labeled "Senior Project SP21 your first and last na
 
 * Set up [dedicated process website](website.md) for senior project.
 * Please add your name and the URL of your process website to this [shared google doc](https://docs.google.com/document/d/1Y3DCwp7kZoMx-zMVO6IMVDuD9AUpfTLV2gx7sPXTd7U/edit).
-
-## Read _Do The Work_ 
-
-Before beginning to prep for your [pecha kucha presentation](pecha_kucha.md), read the following chapters in _Do The Work_ by Steven Pressfield. \(There is a link to a pdf version in our slack channel.\) 
-
-* About this Book preface
-* Orientation: Enemies & Allies
-* Beginning
-
-## Write A Response To _Do The Work_
-
-_Note: There are_ [_response guidelines outlined here_](../assignments/responses.md)_._
-
-AFTER reading the preface and the first two chapters in _Do The Work, w_rite a [response](../assignments/responses.md) that also contains a list of your enemies and allies and upload to a folder labeled "Pre-work" in your project documentation folder for your [end of semester deliverables](../end_of_semester_deliverables/). You do not have to post this to the process website so that only you and I can read your response.
 
 ## Listen To The Watchmen TV Series Podcast
 
