@@ -45,4 +45,5 @@
   * [Final Self Assessment](end_of_semester_deliverables/final_self_assessment.md)
   * [Letter to Next Cohort](end_of_semester_deliverables/letter_to_next_cohort.md)
 * [Career Preparation Resources](recommended_resources.md)
+* [Creativity Resources](creativity-resources.md)
 
