@@ -253,8 +253,7 @@ Title IX makes it clear that violence and harassment based on sex and gender are
 
 ## Required Media
 
-* Book: [Do The Work!](http://www.amazon.com/Do-Work-Steven-Pressfield/dp/1936719010/ref=sr_1_2?s=books&ie=UTF8&qid=1312385234&sr=1-2) by Steven Pressfield
-* Podcast:  [Watchmen tv-series podcast](https://www.hbo.com/watchmen/watchmen-listen-to-official-podcast)
+* Podcast:  [Watchmen tv-series podcast](https://www.hbo.com/watchmen/watchmen-listen-to-official-podcast): [Masks, Episode 1](https://www.hbo.com/video/watchmen/seasons/season-1/episodes/03/videos/podcast-ep-1)
 * Article: [Epicenter Design](https://basecamp.com/gettingreal/09.2-epicenter-design)
 
 ## Required Tools
