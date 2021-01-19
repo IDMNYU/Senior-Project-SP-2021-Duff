@@ -4,7 +4,7 @@
 
 ![Just Start Illustration by Jolby from Get To Work Book](../.gitbook/assets/gettoworkbook_just-start%20%281%29.jpg)
 
-## Fill out this [quick, 3-question survey](https://forms.gle/946nqoBcMrMdR6Dc6) \(using NYU login\)
+## Fill out this [quick, 3-question survey](https://forms.gle/946nqoBcMrMdR6Dc6) 
 
 ## Join Our Slack Workspace and Channel
 
