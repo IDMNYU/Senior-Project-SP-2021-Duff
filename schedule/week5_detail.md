@@ -21,6 +21,7 @@
 ## Class
 
 * Check In.
+* Tentative Guest: Lauren Blake \(IDM 2020\)
 * Class Critique: [Pro Practices Material Revisions](../end_of_semester_deliverables/pro_practices_revisions.md)
 * Check Out.
 
