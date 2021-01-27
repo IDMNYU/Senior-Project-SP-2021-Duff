@@ -15,14 +15,15 @@
   <tbody>
     <tr>
       <td style="text-align:left">1</td>
-      <td style="text-align:left">Mon Feb 01</td>
-      <td style="text-align:left">Pecha kucha presentations</td>
+      <td style="text-align:left"><a href="week1_detail.md">Mon Feb 01</a>
+      </td>
+      <td style="text-align:left">Pre-work due / Pecha kucha presentations</td>
     </tr>
     <tr>
       <td style="text-align:left">2</td>
-      <td style="text-align:left">Mon Feb 08</td>
-      <td style="text-align:left">Pecha kucha presentations <b>continued</b>
+      <td style="text-align:left"><a href="week2_detail.md">Mon Feb 08</a>
       </td>
+      <td style="text-align:left">Pecha kucha presentations continued</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -54,7 +55,7 @@
       <td style="text-align:left">5</td>
       <td style="text-align:left">Mon Mar 01</td>
       <td style="text-align:left">Pro Practices Material Review (Cover Letter, Resume, and Portfolio, Career
-        Research)</td>
+        Research) / Tentative Guest: Lauren Blake (IDM 2020)</td>
     </tr>
     <tr>
       <td style="text-align:left">6</td>
