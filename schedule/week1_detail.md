@@ -10,6 +10,7 @@
 * Discuss balancing four sections of senior project.
 * Review what is senior project?
 * Quick overview of Slack
+* Iteration
 * Review next week deliverables
 * [Pecha kucha](../pre-work/pecha_kucha.md) presentations
 
