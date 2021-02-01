@@ -6,6 +6,7 @@
 
 ## Class
 
+* Intros to one another.
 * Review what is senior project?
 * Quick overview of Slack
 * Review next week deliverables
