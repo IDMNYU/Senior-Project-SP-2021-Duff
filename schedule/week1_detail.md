@@ -7,6 +7,7 @@
 ## Class
 
 * Intros to one another.
+* Discuss balancing four sections of senior project.
 * Review what is senior project?
 * Quick overview of Slack
 * Review next week deliverables
