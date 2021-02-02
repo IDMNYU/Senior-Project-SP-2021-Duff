@@ -10,6 +10,8 @@
 * Discuss balancing four sections of senior project.
 * Review what is senior project?
 * Quick overview of Slack
+* Time & Project Management
+* Teaching Tenets
 * Iteration
 * Review next week deliverables
 * [Pecha kucha](../pre-work/pecha_kucha.md) presentations
