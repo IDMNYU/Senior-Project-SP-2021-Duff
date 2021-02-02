@@ -4,7 +4,7 @@
 
 > “In the long run, men hit only what they aim at.” – Henry David Thoreau
 
-This is Donald Norman’s 1st stage of action. A strong, articulated concept streamlines the time, energy, and resources put into a project. I find that the success of any project rests largely on how clear and developed the original concept is.
+This is also Donald Norman’s 1st stage of his 7 steps of action. A strong, articulated concept streamlines the time, energy, and resources put into a project. I find that the success of any project rests largely on how clear and developed the original concept is.
 
 > “It’s not hard to make decisions when you know what your values are.” – Roy Disney
 
