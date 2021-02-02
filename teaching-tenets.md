@@ -1,12 +1,14 @@
 # De Angela's 25 Teaching Tenets
 
+> “It’s not hard to make decisions when you know what your values are.” – Roy Disney
+
 ### **1 Have A Goal**
 
 > “In the long run, men hit only what they aim at.” – Henry David Thoreau
 
-This is also Donald Norman’s 1st stage of his 7 steps of action. A strong, articulated concept streamlines the time, energy, and resources put into a project. I find that the success of any project rests largely on how clear and developed the original concept is.
+This is also Donald Norman’s 1st stage of his [7 steps of action](https://en.wikipedia.org/wiki/Seven_stages_of_action). A strong, articulated concept streamlines the time, energy, and resources put into a project. I find that the success of any project rests largely on how clear and developed the original concept is.
 
-> “It’s not hard to make decisions when you know what your values are.” – Roy Disney
+> "Start With Why." ~Simon Sinek
 
 I encourage you to also identify your motivation for completion. You need to be clear on why you are doing the project. What value will you get and give? When the process gets bumpy or rough as it often does, your project’s purpose and value can keep you focused and on target.
 
@@ -49,7 +51,8 @@ First of all, show up for yourself. By “showing up” I mean put all that you 
 
 ### **9 LEARN HOW TO LEARN  \(AKA YOU LEARN HOW TO DO SOMETHING BY DOING IT\)**
 
-> “If you teach a man anything, he will never learn.” –George Bernard Shaw
+> “If you teach a man anything, he will never learn.”   
+> ****–George Bernard Shaw
 
 One of my main goals is to get you to learn how to learn by utilizing all of your available resources. Don’t be a victim of learned and taught helplessness. Be proactive. You are a smart, intelligent, curious being. Learning is an active, participatory process. We learn by doing.
 
