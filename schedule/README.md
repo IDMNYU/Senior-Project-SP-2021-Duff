@@ -39,8 +39,7 @@
     </tr>
     <tr>
       <td style="text-align:left">3</td>
-      <td style="text-align:left"><a href="week3_detail.md">Thu Feb 18</a>
-      </td>
+      <td style="text-align:left">Thu Feb 18</td>
       <td style="text-align:left">
         <p><b>Legislative Day - Classes will meet according to a Monday schedule.</b>
         </p>
