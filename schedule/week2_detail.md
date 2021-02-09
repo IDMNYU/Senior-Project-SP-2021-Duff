@@ -15,11 +15,8 @@
 
 ## Class
 
-* [**Pecha kucha**](../pre-work/pecha_kucha.md) **presentations continued and/or revisions \(if applicable\)**
+* One on one meetings to discuss [**Pecha kucha**](../pre-work/pecha_kucha.md) **presentations** 
 * **IF TIME:**
-  * \*\*\*\*[**Syllabus**](../syllabus.md) **Review Q&A**
-    * Discuss course & learning objectives.
-    * Discuss calendar and specifically: All dates and assignments are subject to change at the discretion of the professor.
-    * Reading the weekly schedule. NOTE: Due on date listed.
-  * Class discussion of reading
+
+  * \*\*\*\*
 
