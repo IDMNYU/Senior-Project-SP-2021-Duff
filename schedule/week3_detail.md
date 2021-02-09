@@ -2,16 +2,20 @@
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
-* Read the 1st "Middle" chapter up until "Now We're Rolling" of Do The Work by Steven Pressfield \(10 min\) and post your [response](../assignments/responses.md) to your process website.
+* Read [letters from a previous cohort](https://drive.google.com/open?id=1Fr1cw72xTrvwSBTM6Bh9OU2XepJ1YNOk) \(if you didn't last week\). I also added some additional ones from Spring 2020.
+* Write a response to 1 or more of the letters from the previous cohort and post it in the \#duff slack channel. Did you notice any trends? What are 1 to 3 key takeaways for you? What advice will you take to heart? I'm sure different letters will resonate with different students. Make sure you read as many as you can.
 * [Research and design](../project_plan/) your project.
 * Document your process and project, which includes your [research and design](../project_plan/), on your [process website](../pre-work/website.md).
 
 ## Class
 
+* \*\*\*\*[**Syllabus**](../syllabus.md) **Review Q&A**
+  * Discuss course & learning objectives.
+  * Discuss calendar and specifically: All dates and assignments are subject to change at the discretion of the professor.
+  * Reading the weekly schedule. NOTE: Due on date listed.
 * Class discussion of reading and [letters from a previous cohort](https://drive.google.com/open?id=1Fr1cw72xTrvwSBTM6Bh9OU2XepJ1YNOk)
 * Speed networking and table discussions to determine accountability teams.
 * [Accountability team](../assignments/accountability_partner.md) assigned. Get to know your accountability team.
-* Individual Meetings
 
 ## Recommendations
 
