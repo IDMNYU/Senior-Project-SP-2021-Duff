@@ -15,14 +15,15 @@
   <tbody>
     <tr>
       <td style="text-align:left">1</td>
-      <td style="text-align:left">Mon Feb 01</td>
-      <td style="text-align:left">Pecha kucha presentations</td>
+      <td style="text-align:left"><a href="week1_detail.md">Mon Feb 01</a>
+      </td>
+      <td style="text-align:left">Pre-work due / Pecha kucha presentations</td>
     </tr>
     <tr>
       <td style="text-align:left">2</td>
-      <td style="text-align:left">Mon Feb 08</td>
-      <td style="text-align:left">Pecha kucha presentations <b>continued</b>
+      <td style="text-align:left"><a href="week2_detail.md">Mon Feb 08</a>
       </td>
+      <td style="text-align:left">Individual One on Ones</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -38,7 +39,8 @@
     </tr>
     <tr>
       <td style="text-align:left">3</td>
-      <td style="text-align:left">Thu Feb 18</td>
+      <td style="text-align:left"><a href="week3_detail.md">Thu Feb 18</a>
+      </td>
       <td style="text-align:left">
         <p><b>Legislative Day - Classes will meet according to a Monday schedule.</b>
         </p>
@@ -54,7 +56,7 @@
       <td style="text-align:left">5</td>
       <td style="text-align:left">Mon Mar 01</td>
       <td style="text-align:left">Pro Practices Material Review (Cover Letter, Resume, and Portfolio, Career
-        Research)</td>
+        Research) / Tentative Guest: Lauren Blake (IDM 2020)</td>
     </tr>
     <tr>
       <td style="text-align:left">6</td>
