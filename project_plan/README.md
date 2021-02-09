@@ -1,7 +1,5 @@
 # Project Plan
 
-> Vision is the bottleneck of talent. Most talent is wasted because people do not clearly know what they want. It’s not a lack of effort but a lack of direction. There are many capable people in the world, but relatively few that focus on what matters. ~James Clear
-
 ![Create More Than You Consume Illustration by Jolby from Get To Work Book](../.gitbook/assets/gettoworkbook_create-more-than-you-consume.jpg)
 
 This project plan will be constantly iterated over the course of the semester. It may grow and/or shrink over the course of the semester. Don't worry about "getting it right." The creative process is messy.
