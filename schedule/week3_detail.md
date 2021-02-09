@@ -2,7 +2,7 @@
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
-* Read [letters from a previous cohort](https://drive.google.com/open?id=1Fr1cw72xTrvwSBTM6Bh9OU2XepJ1YNOk) \(if you didn't last week\).
+* Read [letters from a previous cohort](https://drive.google.com/open?id=1Fr1cw72xTrvwSBTM6Bh9OU2XepJ1YNOk) \(if you didn't last week\). I also added some additional ones from Spring 2020.
 * [Research and design](../project_plan/) your project.
 * Document your process and project, which includes your [research and design](../project_plan/), on your [process website](../pre-work/website.md).
 
