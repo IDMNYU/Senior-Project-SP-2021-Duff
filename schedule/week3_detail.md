@@ -10,9 +10,9 @@
 * The Comment tool looks like a quote. It's the 8th icon from the top of the left toolbar.
 * The Zoom tool is in the bottom righthand corner of the interface. Hover over the percentage and you'll be able to see + and - signs. There's also key commands to zoom in and out \(control + and - on the mac\). 
 * Click inside a sticky note on our Miro board to edit it. 
-  * Feel free to change the color of your post-its.
-  * Feel free to edit your column
-    * \(if applicable\) Refine your creative mantra, mission, or manifesto. How or why you create?
+  * Feel free to change the color of your post-its in YOUR Miro column.
+  * Feel free to edit YOUR Miro column
+    * \(if applicable\) Refine your **creative mantra, mission, or manifesto**. How or why you create?
     * \(if applicable\) Refine your **concept / theme**. What is your senior project about?
     * \(if applicable\) Refine your **primary audience**. 
       * \(if applicable\) Needs to be specific. Can't be Everyone. 
@@ -26,7 +26,7 @@
 * Direct message De Angela 2 to 4 names of the classmates you'd like to be on an A-team with. 
 * After looking at their [pecha kucha presentations](../pre-work/pecha_kucha.md):
   * Add a comment to at least 3 of your classmates' Miro board columns with suggestions for their elevator pitch by combining concept, audience, and medium in a short phrase or sentence.
-  * If you have any additional suggestions or questions for your classmates, leave them a comment on the Miro board.
+  * If you have any additional suggestions or questions for your classmates, leave them additional comments on the Miro board.
 * [Research and design](../project_plan/) your project.
 * Document your process and project, which includes your [research and design](../project_plan/), on your [process website](../pre-work/website.md).
 
