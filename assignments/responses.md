@@ -13,5 +13,5 @@ Answer the following questions:
 * Three key point\(s\) \(or the most useful or valuable thing\(s\) you learned\) from this resource that can be applied to your senior project and/or your creative process, and why.
 * Is there anything you disagree with and why? Or anything you do differently or would do differently?
 * How does this resource connect with or break from your prior knowledge? 
-* Any confusing points?
+* \(if applicable\) Any confusing points? 
 
