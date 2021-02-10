@@ -11,6 +11,7 @@
 
 ## Class
 
+* We're going to pilot using the Airmeet platform so you can sit at virtual tables with your A-team while I meet with half of the class one on one at another virtual table on the platform. I will add the Airmeet link to our google calendar invite before this class.
 * Individual Meetings
 * Check-in with your accountability team.
   * [research and design](../project_plan/)
