@@ -15,6 +15,7 @@
     * \(if applicable\) Refine your **creative mantra, mission, or manifesto**. How or why you create?
     * \(if applicable\) Refine your **concept / theme**. What is your senior project about
     * \(if applicable\) Refine your **primary audience**. 
+      * If yours is blank, that means you need to refine your primary audience.
       * \(if applicable\) Needs to be specific. Can't be Everyone. 
       * \(if applicable\) Age range and characteristic of that age range. \(i.e. 15-20 who ...\) 
     * Refine or Iterate your **elevator pitch by** combining concept, audience, and medium in a short phrase or sentence.
@@ -32,8 +33,8 @@
 ## Class
 
 * Class discussion: 
-  * Miro Board \(link pinned in \#duff slack channel. Also emailed you access.\)
   * [letters from a previous cohort](https://drive.google.com/open?id=1Fr1cw72xTrvwSBTM6Bh9OU2XepJ1YNOk)
+  * Miro Board \(link pinned in \#duff slack channel. Also emailed you the link.\)
 * [Accountability team](../assignments/accountability_partner.md) assigned. Get to know your accountability team.
 
 ## Recommendations
