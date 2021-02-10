@@ -2,7 +2,7 @@
 
 ## **Responsibility of Accountability Team**
 
-* You will either volunteer for or get assigned to a team of 3 people by or during the third class after drop/add. There might be one team of 4 people. 
+* You will either volunteer for or get assigned to a team of 3 people by or during the third class after drop/add. 
 * Make sure you get each other's contact info \(email and cell phone\).
 * Check-in with each other 
   * on a weekly basis 
