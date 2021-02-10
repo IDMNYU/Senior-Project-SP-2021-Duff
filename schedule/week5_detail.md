@@ -20,9 +20,6 @@
 
 ## Class
 
-* We're going to pilot the Airmeet platform for the 2ns week in a row so you can sit at virtual tables with your A-team while I meet with the other half of class one on one at another virtual table on the platform. I will add the Airmeet link to our google calendar invite before this class.
-
-  Tentative Guest: Lauren Blake \(IDM 2020\)
-
+* Tentative Guest: Lauren Blake \(IDM 2020\)
 * Class Critique: [Pro Practices Material Revisions](../end_of_semester_deliverables/pro_practices_revisions.md)
 
