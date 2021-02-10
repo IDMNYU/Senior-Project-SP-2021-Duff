@@ -23,7 +23,7 @@
       <td style="text-align:left">2</td>
       <td style="text-align:left"><a href="week2_detail.md">Mon Feb 08</a>
       </td>
-      <td style="text-align:left">Individual One on Ones</td>
+      <td style="text-align:left">Individual One on Ones for ENTIRE class</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -51,7 +51,7 @@
     <tr>
       <td style="text-align:left">4</td>
       <td style="text-align:left">Mon Feb 22</td>
-      <td style="text-align:left">Individual One on Ones / Accountability Teams in Airmeet</td>
+      <td style="text-align:left">Individual One on Ones for half of class / Accountability Teams in Airmeet</td>
     </tr>
     <tr>
       <td style="text-align:left">5</td>
