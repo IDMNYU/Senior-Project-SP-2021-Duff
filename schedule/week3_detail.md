@@ -32,8 +32,8 @@
 ## Class
 
 * Class discussion: 
+  * Miro Board \(link pinned in \#duff slack channel. Also emailed you access.\)
   * [letters from a previous cohort](https://drive.google.com/open?id=1Fr1cw72xTrvwSBTM6Bh9OU2XepJ1YNOk)
-  * Miro Board \(link pinned in \#duff slack channel. Also emailed you the link.\)
 * [Accountability team](../assignments/accountability_partner.md) assigned. Get to know your accountability team.
 
 ## Recommendations
