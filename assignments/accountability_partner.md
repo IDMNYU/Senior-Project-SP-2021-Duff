@@ -8,7 +8,7 @@
 You will either volunteer for or get assigned to a team of 3 people by or during the third class after drop/add. There will be one team of 4 people. 
 
 * For the first meeting:
-  * Each member of your team should introduce yourself, describe your project, explain your [milestones timeline](../project_plan/) over the semester, and what the project will look like at various stages \([alpha, beta, gold versions](../project_plan/project_versions.md)\). 
+  * Each member of the A-Team should introduce yourself, describe your project, explain your [milestones timeline](../project_plan/) over the semester, and what the project will look like at various stages \([alpha, beta, gold versions](../project_plan/project_versions.md)\). 
   * Make sure you get each other's contact info \(cell phone\).
 * Check-in with each other 
   * on a weekly basis 
@@ -19,8 +19,8 @@ You will either volunteer for or get assigned to a team of 3 people by or during
     * Are they actionable?
     * Are they complete?
   * Your team should take notes about your meeting in a google doc written collaboratively or you can rotate a notetaker position for each meeting. 
-  * These notes should include the names of the members of your team, what kind of questions were asked, what kind of feedback was given, and any other insights from the meeting. 
-  * Post your brief team notes in the \#duff slack channel \(only 1 per team\). 
+    * These notes should include the names of the members of your A-Team, what kind of questions were asked, what kind of feedback was given, and any other insights from the meeting. 
+    * Post your brief team notes in the \#duff slack channel \(only 1 per A-Team\). 
 * Take notes for each other's presentations.
 * Provide moral support and encouragement.
 
