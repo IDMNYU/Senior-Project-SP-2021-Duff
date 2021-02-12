@@ -36,6 +36,10 @@
 * [Thinking with Type](http://thinkingwithtype.com/)
 * [Lessons in Typography](https://www.amazon.com/Lessons-Typography-Must-know-typographic-principles/dp/0133993558/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1516898915&sr=1-1) by Jim Krause
 
+## Prototyping
+
+* [POP \(Prototyping on Paper\) app](https://marvelapp.com/pop) by Marvel
+
 ## Exhibition & Promotion
 
 * [Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered ](http://www.amazon.com/Show-Your-Work-Creativity-Discovered/dp/076117897X/ref=sr_1_1?ie=UTF8&qid=1440022873&sr=8-1&keywords=show+your+work) by Austin Kleon
@@ -69,4 +73,10 @@ _Creative Commons Video_
 * [TED Talks](https://www.ted.com/)
 * [The Creative Independent](https://thecreativeindependent.com/)
 * [We Make Money Not Art](http://we-make-money-not-art.com/)
+
+## Time & Project Management
+
+* [7 mental strategies for reaching your long term goals \(at work and in life\)](https://blog.rescuetime.com/mental-strategies-long-term-goals/)
+* [Context switching: Why jumping between tasks is killing your productivity \(and what you can do about it\)](https://blog.rescuetime.com/context-switching/)
+* [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
 
