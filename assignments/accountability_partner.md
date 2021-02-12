@@ -1,9 +1,6 @@
 # Accountability Team
 
-## **Responsibility of Accountability Team**
-
-  
-**Accountability teams \(aka A-Teams\)** are opportunities for you to get constructive feedback and ask questions about your senior project and provide constructive feedback to your teammates about their projects. 
+**Accountability Teams \(aka A-Teams\)** are opportunities for you to get constructive feedback and ask questions about your senior project and provide constructive feedback to your teammates about their projects. 
 
 You will either volunteer for or get assigned to a team of 3 people by or during the third class after drop/add. There will be one team of 4 people. 
 
@@ -13,6 +10,7 @@ You will either volunteer for or get assigned to a team of 3 people by or during
 * Check-in with each other 
   * on a weekly basis 
   * INSIDE & OUTSIDE of class
+  * Please note you can have group DMs on Slack.
 * Conduct a weekly review
   * Review each other's calendar\(s\)
   * Review each other's [project tasks](personal_kanban.md)
