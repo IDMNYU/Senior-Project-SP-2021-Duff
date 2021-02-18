@@ -2,6 +2,8 @@
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
+* Meet with your [accountability team ](../assignments/accountability_partner.md)at least once, if not twice, this week.
+  * Document your [accountability team](../assignments/accountability_partner.md) meeting\(s\) on your [process website](../pre-work/website.md).
 * Create and/or iterate [prototype\(s\)](../project_plan/) of your project.
 * [Document](../pre-work/website.md) your process and artifacts which include the [prototype\(s\)](../project_plan/) of your project.
 * If you have not done so already, please schedule your **Midterm One On One Review anytime on or between Tue Mar 23-Thu Mar 25.** For those of you who already have, thank you.
