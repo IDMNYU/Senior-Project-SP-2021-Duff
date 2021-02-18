@@ -8,7 +8,7 @@ You will either volunteer for or get assigned to a team of 3 people by or during
   * Each member of the A-Team should introduce yourself, describe your project, explain your [milestones timeline](../project_plan/) over the semester, and what the project will look like at various stages \([alpha, beta, gold versions](../project_plan/project_versions.md)\). 
   * Make sure you get each other's contact info \(cell phone\).
 * Check-in with each other 
-  * on a weekly basis 
+  * **on a weekly basis** 
   * INSIDE & OUTSIDE of class
   * Please note you can have group DMs on Slack.
 * Conduct a weekly review
@@ -25,4 +25,10 @@ You will either volunteer for or get assigned to a team of 3 people by or during
 ## **Accountability Teams:**
 
 Once the accountability teams have been formed, the teams will be listed here by first name.
+
+* Ibtida, Mia, & Morgan
+* Curtis, Joann, & Rudhi
+* Cassandra, Gina, & Sophie
+* Aryan, Idriss, & Justin
+* Chico, Jessica, Loki, & Vanda
 
