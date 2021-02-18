@@ -2,7 +2,7 @@
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
-* Make sure you continue to check-in with your [accountability team](../assignments/accountability_partner.md) and document it on the [process website](../pre-work/website.md).
+* Check-in with your [accountability team](../assignments/accountability_partner.md).
 * Prepare or revise your [project presentation](../critiques-demos-presentations-and-exhibition/project-presentation.md).
 * Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../project_plan/) of your project as needed.
 * Continue to document your process and artifacts \(the thing\(s\) itself\) on your [process website](../pre-work/website.md).
