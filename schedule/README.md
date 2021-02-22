@@ -60,7 +60,10 @@
       <td style="text-align:left">5</td>
       <td style="text-align:left"><a href="week5_detail.md">Mon Mar 01</a>
       </td>
-      <td style="text-align:left">Tentative Guest: Lauren Blake (IDM 2020)</td>
+      <td style="text-align:left">One on Ones for half of class / Accountability Teams in Airmeet. The other
+        half of class will meet with me before or after class. Check slack for
+        times.
+        <br />Tentative Guest: Lauren Blake (IDM 2020)</td>
     </tr>
     <tr>
       <td style="text-align:left">6</td>
@@ -123,7 +126,7 @@
       <td style="text-align:left">10</td>
       <td style="text-align:left">Mon Apr 05</td>
       <td style="text-align:left">Pro Practices Material Review (Cover Letter, Resume, and Portfolio, Career
-        Research) /</td>
+        Research)</td>
     </tr>
     <tr>
       <td style="text-align:left">11</td>
