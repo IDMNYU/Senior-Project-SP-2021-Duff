@@ -18,7 +18,7 @@
 
 * [https://www.youtube.com/watch?v=pOCdxY2ot0U](https://www.youtube.com/watch?v=pOCdxY2ot0U)  \(by midterm those of you producing videos or motion design pieces, you will need to present a POLISHED hybrid animatic\)
 
-## **Photo-series/Drawing/Installation Art Workflow**
+## **Photo-series / Drawing / Installation Art Workflow**
 
 It's harder to find "workflow" steps for photo series, drawings, or installation art, but a good rule of thumb is to begin with a sketch or schematic for your project.
 
