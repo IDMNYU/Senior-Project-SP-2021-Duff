@@ -7,7 +7,9 @@
 
 #### **Animatic**
 
-* \*\*\*\*[https://www.bloopanimation.com/animatic/](https://www.bloopanimation.com/animatic/) ****\(by midterm those of you producing animations will need to have a POLISHED animatic\)
+* \*\*\*\*[https://www.bloopanimation.com/animatic/](https://www.bloopanimation.com/animatic/) ****
+
+By midterm, those of you producing animations will need to have a POLISHED animatic.
 
 ### **Motion Graphics Pipeline**
 
@@ -16,7 +18,9 @@
 
 #### **Animatics for Motion Design**
 
-* [https://www.youtube.com/watch?v=pOCdxY2ot0U](https://www.youtube.com/watch?v=pOCdxY2ot0U)  \(by midterm those of you producing videos or motion design pieces, you will need to present a POLISHED hybrid animatic\)
+* [https://www.youtube.com/watch?v=pOCdxY2ot0U](https://www.youtube.com/watch?v=pOCdxY2ot0U)  
+
+By midterm, those of you producing videos or motion design pieces, you will need to present a POLISHED hybrid animatic.
 
 ## **Game Design and Development Pipeline**
 
