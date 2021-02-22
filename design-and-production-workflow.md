@@ -1,3 +1,7 @@
+---
+description: These are suggested guidelines. You don't need to follow them verbatim.
+---
+
 # Design & Production Workflow \(AKA Pipeline\)
 
 ## **Animation / Motion Graphics / Video Workflows** 
