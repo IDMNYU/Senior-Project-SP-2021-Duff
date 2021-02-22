@@ -18,6 +18,10 @@
 
 * [https://www.youtube.com/watch?v=pOCdxY2ot0U](https://www.youtube.com/watch?v=pOCdxY2ot0U)  \(by midterm those of you producing videos or motion design pieces, you will need to present a POLISHED hybrid animatic\)
 
+## **Game Design and Development Pipeline**
+
+* [https://www.cgspectrum.com/blog/game-development-process](https://www.cgspectrum.com/blog/game-development-process)
+
 ## **Photo-series / Drawing / Installation Art Workflow**
 
 It's harder to find "workflow" steps for photo series, drawings, or installation art, but a good rule of thumb is to begin with a sketch or schematic for your project.
@@ -44,7 +48,13 @@ By midterm, you should have a scratch track produced \(this is a rough incomplet
 
 ## **UX Design/ App Building / Website Design**
 
-**A** good rule of thumb is to begin with a user workflow for your project.
+#### **B**egin with a user workflow \(AKA a user journey or customer journey\). 
+
+* [https://www.uxmatters.com/mt/archives/2011/09/the-value-of-customer-journey-maps-a-ux-designers-personal-journey.php](https://www.uxmatters.com/mt/archives/2011/09/the-value-of-customer-journey-maps-a-ux-designers-personal-journey.php) 
+
+I would not worry about step 5 \(including what the user is thinking or feeling\). I would concentrate on what they're doing. You can also google "user workflow," "user journey," and/or "customer journey" to find more examples.
+
+#### Design and production workflow
 
 * [https://codewithchris.com/how-to-make-iphone-apps-with-no-programming-experience/](https://codewithchris.com/how-to-make-iphone-apps-with-no-programming-experience/)
 * [https://uxplanet.org/10-ui-ux-trends-in-2020-3be03597dfe7](https://uxplanet.org/10-ui-ux-trends-in-2020-3be03597dfe7)
