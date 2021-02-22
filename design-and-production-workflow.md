@@ -22,6 +22,8 @@
 
 * [https://www.cgspectrum.com/blog/game-development-process](https://www.cgspectrum.com/blog/game-development-process)
 
+By midterm, you should have a prototype.
+
 ## **Photo-series / Drawing / Installation Art Workflow**
 
 It's harder to find "workflow" steps for photo series, drawings, or installation art, but a good rule of thumb is to begin with a sketch or schematic for your project.
@@ -54,13 +56,23 @@ By midterm, you should have a scratch track produced \(this is a rough incomplet
 
 I would not worry about step 5 \(including what the user is thinking or feeling\). I would concentrate on what they're doing. You can also google "user workflow," "user journey," and/or "customer journey" to find more examples.
 
-#### Design and production workflow
+#### Mobile app design and production workflow
 
 * [https://codewithchris.com/how-to-make-iphone-apps-with-no-programming-experience/](https://codewithchris.com/how-to-make-iphone-apps-with-no-programming-experience/)
+* [https://www.uxmatters.com/mt/archives/2020/10/a-guide-to-creating-mobile-app-wireframes-in-2020.php](https://www.uxmatters.com/mt/archives/2020/10/a-guide-to-creating-mobile-app-wireframes-in-2020.php)
+
+#### UI/UX Trends
+
 * [https://uxplanet.org/10-ui-ux-trends-in-2020-3be03597dfe7](https://uxplanet.org/10-ui-ux-trends-in-2020-3be03597dfe7)
 * [http://graphicdesignjunction.com/2015/12/15-best-uiux-mobile-app-design-trends-and-key-principles/](http://graphicdesignjunction.com/2015/12/15-best-uiux-mobile-app-design-trends-and-key-principles/)
 
 By midterm, you should have a working build \(prototype\) of your UX application or website. It does not have to have full interactivity, but all elements \(or stand in elements\) should be in place. 
+
+## Wearables
+
+{% embed url="https://www.uxmatters.com/mt/archives/2016/10/lean-ux-for-wearables-an-interview-with-greg-nudelman-part-2.php" %}
+
+By midterm, you should have a working build \(prototype\) of your wearable.
 
 ## **XR \(VR/AR\) Pipeline**
 
