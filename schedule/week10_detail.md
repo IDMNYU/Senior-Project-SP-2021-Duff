@@ -24,6 +24,7 @@
 * Check-in
 * One on one meetings with students who would like additional feedback.
 * Meet with your [accountability team](../assignments/accountability_partner.md) and document it on the [process website](../pre-work/website.md).
+* Class Critique: [Pro Practices Material Revisions](../end_of_semester_deliverables/pro_practices_revisions.md)
 * Work on your [process pdf](../end_of_semester_deliverables/pdf_or_book.md) during class
 * Check-out
 
