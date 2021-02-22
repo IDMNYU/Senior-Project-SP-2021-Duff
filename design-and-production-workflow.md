@@ -1,6 +1,4 @@
-# Design & Production Workflow
-
-**PRODUCTION PIPELINES:**
+# Design & Production Workflow \(AKA Pipeline\)
 
 ## **Animation / Motion Graphics / Video Workflows** 
 

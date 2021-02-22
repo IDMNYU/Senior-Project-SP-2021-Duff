@@ -46,6 +46,6 @@
   * [Letter to Next Cohort](end_of_semester_deliverables/letter_to_next_cohort.md)
 * [Career Preparation Resources](recommended_resources.md)
 * [Creativity Resources](creativity-resources.md)
-* [Design & Production Workflow](design-and-production-workflow.md)
+* [Design & Production Workflow \(AKA Pipeline\)](design-and-production-workflow.md)
 * [De Angela's 25 Teaching Tenets](teaching-tenets.md)
 
