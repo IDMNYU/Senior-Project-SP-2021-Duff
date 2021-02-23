@@ -1,5 +1,7 @@
 # Project Plan
 
+> Vision is the bottleneck of talent. Most talent is wasted because people do not clearly know what they want. It’s not a lack of effort but a lack of direction. There are many capable people in the world, but relatively few that focus on what matters. ~James Clear
+
 ![Create More Than You Consume Illustration by Jolby from Get To Work Book](../.gitbook/assets/gettoworkbook_create-more-than-you-consume.jpg)
 
 This project plan will be constantly iterated over the course of the semester. It may grow and/or shrink over the course of the semester. Don't worry about "getting it right." The creative process is messy.
@@ -159,6 +161,32 @@ Please remember that you and a classmate can work as a team. Only one plan shoul
             is more explicit than &quot;take photographs&quot;. &quot;Take 5 photos
             of tigers, 5 photos of bears, 5 photos of lizards, and 5 photos of cats&quot;
             is more explicit than &quot;take 20 photographs&quot;.)</li>
+          <li>For creating and tracking your milestones and actionable tasks, you don&apos;t
+            need a fancy system or tool. Google Docs works just fine. The main thing
+            is whatever you use needs to be editable. However, other tools, besides
+            google docs, that you can use to track your milestones progress are:
+            <br
+            />
+            <ul>
+              <li><a href="https://asana.com/">Asana</a>
+                <ul>
+                  <li><a href="http://monday.com">Monday</a> is an Asana alternative.</li>
+                </ul>
+              </li>
+              <li><a href="https://milanote.com">Milanote</a>
+              </li>
+              <li><a href="https://www.notion.so/">Notion</a>
+              </li>
+              <li><a href="http://trello.com/">Trello</a>
+                <ul>
+                  <li><a href="http://kanbanery.com/">Kanbanery.com</a> is a Trello aternative.</li>
+                </ul>
+              </li>
+              <li>I personally use Moleskine&apos;s <a href="https://moleskinestudio.com/actions/">Actions</a> become
+                the tasks are mapped to a date and move to the next date if you don&apos;t
+                complete them on time.</li>
+            </ul>
+          </li>
         </ul>
       </td>
     </tr>
