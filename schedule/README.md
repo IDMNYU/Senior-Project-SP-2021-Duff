@@ -42,7 +42,7 @@
       <td style="text-align:left"><a href="week3_detail.md">Thu Feb 18</a>
       </td>
       <td style="text-align:left">
-        <p><b>Legislative Day - NYU Classes will meet according to a Monday schedule.</b>
+        <p><b>Legislative Day - Classes will meet according to a Monday schedule.</b>
         </p>
         <p>Letters from Previous Cohort / Project Overview in Miro / Accountability
           Team Assignments</p>
@@ -60,10 +60,8 @@
       <td style="text-align:left">5</td>
       <td style="text-align:left"><a href="week5_detail.md">Mon Mar 01</a>
       </td>
-      <td style="text-align:left">One on Ones for half of class / Accountability Teams in Airmeet. The other
-        half of class will meet with me before or after class. Check slack for
-        times.
-        <br />Tentative Guest: Lauren Blake (IDM 2020)</td>
+      <td style="text-align:left">Pro Practices Material Review (Cover Letter, Resume, and Portfolio, Career
+        Research) / Tentative Guest: Lauren Blake (IDM 2020)</td>
     </tr>
     <tr>
       <td style="text-align:left">6</td>
@@ -125,8 +123,8 @@
     <tr>
       <td style="text-align:left">10</td>
       <td style="text-align:left">Mon Apr 05</td>
-      <td style="text-align:left">Pro Practices Material Review (Cover Letter, Resume, and Portfolio, Career
-        Research)</td>
+      <td style="text-align:left">Individual One on Ones / Accountability Teams in Airmeet / Work on process
+        pdfs in class</td>
     </tr>
     <tr>
       <td style="text-align:left">11</td>
