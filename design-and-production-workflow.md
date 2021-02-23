@@ -6,31 +6,29 @@ description: These are suggested guidelines. You don't need to follow them verba
 
 ## **Animation / Motion Graphics / Video Workflows** 
 
-{% embed url="https://learn.toonboom.com/modules/animation-workflow/topic/traditional-animation-workflow" %}
-
-{% embed url="https://www.baianat.com/books/animation-revolution/2d-animation" %}
+1. \*\*\*\*[https://learn.toonboom.com/modules/animation-workflow/topic/traditional-animation-workflow](https://learn.toonboom.com/modules/animation-workflow/topic/traditional-animation-workflow)
+2. [https://www.baianat.com/books/animation-revolution/2d-animation](https://www.baianat.com/books/animation-revolution/2d-animation)
 
 #### **Animatic**
 
-{% embed url="https://www.bloopanimation.com/animatic/" %}
+* \*\*\*\*[https://www.bloopanimation.com/animatic/](https://www.bloopanimation.com/animatic/) ****
 
 By midterm, those of you producing animations will need to have a POLISHED animatic.
 
 ### **Motion Graphics Pipeline**
 
-{% embed url="https://www.schoolofmotion.com/blog/guide-completing-motion-design-project" %}
-
-{% embed url="https://www.cgspectrum.com/blog/the-visual-effects-pipeline" %}
+1. [https://www.schoolofmotion.com/blog/guide-completing-motion-design-project](https://www.schoolofmotion.com/blog/guide-completing-motion-design-project)
+2. [https://www.cgspectrum.com/blog/the-visual-effects-pipeline](https://www.cgspectrum.com/blog/the-visual-effects-pipeline)
 
 #### **Animatics for Motion Design**
 
-{% embed url="https://www.youtube.com/watch?v=pOCdxY2ot0U" %}
+* [https://www.youtube.com/watch?v=pOCdxY2ot0U](https://www.youtube.com/watch?v=pOCdxY2ot0U)  
 
 By midterm, those of you producing videos or motion design pieces, you will need to present a POLISHED hybrid animatic.
 
 ## **Game Design and Development Pipeline**
 
-{% embed url="https://www.cgspectrum.com/blog/game-development-process" %}
+* [https://www.cgspectrum.com/blog/game-development-process](https://www.cgspectrum.com/blog/game-development-process)
 
 By midterm, you should have a prototype.
 
@@ -54,7 +52,7 @@ By midterm, you should have done an equipment check and rough build to test that
 
 ## **Sound Production Pipeline**
 
-{% embed url="http://xnuccio.blogspot.com/2012/12/sound-production-pipeline.html" %}
+* [http://xnuccio.blogspot.com/2012/12/sound-production-pipeline.html](http://xnuccio.blogspot.com/2012/12/sound-production-pipeline.html)
 
 By midterm, you should have a scratch track produced \(this is a rough incomplete layout of the audio, it may or may not include final sound files and it is usually not mixed or edited completely yet\). 
 
@@ -62,21 +60,19 @@ By midterm, you should have a scratch track produced \(this is a rough incomplet
 
 #### **B**egin with a user workflow \(AKA a user journey or customer journey\). 
 
-{% embed url="https://www.uxmatters.com/mt/archives/2011/09/the-value-of-customer-journey-maps-a-ux-designers-personal-journey.php" %}
+* [https://www.uxmatters.com/mt/archives/2011/09/the-value-of-customer-journey-maps-a-ux-designers-personal-journey.php](https://www.uxmatters.com/mt/archives/2011/09/the-value-of-customer-journey-maps-a-ux-designers-personal-journey.php) 
 
 I would not worry about step 5 \(including what the user is thinking or feeling\). I would concentrate on what they're doing. You can also google "user workflow," "user journey," and/or "customer journey" to find more examples.
 
 #### Mobile app design and production workflow
 
-{% embed url="https://codewithchris.com/how-to-make-iphone-apps-with-no-programming-experience/" %}
-
-{% embed url="https://www.uxmatters.com/mt/archives/2020/10/a-guide-to-creating-mobile-app-wireframes-in-2020.php" %}
+* [https://codewithchris.com/how-to-make-iphone-apps-with-no-programming-experience/](https://codewithchris.com/how-to-make-iphone-apps-with-no-programming-experience/)
+* [https://www.uxmatters.com/mt/archives/2020/10/a-guide-to-creating-mobile-app-wireframes-in-2020.php](https://www.uxmatters.com/mt/archives/2020/10/a-guide-to-creating-mobile-app-wireframes-in-2020.php)
 
 #### UI/UX Trends
 
-{% embed url="https://uxplanet.org/10-ui-ux-trends-in-2020-3be03597dfe7" %}
-
-{% embed url="http://graphicdesignjunction.com/2015/12/15-best-uiux-mobile-app-design-trends-and-key-principles/" %}
+* [https://uxplanet.org/10-ui-ux-trends-in-2020-3be03597dfe7](https://uxplanet.org/10-ui-ux-trends-in-2020-3be03597dfe7)
+* [http://graphicdesignjunction.com/2015/12/15-best-uiux-mobile-app-design-trends-and-key-principles/](http://graphicdesignjunction.com/2015/12/15-best-uiux-mobile-app-design-trends-and-key-principles/)
 
 By midterm, you should have a working build \(prototype\) of your UX application or website. It does not have to have full interactivity, but all elements \(or stand in elements\) should be in place. 
 
@@ -88,9 +84,8 @@ By midterm, you should have a working build \(prototype\) of your wearable.
 
 ## **XR \(VR/AR\) Pipeline**
 
-{% embed url="https://learningsolutionsmag.com/articles/the-immersive-development-pipeline-for-vr-ar-and-more" %}
-
-{% embed url="https://www.bbc.com/academy-guides/virtual-reality-production-where-do-i-start" %}
+* [https://learningsolutionsmag.com/articles/the-immersive-development-pipeline-for-vr-ar-and-more](https://learningsolutionsmag.com/articles/the-immersive-development-pipeline-for-vr-ar-and-more)
+* [https://www.bbc.com/academy-guides/virtual-reality-production-where-do-i-start](https://www.bbc.com/academy-guides/virtual-reality-production-where-do-i-start)
 
 By midterm, you should have a working build \(prototype\) of your XR application. It does not have to have full interactivity or character design, but all elements \(or stand-in elements\) should be in place. Lighting and other post-production effects are not necessary by midterm.
 
