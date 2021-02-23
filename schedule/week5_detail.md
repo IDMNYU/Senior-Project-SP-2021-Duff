@@ -2,10 +2,17 @@
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
-* Read [Context switching: Why jumping between tasks is killing your productivity \(and what you can do about it\)](https://blog.rescuetime.com/context-switching/)
-  * Write a [response](../assignments/responses.md) to this article in relation to your semester-long senior project.
-* \(OPTIONAL since you meet during class already\) Meet with your [accountability team ](../assignments/accountability_partner.md)at least once, this week. 
-  * Document your [accountability team](../assignments/accountability_partner.md) meeting\(s\) on your [process website](../pre-work/website.md).
+* BEFORE you revise your pro practices materials, watch the following videos I created last Spring to anticipate feedback I might give to you this semester. My feedback may vary from your pro practices instructor. Identify these variances and reflect on why the feedback is different. Be prepared to discuss these differences during class. I will make new ones for this class after you submit your Pro Practices Material Revisions.
+  * [Career Resources](https://stream.nyu.edu/media/Senior+Project+Career+Resources/1_9kyp6fsm) \(&lt; 4 min\)
+    * Obviously, the first event I discuss has passed, but if you're interested you can watch the video archive, as well as a couple of others I suggested. 
+      * [AIGA's Career Advice during COVID-19](https://www.aiga.org/aiga/content/tools-and-resources/commitment-to-community/career-advice-for-covid-19/).
+      * [AIGA's Internships in Design: Advice for COVID-19](https://www.aiga.org/aiga/content/tools-and-resources/commitment-to-community/internships-in-design-advice-for-covid-19/).
+      * [AIGA's How To Ace the Virtual Interview](https://www.aiga.org/aiga/content/tools-and-resources/commitment-to-community/how-to-ace-the-virtual-interview/)
+  * [Portfolio Websites](https://stream.nyu.edu/media/Senior+Project+Portfolio/1_3ssg7ckj) \(&lt; 7 min\)
+  * [LinkedIn](https://stream.nyu.edu/media/Senior+Project+LinkedIn/1_678bu9ia) \(&lt; 4 min\)
+  * [Resumes](https://stream.nyu.edu/media/Senior+Project+Resume/1_0b28s5fz) \(&lt; 7 min\)
+  * [Cover Letters](https://stream.nyu.edu/media/Senior+Project+Cover+Letters/1_36vlce7a) \(&lt; 7 min\)
+* Revise [Pro Practices material](../end_of_semester_deliverables/pro_practices_revisions.md).
 * Iterate: 
   * [research and design](../project_plan/) of your project.
   * [resources and milestones](../project_plan/) for your project \(if applicable\).
@@ -13,10 +20,8 @@
 
 ## Class
 
-* We're going to meet again on the Airmeet platform so you can sit at virtual tables with your A-team while I meet with half of the class one on one at another virtual table on the platform. You can find the airmeet link in the google calendar invite as well as pinned on slack.
-* Individual Meetings. See schedule pinned on slack. If we're meeting before or after class you were sent a google calendar invite. If we're meeting DURING class, you will NOT receive a calendar invite.
-* Check-in with your accountability team and share you
-  * [research and design](../project_plan/)
-  * [resources and milestones](../project_plan/)
-  * [time and project management system](../creativity-resources.md)
+* Check In.
+* Tentative Guest: Lauren Blake \(IDM 2020\)
+* Class Critique: [Pro Practices Material Revisions](../end_of_semester_deliverables/pro_practices_revisions.md)
+* Check Out.
 
