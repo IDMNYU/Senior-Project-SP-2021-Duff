@@ -182,7 +182,7 @@ Please remember that you and a classmate can work as a team. Only one plan shoul
                   <li><a href="http://kanbanery.com/">Kanbanery.com</a> is a Trello aternative.</li>
                 </ul>
               </li>
-              <li>I personally use Moleskine&apos;s <a href="https://moleskinestudio.com/actions/">Actions</a> become
+              <li>I personally use Moleskine&apos;s <a href="https://moleskinestudio.com/actions/">Actions</a> because
                 the tasks are mapped to a date and move to the next date if you don&apos;t
                 complete them on time.</li>
             </ul>
