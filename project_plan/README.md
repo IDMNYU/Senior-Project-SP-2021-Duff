@@ -166,8 +166,6 @@ Please remember that you and a classmate can work as a team. Only one plan shoul
             need a fancy system or tool. Google Docs works just fine. The main thing
             is whatever you use needs to be editable. However, other tools, besides
             google docs, that you can use to track your milestones progress are:
-            <br
-            />
             <ul>
               <li><a href="https://asana.com/">Asana</a>
                 <ul>
