@@ -6,7 +6,7 @@
 
 This project plan will be constantly iterated over the course of the semester. It may grow and/or shrink over the course of the semester. Don't worry about "getting it right." The creative process is messy.
 
-Please remember that you and a classmate can work as a team. Only one plan should be submitted per team..
+Please remember that you and a classmate can work as a team. Only one plan should be submitted per team.
 
 * Please name your file as lastname\_senior\_sp21\_projectplandraft\#\_date.pdf \(i.e. duff\_senior\_sp21\_projectplan1\_2021jan15.pdf\). If a team, please put both of your last names \(i.e. duff\_and\_dubois\) in the filename.
 * Please note that any significant changes to your project will require the submission of a revised project plan.
