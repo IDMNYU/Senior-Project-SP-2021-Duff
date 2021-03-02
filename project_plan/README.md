@@ -153,8 +153,9 @@ Please remember that you and a classmate can work as a team. Only one plan shoul
         <ul>
           <li>Break down your milestones into actionable tasks using a system of your
             choice. I highly recommend <a href="http://personalkanban.com">Personal Kanban</a>.
-            However, it is not required if you have another system with prioritization
-            as a focus. If you have another system, you must share it with the instructor.</li>
+            Another system that is popular with students is the <a href="https://bulletjournal.com/pages/learn">Bullet Journal</a>.
+            However, neither is required if you have another system with prioritization
+            as a focus. If you do have another system, please share it with the instructor.</li>
           <li>All actionable tasks should start with a verb (i.e. write, call, email,
             build, code, collect, etc.), and can be completed in a day.</li>
           <li>Also, be specific with your tasks. (For example, &quot;take 20 photographs&quot;
