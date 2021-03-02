@@ -1,5 +1,7 @@
 # Pro Practices Revisions
 
+> Vision is the bottleneck of talent. Most talent is wasted because people do not clearly know what they want. It’s not a lack of effort but a lack of direction. There are many capable people in the world, but relatively few that focus on what matters. ~James Clear
+
 Iterate the following from professional practices:
 
 * Portfolio Website
@@ -11,7 +13,7 @@ Post the following to this [google doc](https://docs.google.com/document/d/1aj_N
 
 Notes:
 
-* Your **portfolio website** _NOTE: This is different than your_ [_process website_](../pre-work/website.md)_._ This website should market and promote your entire body of work _including your senior project_ for possible employment or other post graduation opportunities. Ideally, you should have your own domain name. I suggest getting your own domain name through an ISP \(Internet Service Provider. I recommend [Siteground](http://siteground.com) or [Dreamhost](http://dreamhost.com). 
+* Your **portfolio website** _NOTE: This is different than your_ [_process website_](../website.md)_._ This website should market and promote your entire body of work _including your senior project_ for possible employment or other post graduation opportunities. Ideally, you should have your own domain name. I suggest getting your own domain name through an ISP \(Internet Service Provider. I recommend [Siteground](http://siteground.com) or [Dreamhost](http://dreamhost.com). 
   * An example: [https://www.glorialo.design](https://www.glorialo.design/)
 * Your **LinkedIn profile**. Make sure you connect with me, your peers in this section of senior project, the other senior project sections, and with as many people as possible in the IDM community. Continue to build your network.
 

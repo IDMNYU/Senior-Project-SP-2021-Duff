@@ -33,7 +33,7 @@ Create a google drive folder labeled "Senior Project SP21 your first and last na
 
 ## Set Up A Dedicated Senior Project Process Website
 
-* Set up [dedicated process website](website.md) for senior project.
+* Set up [dedicated process website](../website.md) for senior project.
 * Please add your name and the URL of your process website to this [shared google doc](https://docs.google.com/document/d/1Y3DCwp7kZoMx-zMVO6IMVDuD9AUpfTLV2gx7sPXTd7U/edit).
 
 ## Listen To The Watchmen TV Series Podcast
@@ -51,7 +51,7 @@ AFTER listening to the podcast, write a [response](../assignments/responses.md) 
 ## \(OPTIONAL\) Brainstorm Project Ideas
 
 * A few of you may already know what you want to do for your senior project. IF you are committed to your project, move on to the [pecha kucha presentation](pecha_kucha.md). However, before you commit, make sure you read [**Welcome to Senior Project In Digital Media!**](https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/syllabus#welcome-to-senior-project-in-digital-media) **AND** [**Your Commitment To Senior Project**](https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/syllabus#your-commitment-to-senior-project) in the [syllabus](../syllabus.md).
-* IF you need help coming up with ideas for your senior project, do one or more of the following brainstorming exercises before you complete the pecha kucha presentation for the first day of class and document your brainstorming. i.e. Take photos and/or screenshots OR write a [response](../assignments/responses.md) depending on which is applicable\), post to your [process website](website.md), and upload your brainstorming exercises to a folder labeled "Pre-work" in your project documentation folder for your [end of semester deliverables](../end_of_semester_deliverables/).
+* IF you need help coming up with ideas for your senior project, do one or more of the following brainstorming exercises before you complete the pecha kucha presentation for the first day of class and document your brainstorming. i.e. Take photos and/or screenshots OR write a [response](../assignments/responses.md) depending on which is applicable\), post to your [process website](../website.md), and upload your brainstorming exercises to a folder labeled "Pre-work" in your project documentation folder for your [end of semester deliverables](../end_of_semester_deliverables/).
   * [Free Writing, Word Lists & Mind Maps](../brainstorming/free-writing-word-lists-and-mind-maps.md)
   * [SCAMPER Technique](http://www.mindtools.com/pages/article/newCT_02.htm)
   * [Card Sorting Technique](../brainstorming/card_sorting.md)

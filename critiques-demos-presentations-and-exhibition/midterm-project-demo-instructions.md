@@ -23,7 +23,7 @@
   * The remaining time will be used for the rest of your breakout group to give you feedback.
   * The focus is on the actual artifact\(s\) you are creating and nothing else.
   * Do NOT create a supporting presentation.
-* Also, make sure to also document your prototype\(s\) on your [process website](../pre-work/website.md) by creating post\(s\) which contain the link\(s\), photo\(s\), and/or video\(s\) of your prototype\(s\). More details below about demoing.
+* Also, make sure to also document your prototype\(s\) on your [process website](../website.md) by creating post\(s\) which contain the link\(s\), photo\(s\), and/or video\(s\) of your prototype\(s\). More details below about demoing.
 
 ## **Midterm Project Demo Setup**
 
@@ -68,7 +68,7 @@
 ## Getting Feedback
 
 * Document your feedback ASAP \(preferably by the following day at the latest \)
-* Always document any feedback you receive on your [process website](../pre-work/website.md) after any critique. The midterm project demo is no different. 
+* Always document any feedback you receive on your [process website](../website.md) after any critique. The midterm project demo is no different. 
   * This critique feedback post should include images of the current status of your project \(prototype\(s\)\), a description of your project progress as it currently stands, and a discussion of the feedback you received from the critique.
     * How will this feedback improve your project and progress?
     * Evaluate whether the prototype\(s\) gave you the feedback you require to transform or move forward with your project. If not, reflect upon why not.

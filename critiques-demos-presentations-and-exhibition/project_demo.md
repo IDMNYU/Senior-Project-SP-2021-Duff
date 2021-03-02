@@ -55,5 +55,5 @@ It is the responsibility of each senior to invite an outside critic to _at least
 
 ### Document your feedback
 
-Always document any feedback you receive on your [process website](../pre-work/website.md) after any critique. This critique feedback post should include images of the current status of your project \(prototype or version\), a description of your project progress as it currently stands, and discussion of the feedback you received from the critique. How will this feedback improve your work and ideas?
+Always document any feedback you receive on your [process website](../website.md) after any critique. This critique feedback post should include images of the current status of your project \(prototype or version\), a description of your project progress as it currently stands, and discussion of the feedback you received from the critique. How will this feedback improve your work and ideas?
 

@@ -12,12 +12,12 @@
 
   \(OPTIONAL since you met during class already\) Meet with your [accountability team ](../assignments/accountability_partner.md)at least once, this week. 
 
-  * Document your [accountability team](../assignments/accountability_partner.md) meeting\(s\) on your [process website](../pre-work/website.md).
+  * Document your [accountability team](../assignments/accountability_partner.md) meeting\(s\) on your [process website](../website.md).
 
 * Iterate: 
   * [research and design](../project_plan/) of your project.
   * [resources and milestones](../project_plan/) for your project \(if applicable\).
-* Document your process and project, which includes your [resources and milestones](../project_plan/) and [research and design](../project_plan/),  [prototype\(s\)](../project_plan/) of your project on your [process website](../pre-work/website.md).
+* Document your process and project, which includes your [resources and milestones](../project_plan/) and [research and design](../project_plan/),  [prototype\(s\)](../project_plan/) of your project on your [process website](../website.md).
 
 ## Class
 
