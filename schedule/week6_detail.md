@@ -2,10 +2,11 @@
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
-* Because each student is working on individual projects, your project demo may vary. However, the majority of you are working on either UI/UX for websites or apps or animations/videos. 
-  * So for UI/UX for websites, your project demo could include sitemaps, wirefraames/schematics, and/or clickable prototypes in the software of your choice. 
-  * For animations/videos, your project demo could include storyboards, style frames, animatics, and/or motion tests.  
-  * If you're working on a game, you could include the story, character & other object sketches, interaction tests, 
+* Because each student is working on individual projects, your [project demo](../critiques-demos-presentations-and-exhibition/project_demo.md) may vary, but you need to show something visible and concrete. You can also show multiple things for your project demo. Put each one in a separate padlet card \(see link below\).  However, the majority of you are working on either UI/UX for websites or apps or animations/videos. Make sure you review the [Design & Production Workflow \(AKA Pipeline\) ](../design-and-production-workflow.md)resources.
+  * So for UI/UX for websites, your project demo could include sitemaps, wireframes/schematics, and/or clickable prototypes in the software of your choice. 
+    * This is an example of a good wireframe: [https://fuzzymath.com/wp-content/uploads/2011/07/Fuzzy-Math-How-to-read-a-wireframe.pdf](https://fuzzymath.com/wp-content/uploads/2011/07/Fuzzy-Math-How-to-read-a-wireframe.pdf) with the exception of the one paragraph of lorem ipsum text. Also do not use color.
+  * For animations/videos, your project demo could include storyboards, style frames, animatics, audio, and/or motion tests.  
+  * If you're working on a game, you could include the story, character & other object sketches, interaction tests, levels, maps, puzzles, etc. 
 * Upload your [project demo](../critiques-demos-presentations-and-exhibition/project_demo.md) or a link to it on [https://padlet.com/dd1849/idmspdemos](https://padlet.com/dd1849/idmspdemos) **by noon on Monday, March 8 at the very latest** so your classmates can make comments about your project demo.
 * AFTER your classmates have uploaded their demo, comment on 3 of your classmates' project demos IN ADDITION TO the members of your A-Team by adding a card with your name as the title \(unless you create a padlet account and are logged in. We need to know whose comments are which\) underrneath the column of the classmate project demo you are commenting on.
   * What is working about the project?
