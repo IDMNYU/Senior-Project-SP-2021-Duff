@@ -77,7 +77,8 @@
       <td style="text-align:left"><a href="week7_detail.md">Mon Mar 15</a>
       </td>
       <td style="text-align:left">
-        <p>Kelsa Trom, Head of Programs at NEW INC. /</p>
+        <p>Guest: Kelsa Trom, Head of Programs at <a href="https://www.newinc.org/our-story">NEW INC</a>.
+          /</p>
         <p>Project Demos continued</p>
       </td>
     </tr>
