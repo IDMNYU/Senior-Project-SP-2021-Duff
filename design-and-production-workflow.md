@@ -72,6 +72,14 @@ I would not worry about step 5 \(including what the user is thinking or feeling\
 
 {% embed url="https://www.uxmatters.com/mt/archives/2020/10/a-guide-to-creating-mobile-app-wireframes-in-2020.php" %}
 
+#### Prototyping
+
+{% embed url="https://marvelapp.com/pop" caption="POP by Marvel" %}
+
+{% embed url="https://fuzzymath.com/wp-content/uploads/2011/07/Fuzzy-Math-How-to-read-a-wireframe.pdf" %}
+
+{% embed url="https://www.slideshare.net/pubsmith/sketching-interfaces-workshop-interactions12-dublin" %}
+
 #### UI/UX Trends
 
 {% embed url="https://uxplanet.org/10-ui-ux-trends-in-2020-3be03597dfe7" %}
