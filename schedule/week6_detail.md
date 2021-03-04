@@ -2,7 +2,7 @@
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
-Project Demo Details
+Project Demo Details:
 
 * Because each student is working on individual projects, your [project demo](../critiques-demos-presentations-and-exhibition/project_demo.md) may vary, but you need to show something visible and concrete. 
 * You can also show multiple things for your project demo. Put each one in a separate padlet card \(see link below\).
