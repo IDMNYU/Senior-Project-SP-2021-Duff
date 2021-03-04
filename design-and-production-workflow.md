@@ -80,13 +80,11 @@ I would not worry about step 5 \(including what the user is thinking or feeling\
 
 #### 
 
-http://www.slideshare.net/pubsmith/sketching-interfaces- workshop-interactions12-dublin
+[http://www.slideshare.net/pubsmith/sketching-interfaces- workshop-interactions12-dublin](https://www.slideshare.net/pubsmith/sketching-interfaces-workshop-interactions12-dublin)
 
 #### [https://www.uxpin.com/studio/ebooks/](https://www.uxpin.com/studio/ebooks/) FREE UX ebooks on a myriad of topics by UXPin.
 
 #### 
-
-
 
 #### UI/UX Trends
 
