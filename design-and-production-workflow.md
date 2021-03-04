@@ -78,11 +78,9 @@ I would not worry about step 5 \(including what the user is thinking or feeling\
 
 {% embed url="https://fuzzymath.com/wp-content/uploads/2011/07/Fuzzy-Math-How-to-read-a-wireframe.pdf" %}
 
-#### 
-
 [http://www.slideshare.net/pubsmith/sketching-interfaces- workshop-interactions12-dublin](https://www.slideshare.net/pubsmith/sketching-interfaces-workshop-interactions12-dublin)
 
-#### [https://www.uxpin.com/studio/ebooks/](https://www.uxpin.com/studio/ebooks/) FREE UX ebooks on a myriad of topics by UXPin.
+#### [https://www.uxpin.com/studio/ebooks/](https://www.uxpin.com/studio/ebooks/) **FREE UX ebooks on a myriad of topics by UXPin.**
 
 #### 
 
