@@ -80,9 +80,9 @@ I would not worry about step 5 \(including what the user is thinking or feeling\
 
 #### 
 
-#### [https://www.uxpin.com/studio/ebooks/](https://www.uxpin.com/studio/ebooks/)
 
-#### 
+
+#### [https://www.uxpin.com/studio/ebooks/](https://www.uxpin.com/studio/ebooks/) FREE UX ebooks on a myriad of topics by UXPin.
 
 #### 
 

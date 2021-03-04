@@ -57,7 +57,19 @@ _Do The Work_ is pretty much a distillation of the principles in _The War of Art
 
 {% embed url="http://thinkingwithtype.com/" %}
 
+{% embed url="https://www.amazon.com/Lessons-Typography-Must-know-typographic-principles/dp/0133993558/ref=tmm\_pap\_swatch\_0?\_encoding=UTF8&qid=1516898915&sr=1-1" caption="Lessons in Typography by Jim Krause" %}
+
+## Prototyping
+
+{% embed url="https://marvelapp.com/pop" caption="POP by Marvel" %}
+
+{% embed url="https://fuzzymath.com/wp-content/uploads/2011/07/Fuzzy-Math-How-to-read-a-wireframe.pdf" %}
+
+{% embed url="https://www.slideshare.net/pubsmith/sketching-interfaces-workshop-interactions12-dublin" %}
+
 ## UX
+
+{% embed url="https://www.uxpin.com/studio/ebooks/" caption="A multitude of FREE UX e-books on a variety of subjects by UXPin" %}
 
 
 
