@@ -57,3 +57,13 @@ It is the responsibility of each senior to invite an outside critic to _at least
 
 Always document any feedback you receive on your [process website](../website.md) after any critique. This critique feedback post should include images of the current status of your project \(prototype or version\), a description of your project progress as it currently stands, and discussion of the feedback you received from the critique. How will this feedback improve your work and ideas?
 
+### Project Demo Info & Resources:
+
+* Because each student is working on individual projects, your [project demo](project_demo.md) may vary, but you need to show something visible and concrete. 
+* You can also show multiple things for your project demo. Put each one in a separate padlet card \(link on slack\).
+* The majority of you are working on either UI/UX for websites or apps or animations/videos. Make sure you review the [Design & Production Workflow \(AKA Pipeline\) ](../design-and-production-workflow.md)resources.
+* For UI/UX for websites and apps, your project demo could include user workflow, user journey, and/or customer journey, sitemaps, wireframes/schematics, and/or clickable prototypes in the software of your choice. 
+  * This is an example of a good wireframe: [https://fuzzymath.com/wp-content/uploads/2011/07/Fuzzy-Math-How-to-read-a-wireframe.pdf](https://fuzzymath.com/wp-content/uploads/2011/07/Fuzzy-Math-How-to-read-a-wireframe.pdf) with the exception of the one paragraph of lorem ipsum text. Also do not use color.
+* For animations/videos, your project demo could include storyboards, style frames, animatics, audio, and/or motion tests.  
+* If you're working on a game, you could include the story, character & other object sketches, interaction tests, levels, maps, puzzles, etc. 
+
