@@ -74,8 +74,13 @@
     </tr>
     <tr>
       <td style="text-align:left">7</td>
-      <td style="text-align:left">Mon Mar 15</td>
-      <td style="text-align:left">Project Demos</td>
+      <td style="text-align:left"><a href="week7_detail.md">Mon Mar 15</a>
+      </td>
+      <td style="text-align:left">
+        <p>Guest: Kelsa Trom, Head of Programs at <a href="https://www.newinc.org/our-story">NEW INC</a>.
+          /</p>
+        <p>Project Demos continued</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">8</td>
