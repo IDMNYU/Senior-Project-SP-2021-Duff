@@ -1,5 +1,20 @@
 # Creativity Resources
 
+## What it Means to Have a Creative Practice
+
+> "Greatness is consistency.  
+> Meditating once is common. Meditating daily is rare.  
+> Exercising today is simple. Training every week is simply remarkable.  
+> Writing one essay rarely matters. Write every day and you're practically a hero.  
+> Unheroic days can make for heroic decades."   
+> James Clear
+
+{% embed url="https://youtu.be/lRtV-ugIT0k" caption="Finished Not Perfect by Jake Parker" %}
+
+{% embed url="https://austinkleon.com/2021/03/01/31-day-practice-and-suck-less-challenge/" caption="31-day Practice and Suck Less Challenge by Austin Kleon" %}
+
+{% embed url="https://www.dropbox.com/s/yle30d0ykag362d/practice-suck-less-31-days.pdf?" caption="31-day Practice and Suck Less Challenge pdf" %}
+
 ## Recommended Audio Podcasts
 
 {% embed url="https://podcasts.apple.com/us/podcast/revision-path/id834173190?mt=2" %}
