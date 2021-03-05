@@ -32,6 +32,13 @@ The Usual Weekly Deliverables:
 
 ## Class
 
+> "Greatness is consistency.  
+> Meditating once is common. Meditating daily is rare.  
+> Exercising today is simple. Training every week is simply remarkable.  
+> Writing one essay rarely matters. Write every day and you're practically a hero.  
+> Unheroic days can make for heroic decades."   
+> James Clear
+
 * Discuss what it means to have a creative practice
   * [Finished Not Perfect](https://youtu.be/lRtV-ugIT0k) by Jake Parker
   * [Austin Kleon's 31-day Practice and Suck Less challenge](https://austinkleon.com/2021/03/01/31-day-practice-and-suck-less-challenge/) \([download pdf](https://www.dropbox.com/s/yle30d0ykag362d/practice-suck-less-31-days.pdf?)\)
