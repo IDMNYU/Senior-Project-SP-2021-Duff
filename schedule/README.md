@@ -85,8 +85,9 @@
     <tr>
       <td style="text-align:left">8</td>
       <td style="text-align:left">Mon Mar 22</td>
-      <td style="text-align:left"><a href="../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md"><b>Midterm Demo and Critique</b></a>
-      </td>
+      <td style="text-align:left">One on Ones for half of class / Accountability Teams in Airmeet. The other
+        half of class will meet with me before or after class. Check slack for
+        times.</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
