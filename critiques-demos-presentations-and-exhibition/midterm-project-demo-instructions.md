@@ -6,7 +6,7 @@
 
 * By or before Sunday at noon EST, please document your prototype\(s\) by posting the link\(s\) directly to the thing itself if it is a website \(incl. soundcloud links\), social media feed \(instagram, etc\), animatic or animation on vimeo or youtube, etc OR  posting link\(s\) from your process website which contain photos and/or videos of your prototype\(s\) to padlet \(link will be provided\).
 * The calendar invite will contain the link where we'll meet online in Airmeet. I'll also post it in slack.
-* **Please look at the project plans and prototypes of the students in your breakout group BEFORE class and leave comments for everyone in your assigned group at least.** Also, leave comments for other groups if you look at their projects. If everyone does this, you can spend less time talking and showing your project and more time getting feedback on your project.
+* **Please look at the prototype\(s\) of the students in your group BEFORE midterm project demo day and leave comments for everyone in your assigned group at least.** Also, leave comments for other groups if you look at their projects. If everyone does this, you can spend less time talking and showing your project and more time getting feedback on your project.
 * Also if you have been assigned a timekeeper, chat moderator, or have been asked to screenshot the chat and you are HIGHLY uncomfortable in doing so, please let me know ASAP. However, I want all students to participate actively during our midterm project demos.
 
 ## **Midterm Project Demo**
