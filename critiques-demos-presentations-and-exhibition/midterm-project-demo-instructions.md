@@ -4,9 +4,11 @@
 
 ## **Midterm Project Demo Prep**
 
-* By or before Sunday at noon EST, please document your prototype\(s\) by posting the link\(s\) directly to the thing itself if it is a website \(incl. soundcloud links\), social media feed \(instagram, etc\), animatic or animation on vimeo or youtube, etc OR  posting link\(s\) from your process website which contain photos and/or videos of your prototype\(s\) to padlet \(link will be provided\).
-* The calendar invite will contain the link where we'll meet online in Airmeet. I'll also post it in slack.
-* **Please look at the prototype\(s\) of the students in your group BEFORE midterm project demo day and leave comments for everyone in your assigned group at least.** Also, leave comments for other groups if you look at their projects. If everyone does this, you can spend less time talking and showing your project and more time getting feedback on your project.
+* By or before Sunday at noon EST, please document your prototype\(s\) by posting the link\(s\) directly to the thing itself if it is a website \(incl. soundcloud links\), social media feed \(instagram, etc\), animatic or animation on vimeo or youtube, etc OR  posting link\(s\) from your process website which contain photos and/or videos of your prototype\(s\) to this [google doc](https://docs.google.com/document/d/1ZdseARFH-GAUl_GSCIKApVZ-YRCHG9FqtXkFFrBNUOw/edit?usp=sharing).
+* I will send you a calendar invite with the link where we'll meet online.
+* The calendar invite description will also contain a link to the google doc which will contain which Monday and time you will be demoing your project, the project plans and links to the prototypes of our combined section, as well as a link to this webpage.
+* I will also slack everyone the link to the google doc which contains the schedule.
+* **Please look at the project plans and prototypes of the students in your breakout group BEFORE class.** If everyone does this, you can spend less time talking and showing your project and more time getting feedback on your project.
 * Also if you have been assigned a timekeeper, chat moderator, or have been asked to screenshot the chat and you are HIGHLY uncomfortable in doing so, please let me know ASAP. However, I want all students to participate actively during our midterm project demos.
 
 ## **Midterm Project Demo**
@@ -14,7 +16,7 @@
 * Think of this as a show and tell.
 * Be prepared to deliver an elevator pitch of your project verbally. 
 * Be prepared to demo the project at its current state. 
-* When you share your prototype\(s\) to your group during your midterm demo, try to bypass showing it on your process website. In other words, if you have images just show the images using preview, etc. If you have created a website, animatic or animation on vimeo or youtube, etc, go directly to that link in a web browser.
+* When you share your prototype\(s\) to the class during your midterm demo, try to bypass showing it on your process website. In other words, if you have images just show the images using preview, etc. If you have created a website, animatic or animation on vimeo or youtube, etc, go directly to that link in a web browser.
 * Discuss what does \(and does not\) your prototype\(s\) explore at this moment in time. Quickly list next steps.
 * You will have 14 min total to deliver your elevator pitch, demo your project, AND receive feedback from the group.
   * You will have up to 5 min to do both: deliver the elevator pitch and demo the project. You do not need to use the entire 5 min. That way you'll have more time for feedback.
@@ -25,25 +27,28 @@
 
 ## **Midterm Project Demo Setup**
 
-* All four sections will be meeting together in one Airmeet. There will be 14 tables of groups of 4 & 5.
-* Faculty and any "outside of our class" critics may or may not table hop.
-* Each Airmeet table will be assigned a student timekeeper, chat monitor, and a student to take screenshots of the chat.
+* Our section will be combined with another faculty member's section. 
+* There will be at least 30 people in our session.
+* We will be broken up into breakout rooms.
+* Each breakout room should consist of at least 1 to 2 projects per date from both sections for a total of 7 to 8 students in each breakout room.
+* Faculty and any "outside of our class" critics may or may not rotate in and out of breakout rooms.
+* Each zoom breakout room will be assigned a student timekeeper, chat monitor, and a student to take screenshots of the chat.
   * Once you see the assignments and you are uncomfortable with being either the timekeeper, chat monitor, or with taking screenshots let me know.
 * Every student should have 14 min total to be fair. 
 * Each student should present for up to 5 min and have the remaining time for feedback for a total of 14 min.
 
 ## Reminders
 
-* You should **look at your group's padlet BEFORE Monday of everyone in your group**. 
+* I HIGHLY recommend that you **look at the project plans and links to the prototype\(s\) BEFORE Monday of everyone in your breakout group**. They can be found in the master google doc after the breakout rooms.
 * Make sure you do not use a presentation to describe your project.
 * Make sure you present the prototype\(s\) itself.
 * Make sure your elevator pitch is just that. Short. 1 to 2 sentences maximum.
 * Make sure you spend the bulk of your 5 min presenting your prototype\(s\).
 * Make sure you share your screen when you are presenting your prototype\(s\).
 * Use your entire 14 min. If students are not giving you feedback, ask them questions you are currently grappling with.
-* Give feedback to everybody at your table if at all possible.
+* Give feedback to everybody in your breakout room if at all possible.
 * Do not just let the IDM grad student\(s\) or faculty talk.
-* There should be peer-to-peer feedback.
+* There should be peer to peer feedback.
 
 ## **Rules of the critique:**
 
@@ -56,8 +61,8 @@
 ## **Guidelines for giving feedback during the critique:**
 
 * What is working about the project?
-* What is confusing or needs more clarification about the project? \(Questions\)
-* What are ways that the project can be improved? \(Suggestions\)
+* What is confusing or needs more clarification about the project?
+* What are ways that the project can be improved?
 * What additional references, resources, projects, and/or links would be useful for this project?
 
 ## Getting Feedback
@@ -70,7 +75,7 @@
 
 ## **Giving feedback**
 
-Please post any resources or references you suggest to your classmates in our slack channel or direct message students in the other section or post a comment on padlet.
+Please post any resources or references you suggest to your classmates in our slack channel or direct message students in the other section.
 
 ## Invite guests
 
