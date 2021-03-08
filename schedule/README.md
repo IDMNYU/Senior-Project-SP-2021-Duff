@@ -90,20 +90,6 @@
         times.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Tue Mar 23-Thu Mar 25</td>
-      <td style="text-align:left">
-        <p><b>Midterm One On One Review for students who presented on Mon, March 22</b>
-        </p>
-        <ul>
-          <li>Will be conducted via Zoom</li>
-          <li>Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a>.</li>
-          <li><a href="../end_of_semester_deliverables/midterm_self_assessment.md"><b>Midterm Self Assessment</b></a> (Direct
-            message as pdf to deangela on slack BEFORE your meeting).</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td style="text-align:left">9</td>
       <td style="text-align:left">Mon Mar 29</td>
       <td style="text-align:left"><a href="../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md"><b>Midterm Demo and Critique</b></a>
@@ -114,11 +100,12 @@
       <td style="text-align:left">Tue Mar 30-Fri Apr 1</td>
       <td style="text-align:left">
         <p></p>
-        <p><b>Midterm One On One Review for students who presented on Mon, March 29</b>
+        <p><b>Midterm One On One Reviews for all Students</b>
         </p>
         <ul>
           <li>Will be conducted via Zoom</li>
-          <li>Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a>.</li>
+          <li>Schedule 15 minutes ONLY at <a href="https://calendly.com/deangela/15min">https://calendly.com/deangela/15min</a>
+          </li>
           <li><a href="../end_of_semester_deliverables/midterm_self_assessment.md"><b>Midterm Self Assessment</b></a> (Direct
             message as pdf to deangela on slack BEFORE your meeting).</li>
         </ul>
