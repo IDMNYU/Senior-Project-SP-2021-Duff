@@ -2,11 +2,9 @@
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
-
-
 Project Demo Deliverables:
 
-* REVISE your [project demo](../critiques-demos-presentations-and-exhibition/project_demo.md) or link\(s\) and supporting files to it on [https://padlet.com/dd1849/idmspdemos](https://padlet.com/dd1849/idmspdemos) **by noon on Monday, March 15 at the very latest** so your classmates can make comments about your project demo.
+* REVISE your [project demo](../critiques-demos-presentations-and-exhibition/project_demo.md) or link\(s\) and supporting files and post them on [https://padlet.com/dd1849/idmspdemos](https://padlet.com/dd1849/idmspdemos) **by noon on Monday, March 15 at the very latest** so your classmates can make comments about your project demo. You should be able to edit your previous padlet posts.
 * Comment on 3 additional classmates' project demos by adding a comment or card with your name as the title \(unless you create a padlet account and are logged in. We need to know whose comments are which\) underrneath the column of the classmate project demo you are commenting on.
   * What is working about the project?
   * What is confusing or needs more clarification about the project? Questions?
