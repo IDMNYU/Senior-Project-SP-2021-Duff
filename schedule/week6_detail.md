@@ -32,7 +32,5 @@ The Usual Weekly Deliverables:
 
 ## Class
 
->
-
 * Class critique: [Project Demos](../critiques-demos-presentations-and-exhibition/project_demo.md)
 
