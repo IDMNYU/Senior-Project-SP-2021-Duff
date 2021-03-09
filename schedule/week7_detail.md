@@ -23,8 +23,8 @@ Project Demo Info & Resources:
 
 The Usual Weekly Deliverables:
 
-* \(OPTIONAL since you met during class already\) Meet with your [accountability team ](../assignments/accountability_partner.md)at least once, this week. 
-* **Document your** [**accountability team**](../assignments/accountability_partner.md) **meeting\(s\) on your** [**process website**](../website.md)**.**
+* Meet with your [accountability team ](../assignments/accountability_partner.md)at least once, this week. 
+  * **Document your** [**accountability team**](../assignments/accountability_partner.md) **meeting\(s\) on your** [**process website**](../website.md)**.**
 * Iterate: 
   * [research and design](../project_plan/) of your project.
   * [resources and milestones](../project_plan/) for your project \(if applicable\).
