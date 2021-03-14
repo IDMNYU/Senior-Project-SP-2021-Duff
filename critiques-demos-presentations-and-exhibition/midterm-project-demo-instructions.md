@@ -7,7 +7,7 @@
 * IF you haven't already, please sign up for a [padlet](http://padlet.com/) account so your name will be attributed to your comments. 
 * You will find the group \# and padlet you're assigned to in this [google doc](https://docs.google.com/document/d/1nx6sCKFbDKpJ-pLjxW8kxPVdncsN0axpombmY8k875g/edit?usp=sharing).
 * By or before Sunday, March 28, 2021, at noon EST, please document your prototype\(s\) by posting the link\(s\) directly to the thing itself if it is a website \(incl. soundcloud links\), social media feed \(instagram, etc\), animatic or animation on vimeo or youtube, etc to your group's respective padlet. 
-* You can also show multiple things for your project demo. Put each one in a separate padlet card.
+* You can also show multiple assets for your project demo. Put each one in a separate padlet card.
 * The calendar invite will contain the link where we'll meet online in Airmeet. I'll also post it in slack.
 * **Please look at the prototype\(s\) of the students in your group BEFORE midterm project demo day and leave comments for everyone in your assigned group at least.** Also, leave comments for other groups if you look at their projects. If everyone does this, you can spend less time talking and showing your project and more time getting feedback on your project.
 
