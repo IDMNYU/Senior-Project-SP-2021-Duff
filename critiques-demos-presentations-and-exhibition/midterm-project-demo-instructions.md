@@ -4,23 +4,39 @@
 
 ## **Midterm Project Demo Prep**
 
-* By or before Sunday, March 28, 2021, at noon EST, please document your prototype\(s\) by posting the link\(s\) directly to the thing itself if it is a website \(incl. soundcloud links\), social media feed \(instagram, etc\), animatic or animation on vimeo or youtube, etc OR  posting link\(s\) from your process website which contain photos and/or videos of your prototype\(s\) to your group's respective padlet. You will find the padlet you're assigned to in this [google doc](https://docs.google.com/document/d/1nx6sCKFbDKpJ-pLjxW8kxPVdncsN0axpombmY8k875g/edit?usp=sharing).
+* IF you haven't already, please sign up for a [padlet](http://padlet.com/) account so your name will be attributed to your comments. 
+* You will find the group \# and padlet you're assigned to in this [google doc](https://docs.google.com/document/d/1nx6sCKFbDKpJ-pLjxW8kxPVdncsN0axpombmY8k875g/edit?usp=sharing).
+* By or before Sunday, March 28, 2021, at noon EST, please document your prototype\(s\) by posting the link\(s\) directly to the thing itself if it is a website \(incl. soundcloud links\), social media feed \(instagram, etc\), animatic or animation on vimeo or youtube, etc to your group's respective padlet. 
+* You can also show multiple things for your project demo. Put each one in a separate padlet card.
 * The calendar invite will contain the link where we'll meet online in Airmeet. I'll also post it in slack.
 * **Please look at the prototype\(s\) of the students in your group BEFORE midterm project demo day and leave comments for everyone in your assigned group at least.** Also, leave comments for other groups if you look at their projects. If everyone does this, you can spend less time talking and showing your project and more time getting feedback on your project.
-* Also if you have been assigned a timekeeper, chat moderator, or have been asked to screenshot the chat and you are HIGHLY uncomfortable in doing so, please let me know ASAP. However, I want all students to participate actively during our midterm project demos.
+
+## Midterm Project Demo Info & Resources:
+
+* Because each student is working on individual projects, your [project demo](project_demo.md) may vary, but you need to show something visible and concrete. 
+* The majority of you are working on either UI/UX for websites or apps or animations/videos. Make sure you review the [Design & Production Workflow \(AKA Pipeline\) ](../design-and-production-workflow.md)resources.
+* For UI/UX for websites and apps, your project demo could include user workflow, user journey, and/or customer journey, sitemaps, wireframes/schematics, and/or clickable prototypes in the software of your choice. 
+  * This is an example of a good wireframe: [https://fuzzymath.com/wp-content/uploads/2011/07/Fuzzy-Math-How-to-read-a-wireframe.pdf](https://fuzzymath.com/wp-content/uploads/2011/07/Fuzzy-Math-How-to-read-a-wireframe.pdf) with the exception of the one paragraph of lorem ipsum text. Also do not use color.
+* For animations/videos, your project demo could include storyboards, style frames, animatics, audio, and/or motion tests.  
+* If you're working on a game, you could include the story, character & other object sketches, interaction tests, levels, maps, puzzles, etc. 
+
+## **Midterm Project Roles**
+
+* IF you have been assigned a timekeeper, chat moderator, or have been asked to screenshot the chat and you are HIGHLY uncomfortable in doing so, please let me know ASAP. However, I want all students to participate actively during our midterm project demos.
 
 ## **Midterm Project Demo**
 
 * Think of this as a show and tell.
 * Be prepared to deliver an elevator pitch of your project verbally. 
 * Be prepared to demo the project at its current state. 
-* When you share your prototype\(s\) to your group during your midterm demo, try to bypass showing it on your process website. In other words, if you have images just show the images using preview, etc. If you have created a website, animatic or animation on vimeo or youtube, etc, go directly to that link in a web browser.
-* Discuss what does \(and does not\) your prototype\(s\) explore at this moment in time. Quickly list next steps.
+* When you share your prototype\(s\) to your group during your midterm demo, try to bypass showing it on your process website. In other words, if you have images just show the images using preview, etc. If you have created a website, animatic or animation on vimeo or youtube, etc, go directly to that link in a web browser. Alternatively, you can click on your padlet note and **go fullscreen**.
+* Discuss what does \(and does not\) your prototype\(s\) explore at this moment in time. Quickly list next steps. 
+* Come with questions to ask others about your project direction\(s\).
 * You will have 14 min total to deliver your elevator pitch, demo your project, AND receive feedback from the group.
   * You will have up to 5 min to do both: deliver the elevator pitch and demo the project. You do not need to use the entire 5 min. That way you'll have more time for feedback.
   * The remaining time will be used for the rest of your breakout group to give you feedback.
   * The focus is on the actual artifact\(s\) you are creating and nothing else.
-  * Do NOT create a supporting presentation.
+  * **Do NOT create a supporting presentation.**
 * Also, make sure to also document your prototype\(s\) on your [process website](../website.md) by creating post\(s\) which contain the link\(s\), photo\(s\), and/or video\(s\) of your prototype\(s\). More details below about demoing.
 
 ## **Midterm Project Demo Setup**
