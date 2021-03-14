@@ -17,13 +17,14 @@
       <td style="text-align:left">1</td>
       <td style="text-align:left"><a href="week1_detail.md">Mon Feb 01</a>
       </td>
-      <td style="text-align:left">Pre-work due / Pecha kucha presentations</td>
+      <td style="text-align:left">Pre-work due / Pecha kucha presentations in Zoom</td>
     </tr>
     <tr>
       <td style="text-align:left">2</td>
       <td style="text-align:left"><a href="week2_detail.md">Mon Feb 08</a>
       </td>
-      <td style="text-align:left">Individual One on Ones for ENTIRE class before, during, and after class</td>
+      <td style="text-align:left">Individual One on Ones for ENTIRE class before, during, and after class
+        in Zoom</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -45,7 +46,7 @@
         <p><b>Legislative Day - NYU Classes will meet according to a Monday schedule.</b>
         </p>
         <p>Letters from Previous Cohort / Project Overview in Miro / Accountability
-          Team Assignments</p>
+          Team Assignments in Zoom</p>
       </td>
     </tr>
     <tr>
