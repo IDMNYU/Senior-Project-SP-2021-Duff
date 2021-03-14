@@ -71,7 +71,7 @@
       <td style="text-align:left">6</td>
       <td style="text-align:left"><a href="week6_detail.md">Mon Mar 08</a>
       </td>
-      <td style="text-align:left">Project Demos</td>
+      <td style="text-align:left">Project Demos in Zoom</td>
     </tr>
     <tr>
       <td style="text-align:left">7</td>
@@ -79,8 +79,8 @@
       </td>
       <td style="text-align:left">
         <p>Guest: Kelsa Trom, Head of Programs at <a href="https://www.newinc.org/our-story">NEW INC</a>.
-          /</p>
-        <p>Project Demos continued</p>
+          in Carla&apos;s Zoom /</p>
+        <p>Project Demos continued in Zoom</p>
       </td>
     </tr>
     <tr>
