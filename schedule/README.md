@@ -23,7 +23,7 @@
       <td style="text-align:left">2</td>
       <td style="text-align:left"><a href="week2_detail.md">Mon Feb 08</a>
       </td>
-      <td style="text-align:left">Individual One on Ones for ENTIRE class</td>
+      <td style="text-align:left">Individual One on Ones for ENTIRE class before, during, and after class</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
