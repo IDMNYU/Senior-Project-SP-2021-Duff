@@ -94,7 +94,7 @@
       <td style="text-align:left">9</td>
       <td style="text-align:left"><a href="week9_detail.md">Mon Mar 29</a>
       </td>
-      <td style="text-align:left"><a href="../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md"><b>Midterm Demo and Critique</b></a>
+      <td style="text-align:left"><a href="../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md"><b>Midterm Demo and Critique</b></a><b> in Airmeet</b>
       </td>
     </tr>
     <tr>
