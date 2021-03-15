@@ -33,29 +33,30 @@
 * Discuss what does \(and does not\) your prototype\(s\) explore at this moment in time. Quickly list next steps. 
 * Come with questions to ask others about your project direction\(s\).
 * You will have 14 min total to deliver your elevator pitch, demo your project, AND receive feedback from the group.
-  * You will have up to 5 min to do both: deliver the elevator pitch and demo the project. You do not need to use the entire 5 min. That way you'll have more time for feedback.
-  * The remaining time will be used for the rest of your breakout group to give you feedback.
+  * You will have up to 5 min to deliver your elevator pitch and demo your project. You do not need to use the entire 5 min. That way you'll have more time for feedback.
+  * The remaining time will be used for the rest of your group to give you feedback.
   * The focus is on the actual artifact\(s\) you are creating and nothing else.
   * **Do NOT create a supporting presentation.**
 * Also, make sure to also document your prototype\(s\) on your [process website](../website.md) by creating post\(s\) which contain the link\(s\), photo\(s\), and/or video\(s\) of your prototype\(s\). More details below about demoing.
 
 ## **Midterm Project Demo Setup**
 
-* All four sections will be meeting together in one Airmeet. There will be 14 tables of groups of 4 & 5.
+* All four sections will be meeting together in one Airmeet. There will be 11 tables of groups of 5 or 6.
 * Faculty and any "outside of our class" critics may or may not table hop.
 * Each Airmeet table will be assigned a student timekeeper, chat monitor, and a student to take screenshots of the chat.
-  * Once you see the assignments and you are uncomfortable with being either the timekeeper, chat monitor, or with taking screenshots let me know.
+  * Once you see the assignments and you are uncomfortable with being either the timekeeper, chat monitor, or with taking screenshots let the faculty know.
 * Every student should have 14 min total to be fair. 
-* Each student should present for up to 5 min and have the remaining time for feedback for a total of 14 min.
+* Recap: Each student should present for up to 5 min and have the remaining time for feedback for a total of 14 min.
 
 ## Reminders
 
-* You should **look at your group's padlet BEFORE Monday of everyone in your group**. 
+* You should **look at and comment on your group's padlet BEFORE Monday at 2pm of everyone in your group**. 
 * Make sure you do not use a presentation to describe your project.
 * Make sure you present the prototype\(s\) itself.
 * Make sure your elevator pitch is just that. Short. 1 to 2 sentences maximum.
 * Make sure you spend the bulk of your 5 min presenting your prototype\(s\).
 * Make sure you share your screen when you are presenting your prototype\(s\).
+  * Make sure you select fullscreen on padlet to show your prototype\(s\).
 * Use your entire 14 min. If students are not giving you feedback, ask them questions you are currently grappling with.
 * Give feedback to everybody at your table if at all possible.
 * Do not just let the IDM grad student\(s\) or faculty talk.
@@ -86,7 +87,7 @@
 
 ## **Giving feedback**
 
-Please post any resources or references you suggest to your classmates in our slack channel or direct message students in the other section or post a comment on padlet.
+Please share any resources or references you suggest to your group and other senior project students on padlet.
 
 ## Invite guests
 
