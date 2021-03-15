@@ -22,7 +22,7 @@
 
 ## **Midterm Project Roles**
 
-* IF you have been assigned a timekeeper or chat moderator and you are HIGHLY uncomfortable in doing so, please let me know ASAP. However, I want all students to participate actively during our midterm project demos.
+* IF you have been assigned a **timekeeper** or **chat moderator** and you are HIGHLY uncomfortable in doing so, please let me know ASAP. However, I want all students to participate actively during our midterm project demos.
 
 ## **Midterm Project Demo**
 
