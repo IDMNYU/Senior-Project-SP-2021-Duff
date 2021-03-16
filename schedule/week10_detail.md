@@ -22,5 +22,6 @@
 ## Class
 
 * Tentative Guest: Lauren Blake \(IDM 2020\)
+* Discuss Leslie eLab: [https://entrepreneur.nyu.edu/resource/leslie-elab/](https://entrepreneur.nyu.edu/resource/leslie-elab/)
 * Class Critique: [Pro Practices Material Revisions](../end_of_semester_deliverables/pro_practices_revisions.md)
 
