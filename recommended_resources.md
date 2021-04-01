@@ -63,13 +63,24 @@
 * [Influence: The Psychology of Persuasion](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X/ref=sr_1_4?s=books&ie=UTF8&qid=1516674402&sr=1-4&keywords=influence) by Robert B. Cialdini
 * [How To Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E/ref=sr_1_3?s=books&ie=UTF8&qid=1516674757&sr=1-3&keywords=dale+carnegie) by Dale Carnegie
 
+## Salaries
+
+* [Design X](https://salary.design/?utm_source=newsletter&utm_medium=email&utm_campaign=weekly_digest_of_community_conversations_resources_jobs&utm_term=2021-04-01)  
+* [Design Census](https://designcensus.org/)
+* [Glassdoor](https://www.glassdoor.com/index.htm)
+
 ## Branding
 
 * [Zag: The Number One Strategy of High-Performance Brands](https://www.amazon.com/Zag-Number-Strategy-High-Performance-Brands/dp/0321426770/ref=sr_1_3?ie=UTF8&qid=1516833998&sr=8-3&keywords=marty+neumeier) by Marty Neumeier
 
-## Networking
+## Networking / Conferences
 
 * [Never Eat Alone](https://www.amazon.com/Never-Eat-Alone-Expanded-Updated/dp/B00H6JBFOS/ref=sr_1_1?s=books&ie=UTF8&qid=1516833304&sr=1-1&keywords=never+eat+alone) by Keith Ferrazzi
+* Conferences by Design X:
+  * [Remote Design Week](https://remotedesignweek.com/)
+  * [Design Leadership Summit](https://designleadership.io/summit-2019)
+  * [5to9 Conference](https://5to9.co/)
+  * [Ladders Conference](https://designx.community/ladders-conference/)
 
 ## Writing
 
