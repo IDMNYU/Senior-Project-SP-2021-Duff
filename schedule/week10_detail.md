@@ -15,13 +15,13 @@
   * [LinkedIn](https://stream.nyu.edu/media/Senior+Project+LinkedIn/1_678bu9ia) \(&lt; 4 min video\)
   * [Resumes](https://stream.nyu.edu/media/Senior+Project+Resume/1_0b28s5fz) \(&lt; 7 min video\)
   * [Cover Letters](https://stream.nyu.edu/media/Senior+Project+Cover+Letters/1_36vlce7a) \(&lt; 7 min video\)
-  * Revise [Pro Practices material](../end_of_semester_deliverables/pro_practices_revisions.md).
+* Revise your [Pro Practices material](../end_of_semester_deliverables/pro_practices_revisions.md).
 * Continue to iterate the [prototype\(s\)](../project_plan/) of your project, [develop the project itself, and iterate the research, design, resources, and milestones](../project_plan/) of your project as needed.
 * Continue to document your process and artifacts \(the thing\(s\) itself\) on your [process website](../website.md).
 
 ## Class
 
-* Tentative Guest: Lauren Blake \(IDM 2020\)
+* Guest: Lauren Blake \(IDM 2020\)
 * Discuss Leslie eLab: [https://entrepreneur.nyu.edu/resource/leslie-elab/](https://entrepreneur.nyu.edu/resource/leslie-elab/)
 * Class Critique: [Pro Practices Material Revisions](../end_of_semester_deliverables/pro_practices_revisions.md)
 
