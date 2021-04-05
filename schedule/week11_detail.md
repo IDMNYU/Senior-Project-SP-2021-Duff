@@ -3,16 +3,12 @@
 ## Deliverables \(DUE ON DATE LISTED\)
 
 * Make sure you continue to check-in with your [accountability team](../assignments/accountability_partner.md) and document it on the [process website](../website.md).
-* Prepare for your [project presentation](../critiques-demos-presentations-and-exhibition/project-presentation.md).
 * Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../project_plan/) of your project as needed.
 * Continue to document your process and artifacts \(the thing\(s\) itself\) on your [process website](../website.md).
-* Work on your [process pdf](../end_of_semester_deliverables/pdf_or_book.md).
 
 ## Class
 
-* Check in
-* [Project Presentations](../critiques-demos-presentations-and-exhibition/project-presentation.md)
-* [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) of [Beta Version](../project_plan/project_versions.md) or Revision \(if applicable\)
-* Work on your [process pdf](../end_of_semester_deliverables/pdf_or_book.md) during class
-* Check out
+* We're going to meet again on the Airmeet platform so you can sit at virtual tables with your A-team while I meet with half of the class one on one at another virtual table on the platform. You can find the airmeet link in the google calendar invite as well as pinned on slack.
+* Individual Meetings. See schedule pinned on slack. If we're meeting before or after class you were sent a google calendar invite. If we're meeting DURING class, you will NOT receive a calendar invite.
+* Check-in with your accountability team and share you
 
