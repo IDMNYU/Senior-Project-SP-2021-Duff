@@ -10,6 +10,8 @@
 
 ## Class
 
-* [Project Presentations](../critiques-demos-presentations-and-exhibition/project-presentation.md)
+* Check-in
+* [Project Presentations](../critiques-demos-presentations-and-exhibition/project-presentation.md) continued
 * [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) of [Beta Version](../project_plan/project_versions.md) or Revision \(if applicable\)
+* Check-out
 
