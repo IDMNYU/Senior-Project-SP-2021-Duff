@@ -17,5 +17,6 @@ OLD: You should already have the following. Just drag and drop in the folder if 
 * [Pro Practices Revisions](pro_practices_revisions.md): sample cover letter and resume
 * [Midterm Self-assessment](midterm_self_assessment.md) pdf
 * [Project Presentation](../critiques-demos-presentations-and-exhibition/project-presentation.md) \(if applicable\)
-* [Process](pdf_or_book.md) pdf
+
+
 
