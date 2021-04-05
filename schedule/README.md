@@ -129,8 +129,7 @@
     </tr>
     <tr>
       <td style="text-align:left">11</td>
-      <td style="text-align:left"><a href="week11_detail.md">Mon Apr 12</a>
-      </td>
+      <td style="text-align:left">Mon Apr 12</td>
       <td style="text-align:left">Project Presentations Round 1</td>
     </tr>
     <tr>

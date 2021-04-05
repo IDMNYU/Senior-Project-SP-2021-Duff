@@ -2,9 +2,19 @@
 
 ![You Got This! Illustration by Jolby from gettoworkbook](../.gitbook/assets/gettoworkbook_-you-got-this.jpg)
 
- **May 2020, Exact Date & Time TBD** 
+ **May 11, 2020, Exact Time TBD** 
 
-Attendance is MANDATORY for the entire duration of the showcase!!
+Participation is MANDATORY for the end of semester showcase!!
+
+At a minimum providing us with the following materials by the end of the month:
+
+1\) A one minute video that explains their project   
+2\) a URL to view the project \(can be a video link, documentation, live site, etc\)   
+3\) an image that represents the project \(can be of the thing itself, a graphic treatment, etc\)   
+4\) text describing the project   
+5\) project title
+
+Students may also submit additional media- images, videos- as appropriate.
 
 Your senior project will be publicly shown in the IDM showcase at the end of the semester \(date to be determined\). Exhibiting your work is truly a gift of accomplishment, response, and feedback.
 
