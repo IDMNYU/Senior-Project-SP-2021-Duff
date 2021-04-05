@@ -1,5 +1,7 @@
 # Process pdf
 
+## To remove some of the pressure of end of semester deliverables & due to the pandemic, this will not be required this semester.
+
 I suggest using **Adobe InDesign** to compile this, but you can use other programs if you choose to do so.
 
 I would use the [project plan](../project_plan/) _as a guideline_ for the structure of this pdf or book, and your process website, project demos, and project presentations for content. This pdf or book should illustrate and describe your project process over the course of the semester. Include details of how you did research, design, prototyping, and development. Also discuss how your project changed directions along the way and what you learned over the course of the semester. Include descriptions and images of your project at various stages \(prototypes and versions\) and an image of your final project. You should also consider layout and design elements of the pdf or book.
