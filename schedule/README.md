@@ -144,7 +144,7 @@
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left">Fri Apr 23</td>
-      <td style="text-align:left">Here&apos;s <a href="https://sites.google.com/nyu.edu/idmshow">additional info about the requirements</a> and
+      <td style="text-align:left"><b>IDM Student Showcase Submission Due<br /></b>Here&apos;s <a href="https://sites.google.com/nyu.edu/idmshow">additional info about the requirements</a> and
         <a
         href="https://sites.google.com/nyu.edu/idmshow/submission-form?authuser=0">a form to sign up for opening night</a>which is a requirement for this
           class. As we discussed, the student showcase is a part of your grade. You
@@ -176,7 +176,7 @@
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left">TBD</td>
-      <td style="text-align:left"><b>IDM Student Showcase Submissions DUE<br />Course Evaluations DUE</b>
+      <td style="text-align:left"><b><br />Course Evaluations DUE</b>
       </td>
     </tr>
     <tr>
