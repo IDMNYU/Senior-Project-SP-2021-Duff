@@ -176,7 +176,7 @@
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left">TBD</td>
-      <td style="text-align:left"><b><br />Course Evaluations DUE</b>
+      <td style="text-align:left"><b>Course Evaluations DUE</b>
       </td>
     </tr>
     <tr>
