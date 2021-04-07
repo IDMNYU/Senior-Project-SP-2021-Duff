@@ -8,7 +8,7 @@ Participation is MANDATORY for the end-of-semester showcase!!
 
 At a minimum, the following materials are due on **April 23, 2021**:
 
-1\) A one minute video that explains their project   
+1\) A one to two minute video that explains your project   
 2\) a URL to view the project \(can be a video link, documentation, live site, etc\)   
 3\) an image that represents the project \(can be of the thing itself, a graphic treatment, etc\)   
 4\) text describing the project   
