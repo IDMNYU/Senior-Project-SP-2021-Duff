@@ -104,7 +104,21 @@ _**Creative Commons Video**_
 
 {% embed url="http://archive.org" %}
 
+_**Icons**_
 
+{% embed url="https://thenounproject.com" %}
+
+{% embed url="https://www.flaticon.com" %}
+
+_**Graphics**_
+
+{% embed url="https://www.freepik.com" %}
+
+**Slides**
+
+{% embed url="https://slidesgo.com" %}
+
+\*\*\*\*
 
 ## Inspiration
 
