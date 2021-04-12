@@ -129,8 +129,11 @@
     </tr>
     <tr>
       <td style="text-align:left">11</td>
-      <td style="text-align:left">Mon Apr 12</td>
-      <td style="text-align:left">Project Presentations Round 1</td>
+      <td style="text-align:left"><a href="week11_detail.md">Mon Apr 12</a>
+      </td>
+      <td style="text-align:left">One on Ones for half of class / Accountability Teams in Airmeet. The other
+        half of class will meet with me before or after class. Check slack for
+        times.</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -139,46 +142,58 @@
       </td>
     </tr>
     <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Fri Apr 23</td>
+      <td style="text-align:left"><b>IDM Student Showcase Submission Due<br /></b>Here&apos;s <a href="https://sites.google.com/nyu.edu/idmshow">additional info about the requirements</a> and
+        <a
+        href="https://sites.google.com/nyu.edu/idmshow/submission-form?authuser=0">a form to sign up for opening night</a>which is a requirement for this
+          class. As we discussed, the student showcase is a part of your grade. You
+          can see submissions from last semester here: <a href="http://idm.show/F2020/">http://idm.show/F2020/</a>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left">12</td>
-      <td style="text-align:left">Mon Apr 26</td>
-      <td style="text-align:left">Project Presentations Round 1 continued</td>
+      <td style="text-align:left"><a href="week12_detail.md">Mon Apr 26</a>
+      </td>
+      <td style="text-align:left">Project Presentations</td>
     </tr>
     <tr>
       <td style="text-align:left">13</td>
-      <td style="text-align:left">Mon May 03</td>
-      <td style="text-align:left">Project Presentation Revisions</td>
+      <td style="text-align:left"><a href="week13_detail.md">Mon May 03</a>
+      </td>
+      <td style="text-align:left">Project Presentations Continued / Revisions</td>
     </tr>
     <tr>
-      <td style="text-align:left">14</td>
-      <td style="text-align:left">Mon May 10</td>
+      <td style="text-align:left"><a href="week14_detail.md">14</a>
+      </td>
+      <td style="text-align:left"><a href="week14_detail.md">Mon May 10</a>
+      </td>
       <td style="text-align:left"><b>LAST DAY OF SPRING 2021 CLASSES<br /></b>Project Presentation Revisions
         continued</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left">Tue May 11</td>
-      <td style="text-align:left"><b>NYU Reading Day </b>
+      <td style="text-align:left"><a href="../critiques-demos-presentations-and-exhibition/idm_showcase.md">Tue May 11</a>
+      </td>
+      <td style="text-align:left"><b>IDM Student Showcase (Opening Night) / Reading Day</b>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left">TBD</td>
-      <td style="text-align:left">
-        <p><b>IDM Student Showcase Submissions DUE</b>
-        </p>
-        <p><b>IDM Student Showcase<br />Course Evaluations DUE</b>
-        </p>
+      <td style="text-align:left"><b>Course Evaluations DUE</b>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">15</td>
-      <td style="text-align:left">Wed May 12-Tue May 18</td>
+      <td style="text-align:left"><a href="week15_detail.md">Wed May 12-Tue May 18</a>
+      </td>
       <td style="text-align:left">
         <p> <b>Final One On One Review</b>
         </p>
         <ul>
           <li>Will be conducted via Zoom</li>
-          <li>Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a>.</li>
+          <li>Schedule 15 minutes ONLY at <a href="https://calendly.com/deangela/15min">https://calendly.com/deangela/15min</a>.</li>
           <li><a href="../end_of_semester_deliverables/final_self_assessment.md"><b>Final Self Assessment</b></a> (Direct
             message as pdf to deangela on slack BEFORE your meeting).</li>
           <li><a href="../end_of_semester_deliverables/">End of Semester Deliverables</a> DUE</li>
