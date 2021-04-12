@@ -155,7 +155,7 @@
       <td style="text-align:left">12</td>
       <td style="text-align:left"><a href="week12_detail.md">Mon Apr 26</a>
       </td>
-      <td style="text-align:left">Project Presentations</td>
+      <td style="text-align:left">Project Presentations (All students should be prepared to go today.)</td>
     </tr>
     <tr>
       <td style="text-align:left">13</td>
