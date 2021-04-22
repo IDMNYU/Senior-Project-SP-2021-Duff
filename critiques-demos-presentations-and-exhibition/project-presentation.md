@@ -19,8 +19,8 @@
 
 Each presentation will consist of:
 
-* 7 minutes of presentation and 
-* 7 minutes of Q&A
+* 7 minutes of presentation \(to include watching your 1-min IDM showcase video\) and 
+* 7 minutes of feedback and Q&A
 
   \(or a combination thereof\)
 
@@ -32,7 +32,7 @@ It is the responsibility of each senior to invite an outside critic to _at least
 
 ## Document your feedback
 
-Always document any feedback you receive on your [process website]() after any critique. This critique feedback post should include images of the current status of your project \(prototype or version\), a description of your project progress as it currently stands and discussion of the feedback your received from the critique. How will this feedback improve your work and ideas?
+Always document any feedback you receive on your [process website](../website.md) after any critique. This critique feedback post should include images of the current status of your project \(prototype or version\), a description of your project progress as it currently stands, and discussion of the feedback your received from the critique. How will this feedback improve your work and ideas?
 
 
 
