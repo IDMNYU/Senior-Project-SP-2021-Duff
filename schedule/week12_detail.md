@@ -10,7 +10,7 @@
 
 ## Class
 
-* 1-min videos
+* 1-min video reviews
 
   * Gina
   * Idriss

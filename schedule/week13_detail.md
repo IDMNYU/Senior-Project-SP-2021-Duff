@@ -9,6 +9,12 @@
 
 ## Class
 
+* 1 min video reviews:
+  * Justin
+  * Ibtida
+  * Morgan
+  * Chico
+  * Curtis
 * [Project Presentations](../critiques-demos-presentations-and-exhibition/project-presentation.md) continued
 * [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) of [Beta Version](../project_plan/project_versions.md) or Revision \(if applicable\)
 * Discuss: 
