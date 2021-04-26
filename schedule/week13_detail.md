@@ -5,12 +5,12 @@
 * Make sure you continue to check-in with your [accountability team](../assignments/accountability_partner.md) and document it on the [process website](../website.md).
 * Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../project_plan/) of your project as needed.
 * Continue to document your process and artifacts \(the thing\(s\) itself\) on your [process website](../website.md).
-* \(If applicable\) revised your 1 minute video for the IDM showcase
+* \(If applicable\) revised your 1-minute video for the IDM showcase
 * Continue to work on your [process pdf](../end_of_semester_deliverables/pdf_or_book.md).
 
 ## Class
 
-* 1 min video reviews:
+* 1-minute video reviews:
   * Justin
   * Ibtida
   * Morgan
