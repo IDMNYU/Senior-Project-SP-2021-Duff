@@ -9,7 +9,7 @@
 
 ## Class
 
-* 1-minute video reviews:
+* 1-min video reviews & class critique
   * Justin
   * Ibtida
   * Morgan

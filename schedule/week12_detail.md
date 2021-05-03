@@ -10,7 +10,7 @@
 
 ## Class
 
-* 1-min video reviews
+* 1-min video reviews & class critique
 
   * Gina
   * Idriss
@@ -24,7 +24,7 @@
   * Jessica
   * Loki
 
-* [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) of [Beta Version](../project_plan/project_versions.md) or Revision \(if applicable\)
+* [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) of [Beta Version](../project_plan/project_versions.md) & Class Critique
   * Idriss
   * Rudhi
 

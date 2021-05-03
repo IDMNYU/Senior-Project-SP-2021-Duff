@@ -1,6 +1,6 @@
 # Process pdf
 
-## To remove some of the pressure of end of semester deliverables & due to the pandemic, this will not be required this semester.
+> ## To remove some of the stress & pressure of end of semester deliverables & due to the pandemic, this will not be required this semester.
 
 I suggest using **Adobe InDesign** to compile this, but you can use other programs if you choose to do so.
 

@@ -35,7 +35,7 @@ I've created some very short videos talking about 2 to 3 students' pro practices
 * [Cover Letters](https://stream.nyu.edu/media/Senior+Project+Cover+Letters/1_36vlce7a)
 * [Career Resources](https://stream.nyu.edu/media/Senior+Project+Career+Resources/1_9kyp6fsm)
 
-## Professional Practices Resources
+## [Career Preparation Resources](https://app.gitbook.com/@deangela/s/idm-senior-project-sp-2021-duff/recommended_resources)
 
 \_\_
 
