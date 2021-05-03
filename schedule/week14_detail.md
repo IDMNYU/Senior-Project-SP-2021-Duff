@@ -9,7 +9,6 @@
 
 ## Class
 
-* Check-in
 * Review Events on [Master Schedule](./)
 * Discussion:
   * [Course Evaluation](../assignments/course_evaluation.md) Check-in 
