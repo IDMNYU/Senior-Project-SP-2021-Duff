@@ -35,7 +35,8 @@ As a student, you should also develop your critical thinking skills. This will i
 * Feedback on senior project communication \(gitbook and slack\)
 * Feedback on the senior project course content \(project, assignments, readings, etc.\)
 * Feedback on the senior project course structure \(presentations, group critiques, demos, one on one meetings, accountability partners, etc\)
-* Feedback on **senior project** remote instruction \(including feedback videos and check-in/check-out exercise\).
+* Feedback on senior project remote instruction.
+* Feedback on Airmeet for senior project and our accountability group meetings.
 * What change\(s\) would you make to senior project and why?
 * What change\(s\) would you make to remote instruction for senior project and why?
 * What resources have you found to be specifically helpful to you for this course? And why?
