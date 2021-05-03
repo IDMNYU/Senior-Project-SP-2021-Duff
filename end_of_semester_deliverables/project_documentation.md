@@ -2,7 +2,7 @@
 
 Upload to a a folder labeled "Project Documentation" for your [end of semester deliverables](./).
 
-Photo documentation \(for all students\)
+Image documentation \(for all students\)
 
 * _**at least**_ 1 to 3, hi-res images of your project \(RAW preferably or 300dpi\)
 
