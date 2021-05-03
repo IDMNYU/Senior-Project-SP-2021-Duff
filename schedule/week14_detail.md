@@ -7,6 +7,7 @@
 * Continue to document your process and artifacts \(the thing\(s\) itself\) on your [process website](../website.md).
 * Revise your 1-min video for the [IDM showcase](../critiques-demos-presentations-and-exhibition/idm_showcase.md) if needed
 * Revise your project info on [Miro](https://miro.com/app/board/o9J_lUislM0=/), particularly your elevator pitch. 
+* If you haven't done so already, please schedule your final [one-on-one](week15_detail.md). _Thank you so much if you already have!_
 
 ## Class
 
