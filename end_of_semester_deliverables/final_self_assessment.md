@@ -39,7 +39,7 @@ As a student, you should also develop your critical thinking skills. This will i
 
 * Was your accountability group useful to you this semester? If so, why? If not, why?
 * What would you do differently if you could begin again with your group?
-* Will you continue to reach out to your accountability group after graduation? Why or why not?
+* Will you keep in touch with members of your accountability group after graduation? Why or why not?
 
 **Of Classmates**
 
