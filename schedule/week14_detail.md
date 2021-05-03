@@ -5,6 +5,7 @@
 * Make sure you continue to check-in with your [accountability team](../assignments/accountability_partner.md) and document it on the [process website](../website.md).
 * Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../project_plan/) of your project as needed.
 * Continue to document your process and artifacts \(the thing\(s\) itself\) on your [process website](../website.md).
+* Revise your 1-min video for the [IDM showcase](../critiques-demos-presentations-and-exhibition/idm_showcase.md) if needed
 * Revise your project info on [Miro](https://miro.com/app/board/o9J_lUislM0=/), particularly your elevator pitch. 
 
 ## Class
