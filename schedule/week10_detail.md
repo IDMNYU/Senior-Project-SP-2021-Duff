@@ -22,9 +22,6 @@
 ## Class
 
 * Guest: [Lauren Blake](https://www.linkedin.com/in/lauren-michelle-blake/) \(IDM 2020\)
+* Discuss Leslie eLab: [https://entrepreneur.nyu.edu/resource/leslie-elab/](https://entrepreneur.nyu.edu/resource/leslie-elab/)
 * Class Critique: [Pro Practices Material Revisions](../end_of_semester_deliverables/pro_practices_revisions.md)
-* Discuss: 
-  * [Master Schedule](./)
-  * [IDM Showcase ](../critiques-demos-presentations-and-exhibition/idm_showcase.md)
-  * [End of Semester Deliverables](../end_of_semester_deliverables/)
 
