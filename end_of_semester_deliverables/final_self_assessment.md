@@ -11,8 +11,9 @@ As a student, you should also develop your critical thinking skills. This will i
 
 **Of Project**
 
-* Critically analyze/evaluate your senior project final **execution**.
-* What qualitative description would you give the **final execution** of your project so far and why? 
+Critically analyze/evaluate your senior project **final execution**.
+
+* What qualitative description would you give the final execution of your project so far and why? 
   *  \(i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.\)
 * Do your deliverables match your initial concept \(or last impact statement\)?
 * Did you do what you said you were going to do \(integrity, accountability\)?
@@ -21,7 +22,8 @@ As a student, you should also develop your critical thinking skills. This will i
 
 **Of Process**
 
-* Critically analyze/evaluate your senior project process**.**
+Critically analyze/evaluate your senior project **process.**
+
 * How did you approach your project? Did you focus on the forest \(entire project as a whole\) or the trees \(details\) at first? When did you transition to the other IF you did?
 * Did you manage your time properly?
 * Did you prioritize effectively?
@@ -35,11 +37,11 @@ As a student, you should also develop your critical thinking skills. This will i
 * If your growth is not where you would like it to be, what specific steps will you take to improve in the future?
 * What other things have you learned about yourself in this course?
 
-**Of Accountability Group**
+**Of Accountability Team**
 
-* Was your accountability group useful to you this semester? If so, why? If not, why?
-* What would you do differently if you could begin again with your group?
-* Will you keep in touch with members of your accountability group after graduation? Why or why not?
+* Was your A-Team useful to you this semester? Why or why not?
+* What would you do differently if you could begin again with your A-Team?
+* Will you keep in touch with members of your A-Team after graduation? Why or why not?
 
 **Of Classmates**
 
@@ -59,7 +61,7 @@ As a student, you should also develop your critical thinking skills. This will i
 
 **Of IDM Showcase**
 
-**Please note I will copy and paste all of your responses in one document, while keeping your anonymity in tact, and forward to the IDM Showcase organizers.**
+**Please note I will copy and paste all of your responses in one document, while keeping your anonymity intact, and forward to the IDM Showcase organizers.**
 
 * What worked? What didn't work? Ideas? Suggestions for Improvement? for the:
   * IDM showcase submission process
