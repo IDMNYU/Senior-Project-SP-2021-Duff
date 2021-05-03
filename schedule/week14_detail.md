@@ -14,7 +14,7 @@
   * Complete [Course Evaluation](../assignments/course_evaluation.md) if you haven't already done so. _\(Please try to do this before class if at all possible.\)_
 * Class Critique:
   * State Elevator Pitch
-  * Show [Gold Version](../project_plan/project_versions.md) of Project \(if applicable\)
+  * Show [Beta or Gold Version](../project_plan/project_versions.md) of Project
 * Review Events on [Master Schedule](./)
 * \(IF time\) 1-min video revision reviews & class critique
 
