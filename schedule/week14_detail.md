@@ -11,7 +11,7 @@
 ## Class
 
 * 10min
-  * Complete [Course Evaluation](../assignments/course_evaluation.md) if you haven't already done so. \(Please try to do this before class if at all possible.\)
+  * Complete [Course Evaluation](../assignments/course_evaluation.md) if you haven't already done so. _\(Please try to do this before class if at all possible.\)_
 * Class Critique:
   * State Elevator Pitch
   * Show [Gold Version](../project_plan/project_versions.md) of Project \(if applicable\)
