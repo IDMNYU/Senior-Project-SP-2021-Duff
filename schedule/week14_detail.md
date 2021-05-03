@@ -15,6 +15,5 @@
 * 10min Break
   * Complete [Course Evaluation](../assignments/course_evaluation.md) if you haven't done so. 
 * Class Critique:
-  * [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) of [Gold Version](../project_plan/project_versions.md) or Revision \(if applicable\)
-* Check-out
+  * Show [Gold Version](../project_plan/project_versions.md) of Project \(if applicable\)
 
