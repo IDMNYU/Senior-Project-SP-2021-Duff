@@ -4,7 +4,7 @@ Upload to a a folder labeled "Project Documentation" for your [end of semester d
 
 Photo documentation \(for all students\)
 
-* _**at least**_ 3, hi-res images of your project \(RAW preferably or 300dpi\)
+* _**at least**_ 1 to 3, hi-res images of your project \(RAW preferably or 300dpi\)
 
 Video and/or audio documentation \(varies by student\)
 

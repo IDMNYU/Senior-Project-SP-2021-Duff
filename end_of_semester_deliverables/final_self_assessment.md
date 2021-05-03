@@ -11,23 +11,13 @@ As a student, you should also develop your critical thinking skills. This will i
 
 **Of Project**
 
-* Critically analyze/evaluate your senior project final **execution**.
-* What qualitative description would you give the **final execution** of your project so far and why? 
-  *  \(i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.\)
+* Critically analyze/evaluate your senior project process and final **execution**.
+* What qualitative description would you give your overall **process** and why? \(i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.\)
+* What qualitative description would you give the final execution of your project so far and why?
 * Do your deliverables match your initial concept \(or last impact statement\)?
 * Did you do what you said you were going to do \(integrity, accountability\)?
 * Did you execute all aspects of your project by the best means possible \(craft and care\)?
 * Lessons Learned / What would you do differently if you could redo this project?
-
-**Of Process**
-
-* Critically analyze/evaluate your senior project process**.**
-* How did you approach your project? Did you focus on the forest \(entire project as a whole\) or the trees \(details\) at first? When did you transition to the other IF you did?
-* Did you manage your time properly?
-* Did you prioritize effectively?
-* What qualitative description would you give your overall **process** and why? 
-
-  * \(i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.\)
 
 **Of Self**
 
@@ -45,8 +35,7 @@ As a student, you should also develop your critical thinking skills. This will i
 * Feedback on senior project communication \(gitbook and slack\)
 * Feedback on the senior project course content \(project, assignments, readings, etc.\)
 * Feedback on the senior project course structure \(presentations, group critiques, demos, one on one meetings, accountability partners, etc\)
-* Feedback on senior project remote instruction.
-* Feedback on Airmeet for senior project in general and accountability group meetings in particular.
+* Feedback on **senior project** remote instruction \(including feedback videos and check-in/check-out exercise\).
 * What change\(s\) would you make to senior project and why?
 * What change\(s\) would you make to remote instruction for senior project and why?
 * What resources have you found to be specifically helpful to you for this course? And why?
