@@ -6,7 +6,6 @@
 * Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../project_plan/) of your project as needed.
 * Continue to document your process and artifacts \(the thing\(s\) itself\) on your [process website](../website.md).
 * \(If applicable\) revised your 1-minute video for the IDM showcase
-* Continue to work on your [process pdf](../end_of_semester_deliverables/pdf_or_book.md).
 
 ## Class
 
@@ -17,8 +16,10 @@
   * Chico
   * Curtis
   * Any revisions from last week?
-* [Project Presentations](../critiques-demos-presentations-and-exhibition/project-presentation.md) continued
 * [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) of [Beta Version](../project_plan/project_versions.md) or Revision \(if applicable\)
+  * Ibtida
+  * Chico
+  * Vanda
 * Discuss: 
   * [Master Schedule](./)
   * [IDM Showcase ](../critiques-demos-presentations-and-exhibition/idm_showcase.md)
