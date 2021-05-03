@@ -155,21 +155,21 @@
       <td style="text-align:left">12</td>
       <td style="text-align:left"><a href="week12_detail.md">Mon Apr 26</a>
       </td>
-      <td style="text-align:left">1-minute video reviews / Project Presentations (All students should be
-        prepared to go today.)</td>
+      <td style="text-align:left">Project Presentations (All students should be prepared to go today.)</td>
     </tr>
     <tr>
       <td style="text-align:left">13</td>
       <td style="text-align:left"><a href="week13_detail.md">Mon May 03</a>
       </td>
-      <td style="text-align:left">1-minute video reviews / Project Presentations Continued / Revisions</td>
+      <td style="text-align:left">Project Presentations Continued / Revisions</td>
     </tr>
     <tr>
       <td style="text-align:left"><a href="week14_detail.md">14</a>
       </td>
       <td style="text-align:left"><a href="week14_detail.md">Mon May 10</a>
       </td>
-      <td style="text-align:left"><b>LAST DAY OF SPRING 2021 CLASSES<br /></b>Final Projects</td>
+      <td style="text-align:left"><b>LAST DAY OF SPRING 2021 CLASSES<br /></b>Project Presentation Revisions
+        continued</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>

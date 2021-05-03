@@ -12,12 +12,24 @@ As a student, you should also develop your critical thinking skills. This will i
 **Of Project**
 
 * Critically analyze/evaluate your senior project process and final **execution**.
-* What qualitative description would you give your overall **process** and why? \(i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.\)
-* What qualitative description would you give the final execution of your project so far and why?
+* What qualitative description would you give your overall **process** and why? 
+  * \(i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.\)
+* What qualitative description would you give the **final execution** of your project so far and why? 
+  *  \(i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.\)
 * Do your deliverables match your initial concept \(or last impact statement\)?
 * Did you do what you said you were going to do \(integrity, accountability\)?
 * Did you execute all aspects of your project by the best means possible \(craft and care\)?
 * Lessons Learned / What would you do differently if you could redo this project?
+
+**Of Process**
+
+* Critically analyze/evaluate your senior project process**.**
+* How did you approach your project? Did you focus on the forest \(entire project as a whole\) or the trees \(details\) at first? When did you transition to the other IF you did?
+* Did you manage your time properly?
+* Did you prioritize effectively?
+* What qualitative description would you give your overall **process** and why? 
+
+  * \(i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.\)
 
 **Of Self**
 
