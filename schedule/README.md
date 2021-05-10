@@ -155,47 +155,34 @@
       <td style="text-align:left">12</td>
       <td style="text-align:left"><a href="week12_detail.md">Mon Apr 26</a>
       </td>
-      <td style="text-align:left">1-minute videos &amp; project feedback (All students should be prepared
-        to go today.)</td>
+      <td style="text-align:left">Project Presentations (All students should be prepared to go today.)</td>
     </tr>
     <tr>
       <td style="text-align:left">13</td>
       <td style="text-align:left"><a href="week13_detail.md">Mon May 03</a>
       </td>
-      <td style="text-align:left">1-minute videos &amp; project feedback continued / Revisions?</td>
+      <td style="text-align:left">Project Presentations Continued / Revisions</td>
     </tr>
     <tr>
       <td style="text-align:left"><a href="week14_detail.md">14</a>
       </td>
       <td style="text-align:left"><a href="week14_detail.md">Mon May 10</a>
       </td>
-      <td style="text-align:left"><b>LAST DAY OF SPRING 2021 CLASSES<br /></b>Final Projects</td>
+      <td style="text-align:left"><b>LAST DAY OF SPRING 2021 CLASSES<br /></b>Project Presentation Revisions
+        continued</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"><a href="../critiques-demos-presentations-and-exhibition/idm_showcase.md">Tue May 11</a>
       </td>
-      <td style="text-align:left">
-        <p><b>IDM Student Showcase (Opening Night) / Reading Day</b>
-        </p>
-        <p>&lt;b&gt;&lt;/b&gt;</p>
-        <p>&lt;b&gt;&lt;/b&gt;</p>
+      <td style="text-align:left"><b>IDM Student Showcase (Opening Night) / Reading Day</b>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><b>Tue May 11</b>
+      <td style="text-align:left">TBD</td>
+      <td style="text-align:left"><b>Course Evaluations DUE</b>
       </td>
-      <td style="text-align:left"><b>Course Evaluations</b>
-        <br />Thank you so very much to all of you who submitted your course evaluation
-        today or before. There&apos;s still 4 of you who need to submit them. It
-        is a small part of your grade. 2.5%. Check the <a href="../syllabus.md">syllabus</a>.
-        <br
-        />
-        <br />If we can get 100% submission, you will not need to send me proof that
-        you did it. If we don&apos;t get 100% submission, you&apos;ll need to direct
-        message me on Slack with a screenshot of the completion confirmation of
-        the course evaluation.</td>
     </tr>
     <tr>
       <td style="text-align:left">15</td>
@@ -211,13 +198,6 @@
             message as pdf to deangela on slack BEFORE your meeting).</li>
           <li><a href="../end_of_semester_deliverables/">End of Semester Deliverables</a> DUE</li>
         </ul>
-        <p>Here&apos;s the padlet to post a link to your final project so that your
-          classmates can have the opportunity to explore your projects more, give
-          you feedback, and leave comments: <a href="https://padlet.com/dd1849/spfinalprojects">https://padlet.com/dd1849/spfinalprojects</a>
-        </p>
-        <p>Please post your final project to the padlet by or before Wednesday morning,
-          May 12, at 10am. Please leave feedback for your classmates by or before
-          Wednesday morning of the following week, May 19 at 10am.</p>
         <p></p>
       </td>
     </tr>

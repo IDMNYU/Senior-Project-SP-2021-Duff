@@ -2,7 +2,7 @@
 
 ![You Got This! Illustration by Jolby from gettoworkbook](../.gitbook/assets/gettoworkbook_-you-got-this.jpg)
 
- **May 11, 2021, Exact Time TBD** 
+ **May 11, 2021, Exact Time 4-9:30pm EDT** 
 
 Participation is MANDATORY for the end-of-semester showcase!!
 
